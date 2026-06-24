@@ -1,4 +1,3 @@
-import { GoogleGenAI } from '@google/genai'
 import { mkdirSync, writeFileSync } from 'node:fs'
 import { dirname, resolve } from 'node:path'
 import { fileURLToPath } from 'node:url'
@@ -8,9 +7,13 @@ import type { Digest, DigestItem, DigestSection, DigestSource } from '../src/typ
 const root = resolve(dirname(fileURLToPath(import.meta.url)), '..')
 const DATA_DIR = resolve(root, 'data')
 
-// 可依 @google/genai 文件調整為當下建議的 grounded 模型
-const MODEL = process.env.GEMINI_MODEL ?? 'gemini-2.5-flash'
+const API_URL = 'https://openrouter.ai/api/v1/chat/completions'
+// 預設用免費 router（自動挑選可用免費模型，避免 slug 變動失效）；
+// 可用 OPENROUTER_MODEL 覆寫為固定 slug，例如 google/gemma-4-31b-it:free。
+const MODEL = process.env.OPENROUTER_MODEL ?? 'openrouter/free'
 const MAX_ITEMS = 5
+// 每次 web search 取回的結果數（OpenRouter web plugin / Exa）
+const MAX_RESULTS = 5
 const TIMEOUT_MS = 60_000
 const MAX_RETRIES = 3
 
@@ -28,13 +31,6 @@ function extractJson(text: string): unknown {
   return JSON.parse(raw.slice(start, end + 1))
 }
 
-function withTimeout<T>(p: Promise<T>, ms: number): Promise<T> {
-  return Promise.race([
-    p,
-    new Promise<T>((_, reject) => setTimeout(() => reject(new Error('timeout')), ms)),
-  ])
-}
-
 const sleep = (ms: number) => new Promise((r) => setTimeout(r, ms))
 
 interface RawItem {
@@ -43,74 +39,127 @@ interface RawItem {
   category?: string
 }
 
-// eslint-disable-next-line @typescript-eslint/no-explicit-any
-function groundingSources(candidate: any): {
-  byIndex: (DigestSource | null)[]
-  unique: DigestSource[]
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  supports: any[]
-} {
-  const metadata = candidate?.groundingMetadata
-  const chunks = metadata?.groundingChunks ?? []
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
-  const byIndex: (DigestSource | null)[] = chunks.map((c: any) =>
-    c?.web?.uri ? { title: c.web.title ?? c.web.uri, url: c.web.uri } : null,
-  )
-  const seen = new Set<string>()
-  const unique: DigestSource[] = []
-  for (const s of byIndex) {
-    if (s && !seen.has(s.url)) {
-      seen.add(s.url)
-      unique.push(s)
-    }
-  }
-  return { byIndex, unique, supports: metadata?.groundingSupports ?? [] }
+/** OpenRouter 回傳的 url_citation annotation（OpenAI Chat Completion 標準格式） */
+interface UrlCitation {
+  url: string
+  title?: string
+  content?: string
+  start_index?: number
+  end_index?: number
+}
+interface Annotation {
+  type: string
+  url_citation?: UrlCitation
+}
+interface ChatMessage {
+  content?: string | null
+  annotations?: Annotation[]
+}
+interface ChatResponse {
+  choices?: { message?: ChatMessage }[]
+  error?: { message?: string }
 }
 
-async function generateSection(ai: GoogleGenAI, meta: SectionMeta, date: string): Promise<DigestSection> {
+/** 從 annotations 取得去重後的來源清單，並保留原始 index 範圍以利對應到各則項目 */
+function collectSources(annotations: Annotation[]): {
+  ranges: { source: DigestSource; start: number; end: number }[]
+  unique: DigestSource[]
+} {
+  const ranges: { source: DigestSource; start: number; end: number }[] = []
+  const seen = new Set<string>()
+  const unique: DigestSource[] = []
+  for (const ann of annotations) {
+    const c = ann?.url_citation
+    if (ann?.type !== 'url_citation' || !c?.url) continue
+    const source: DigestSource = { title: c.title ?? c.url, url: c.url }
+    ranges.push({
+      source,
+      start: typeof c.start_index === 'number' ? c.start_index : -1,
+      end: typeof c.end_index === 'number' ? c.end_index : -1,
+    })
+    if (!seen.has(source.url)) {
+      seen.add(source.url)
+      unique.push(source)
+    }
+  }
+  return { ranges, unique }
+}
+
+async function callOpenRouter(apiKey: string, prompt: string): Promise<ChatMessage> {
+  const controller = new AbortController()
+  const timer = setTimeout(() => controller.abort(), TIMEOUT_MS)
+  try {
+    const res = await fetch(API_URL, {
+      method: 'POST',
+      signal: controller.signal,
+      headers: {
+        Authorization: `Bearer ${apiKey}`,
+        'Content-Type': 'application/json',
+        // OpenRouter 建議帶上來源識別（非必填）
+        'HTTP-Referer': 'https://github.com/claude-loop',
+        'X-Title': 'Daily Digest',
+      },
+      body: JSON.stringify({
+        model: MODEL,
+        messages: [{ role: 'user', content: prompt }],
+        // web plugin：對任何模型皆有效，回傳標準化的 url_citation annotations
+        plugins: [{ id: 'web', max_results: MAX_RESULTS }],
+        temperature: 0.3,
+      }),
+    })
+    if (!res.ok) {
+      const body = await res.text().catch(() => '')
+      throw new Error(`HTTP ${res.status} ${res.statusText}${body ? `：${body.slice(0, 300)}` : ''}`)
+    }
+    const data = (await res.json()) as ChatResponse
+    if (data.error) throw new Error(data.error.message ?? 'OpenRouter 回傳錯誤')
+    const message = data.choices?.[0]?.message
+    if (!message) throw new Error('回應缺少 choices[0].message')
+    return message
+  } finally {
+    clearTimeout(timer)
+  }
+}
+
+async function generateSection(apiKey: string, meta: SectionMeta, date: string): Promise<DigestSection> {
   const prompt =
     `今天是 ${date}（台北時間）。請用繁體中文，針對「${meta.title}」版面，` +
-    `透過 Google 搜尋彙整當日最重要的新聞，最多 ${MAX_ITEMS} 則。主題範圍：${meta.topic}。\n` +
+    `透過網路搜尋彙整當日最重要的新聞，最多 ${MAX_ITEMS} 則。主題範圍：${meta.topic}。\n` +
     `請只輸出 JSON（不要任何其他文字），格式為：\n` +
     `{"items":[{"title":"標題","summary":"2-3 句中文摘要","category":"分類標籤"}]}`
 
   let lastErr: unknown
   for (let attempt = 1; attempt <= MAX_RETRIES; attempt++) {
     try {
-      const res = await withTimeout(
-        ai.models.generateContent({
-          model: MODEL,
-          contents: prompt,
-          config: { tools: [{ googleSearch: {} }] },
-        }),
-        TIMEOUT_MS,
-      )
-
-      const text = res.text ?? ''
+      const message = await callOpenRouter(apiKey, prompt)
+      const text = message.content ?? ''
       const parsed = extractJson(text) as { items?: RawItem[] }
       const rawItems = (parsed.items ?? []).slice(0, MAX_ITEMS)
 
-      const candidate = res.candidates?.[0]
-      const { byIndex, unique, supports } = groundingSources(candidate)
+      const { ranges, unique } = collectSources(message.annotations ?? [])
 
       // 整版皆無可考究來源 → 標記為空（不杜撰來源）
       if (unique.length === 0) {
         return { id: meta.id, title: meta.title, status: 'empty', items: [] }
       }
 
-      // 嘗試將 grounding supports 的文字段落對應到各則項目，取得較精準的來源；
-      // 對應不到時退回整版來源（仍皆來自 grounding metadata，可考究）。
+      // 嘗試以 annotation 的 index 範圍對應到各則項目（找出該項目文字在回應中的位置區間，
+      // 取與之重疊的引用來源）；對應不到時退回整版來源（仍皆來自 annotations，可考究）。
       const sourcesForText = (textValue: string): DigestSource[] => {
-        const idxs = new Set<number>()
-        for (const sup of supports) {
-          const seg: string = sup?.segment?.text ?? ''
-          if (seg && (textValue.includes(seg) || seg.includes(textValue.slice(0, 24)))) {
-            for (const i of sup?.groundingChunkIndices ?? []) idxs.add(i)
+        const idx = text.indexOf(textValue.slice(0, 24))
+        if (idx === -1) return unique
+        const itemStart = idx
+        const itemEnd = idx + textValue.length
+        const seen = new Set<string>()
+        const picked: DigestSource[] = []
+        for (const r of ranges) {
+          if (r.start < 0 || r.end < 0) continue
+          const overlaps = r.start <= itemEnd && r.end >= itemStart
+          if (overlaps && !seen.has(r.source.url)) {
+            seen.add(r.source.url)
+            picked.push(r.source)
           }
         }
-        const picked = [...idxs]
-          .map((i) => byIndex[i])
-          .filter((s): s is DigestSource => !!s)
         return picked.length ? picked : unique
       }
 
@@ -138,21 +187,21 @@ async function generateSection(ai: GoogleGenAI, meta: SectionMeta, date: string)
 }
 
 async function main() {
-  const apiKey = process.env.GEMINI_API_KEY
+  const apiKey = process.env.OPENROUTER_API_KEY
   if (!apiKey) {
-    console.error('缺少 GEMINI_API_KEY 環境變數')
+    console.error('缺少 OPENROUTER_API_KEY 環境變數')
     process.exit(1)
   }
 
-  const ai = new GoogleGenAI({ apiKey })
   const date = taipeiDate()
+  console.log(`使用模型：${MODEL}`)
 
   const sections: DigestSection[] = []
   let okCount = 0
 
   for (const meta of SECTIONS) {
     try {
-      const section = await generateSection(ai, meta, date)
+      const section = await generateSection(apiKey, meta, date)
       sections.push(section)
       if (section.status === 'ok') okCount++
       console.log(`[${meta.id}] ${section.status}（${section.items.length} 則）`)

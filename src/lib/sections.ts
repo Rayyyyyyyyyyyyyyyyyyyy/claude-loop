@@ -3,7 +3,7 @@ import type { SectionId } from '../types/digest'
 export interface SectionMeta {
   id: SectionId
   title: string
-  /** 給 Gemini 的主題範圍描述 */
+  /** 給模型的主題範圍描述 */
   topic: string
 }
 

@@ -10,7 +10,7 @@ import { RouterLink, RouterView } from 'vue-router'
         <RouterLink to="/">今日</RouterLink>
         <RouterLink to="/archive">歷史歸檔</RouterLink>
       </nav>
-      <p class="masthead-note">本日報由 AI（Gemini + Google Search）自動彙整，每則內容皆附可考究來源，請自行查證。</p>
+      <p class="masthead-note">本日報由 AI（OpenRouter + 網路搜尋）自動彙整，每則內容皆附可考究來源，請自行查證。</p>
     </header>
 
     <main class="content">

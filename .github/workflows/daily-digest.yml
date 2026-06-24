@@ -38,7 +38,9 @@ jobs:
       # 產生失敗（四版面皆無內容）會以非零 exit code 結束，後續 commit/build/deploy 不執行，線上維持前一版
       - name: Generate digest
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          # 可選：覆寫預設模型（預設為 openrouter/free）
+          OPENROUTER_MODEL: ${{ vars.OPENROUTER_MODEL }}
         run: yarn generate
 
       - name: Commit data

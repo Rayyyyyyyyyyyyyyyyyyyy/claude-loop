@@ -10,7 +10,6 @@
     "generate": "tsx scripts/generate-digest.ts"
   },
   "dependencies": {
-    "@google/genai": "^2.10.0",
     "pinia": "^3.0.4",
     "vue": "^3.5.38",
     "vue-router": "4"
