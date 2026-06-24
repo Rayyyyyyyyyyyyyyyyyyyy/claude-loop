@@ -1,0 +1,73 @@
+{
+  "date": "2026-06-24",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "ok",
+      "items": [
+        {
+          "title": "（範例）大型語言模型推論成本持續下探",
+          "summary": "這是供本機開發與預渲染測試用的範例內容。實際內容會由 GitHub Actions 每日呼叫 Gemini 自動產生。",
+          "category": "人工智慧",
+          "sources": [
+            { "title": "範例來源 A", "url": "https://example.com/ai-1" }
+          ]
+        },
+        {
+          "title": "（範例）半導體先進製程產能擴張",
+          "summary": "範例摘要。正式上線後此處為當日實際彙整的新聞摘要，並附 grounding 來源。",
+          "category": "半導體",
+          "sources": [
+            { "title": "範例來源 B", "url": "https://example.com/ai-2" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "ok",
+      "items": [
+        {
+          "title": "（範例）國際重大要聞一則",
+          "summary": "範例摘要內容，用於驗證版面排列與樣式。",
+          "category": "國際",
+          "sources": [
+            { "title": "範例來源 C", "url": "https://example.com/general-1" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "ok",
+      "items": [
+        {
+          "title": "（範例）主要股市與總經數據摘要",
+          "summary": "範例摘要內容，用於驗證版面排列與樣式。",
+          "category": "市場",
+          "sources": [
+            { "title": "範例來源 D", "url": "https://example.com/finance-1" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "（範例）台灣本地時事一則",
+          "summary": "範例摘要內容，用於驗證版面排列與樣式。",
+          "category": "在地",
+          "sources": [
+            { "title": "範例來源 E", "url": "https://example.com/taiwan-1" }
+          ]
+        }
+      ]
+    }
+  ]
+}
