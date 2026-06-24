@@ -4,25 +4,9 @@
     {
       "id": "ai-tech",
       "title": "AI / 科技",
-      "status": "ok",
-      "items": [
-        {
-          "title": "（範例）大型語言模型推論成本持續下探",
-          "summary": "這是供本機開發與預渲染測試用的範例內容。實際內容會由 GitHub Actions 每日呼叫 Gemini 自動產生。",
-          "category": "人工智慧",
-          "sources": [
-            { "title": "範例來源 A", "url": "https://example.com/ai-1" }
-          ]
-        },
-        {
-          "title": "（範例）半導體先進製程產能擴張",
-          "summary": "範例摘要。正式上線後此處為當日實際彙整的新聞摘要，並附 grounding 來源。",
-          "category": "半導體",
-          "sources": [
-            { "title": "範例來源 B", "url": "https://example.com/ai-2" }
-          ]
-        }
-      ]
+      "status": "error",
+      "items": [],
+      "error": "{\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
     },
     {
       "id": "general",
@@ -30,11 +14,66 @@
       "status": "ok",
       "items": [
         {
-          "title": "（範例）國際重大要聞一則",
-          "summary": "範例摘要內容，用於驗證版面排列與樣式。",
-          "category": "國際",
+          "title": "美國參議院通過決議限制總統對伊朗軍事行動",
+          "summary": "美國參議院於2026年6月23日以50票贊成對48票反對的微弱優勢，通過一項旨在限制總統未經國會授權對伊朗採取軍事行動的決議，儘管白宮聲稱此類決議違憲。該決議標誌著國會對總統戰爭權力的制衡努力，但實際法律效力仍存在爭議，且可能影響美伊間正在進行的緊張談判。",
+          "category": "國際政治",
           "sources": [
-            { "title": "範例來源 C", "url": "https://example.com/general-1" }
+            {
+              "title": "sbs.com.au",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG08SYVzBwMAIndnYkINQeUu0Z5ozGjwrBq5yyuhz18jHaV0oKbI4yVMTUjEjfTcByjnHycAVBH9tCdiyFVBR7i_R8WTqKGzdKIsDRLuTut9-Ez7L9fbsWyS7rUdu0TodAV6e7sGQnax-WAPt0-OD8WZhhNslYYRh_cYCi7Ijttt4lb5rQ2sowgK9JohoqPCbMgLRhOFx9U4dcM7Q=="
+            },
+            {
+              "title": "ntdtv.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDjzVV1f37LfEd7Vg9cx-FLAKKlIkbAuFG_LFV44Us9CRUFUHDfx5YtfTntvabN_4LgOZquU9-QR8u6VIy7KzYcgCG_FQx_6D04ZRb0odgWKs7xLFT1utjfjqo8EnVg51zHIOBHe7TdeF1WC9A"
+            }
+          ]
+        },
+        {
+          "title": "法國出現首宗伊波拉病毒確診病例",
+          "summary": "法國於2026年6月24日宣布錄得境內首宗伊波拉病毒確診病例，患者是一名從剛果民主共和國返法的人士。此消息引發對公共衛生的關注，法國當局已開始進行接觸者追蹤及防疫措施。",
+          "category": "社會衛生",
+          "sources": [
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlBTYvs9KRNeXw0g1U3Oiwz2RiinxfdFa7JIE8pyb-c6zy2MBsWKw7cYnYPFZSuRtml9Jb0Xe6NyUAqmXVsHOxGoJTlCUEpDqbDHjv_Q6fMrvi6uH428ejzUcS-jDZLYIWZnVAmMEaOT8g5LQf15KPuBR_S8be1ijzwJTeunxsWsw="
+            }
+          ]
+        },
+        {
+          "title": "中國「民族團結進步促進法」將實施 台灣民進黨譴責為全球性鎮壓",
+          "summary": "中國即將於7月1日實施「民族團結進步促進法」，聲稱可究責境外組織及個人破壞民族團結的行為。台灣民進黨立法院黨團對此嚴厲譴責，指該惡法企圖將威權黑手伸向國際，製造言論自我審查效應，並呼籲國際社會共同反制。 國台辦則回應台灣總統賴清德關於「台灣前途由2300萬人決定」的言論，重申台灣前途應由包括台灣同胞在內的14億多中國人共同決定。",
+          "category": "兩岸關係",
+          "sources": [
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnAM8Ptcw7dCBfK0Z-8pTb2YWMluRZk4_w9KLEXkkVb9j5DzGhsVgv8xi_1q1Wi0O_ClPSOYNvAcsrwDh8aI_-O-Rz32aPhZ-D-oHz68zOEO9VGA5Wi2osguuN5WlV1Hbhxuhyn1U8-LdU9Cw="
+            },
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbVWKvVAX6tiF_SDzOXhGVRW-ZZ0a7iL_gvjq7A9SUtzZ2_TVxuRCGEhYp-tpfzKlYB5AXPOlqcfJb9BoXxWTWVv-uM17ghuIFs_BDhMPHaAL3-57YezRgyxxVjL6QpIcLEc31uCI_dZYwknsHc_i5O8ZfhqJe7_eZdDti5L8gmUKgm5DvyYnZPZ290Vjxn21j7es-1alhOoWzWK8C4uu1eLv8XoUYiFkK8GfctoUpZzdmiwPh_Z7yeJ1TLLJhtryIiM6W77JWTh1rOK7n3Od1KVgPKTHQv0sOoOCJn6hxfC-jxklOSHHPtNE2zHHtTyzCsuQlD4DlIpevkkifZC0PKQJOdd90EO_3KYQJrPdLmABVq9XcIyGOT1dLBgabK77mkuFMeuBjZwJsDdAYazA3qeP8ywjUts2Wb1De7_j5-CXdC5IrPH3LHJL4USM6G0yRCbAglGYUGu0yBnaYoreI2usYzVy6qvqgSZMGTP8N67Y="
+            }
+          ]
+        },
+        {
+          "title": "聯合國調查委員會指控以色列針對加沙兒童發動攻擊",
+          "summary": "聯合國一個獨立調查委員會指控以色列當局及安全部隊，在加沙地區對巴勒斯坦兒童進行有針對性的攻擊，可能構成種族滅絕、危害人類及戰爭罪行。報告指出，自2023年10月7日以來，加沙已有超過2萬名兒童喪生，4.4萬名兒童受傷，但以色列政府否認這些指控。",
+          "category": "國際情勢",
+          "sources": [
+            {
+              "title": "sbs.com.au",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG08SYVzBwMAIndnYkINQeUu0Z5ozGjwrBq5yyuhz18jHaV0oKbI4yVMTUjEjfTcByjnHycAVBH9tCdiyFVBR7i_R8WTqKGzdKIsDRLuTut9-Ez7L9fbsWyS7rUdu0TodAV6e7sGQnax-WAPt0-OD8WZhhNslYYRh_cYCi7Ijttt4lb5rQ2sowgK9JohoqPCbMgLRhOFx9U4dcM7Q=="
+            }
+          ]
+        },
+        {
+          "title": "台灣副總統蕭美琴強調提升國防預算與全民防衛韌性",
+          "summary": "台灣副總統蕭美琴日前接受美國媒體專訪時表示，台灣目標在2030年前將國防支出提升至GDP的5%，以強化「全社會防衛韌性」。她指出，面對中國的認知戰、心理戰等威脅，台灣必須堅定投入更多資源捍衛國家安全，並透過立法支持實質預算以實踐承諾。",
+          "category": "台灣政治",
+          "sources": [
+            {
+              "title": "president.gov.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZgxH4p2MJ1iTsabQdy0tsMyqTps9MwGOIAM0IabtZRfcNAXEXuw9SS5MEt4uHi1HqC9ZNpbh7JCCY5qP7vHc3ueKAGEu8YxSGGTeWWrPYgGgOLiqMT4_G0s4640jaQyCB"
+            }
           ]
         }
       ]
@@ -45,11 +84,78 @@
       "status": "ok",
       "items": [
         {
-          "title": "（範例）主要股市與總經數據摘要",
-          "summary": "範例摘要內容，用於驗證版面排列與樣式。",
-          "category": "市場",
+          "title": "台股重挫逾千點，外資賣超創紀錄，半導體股領跌",
+          "summary": "2026年6月24日，台股受美、韓半導體股重挫及技術面修正影響，終場大跌1057.05點，跌幅2.24%，收在46043.60點，失守5日均線。外資賣超1774億元，創下史上最大賣超金額，電子權值股如台積電、聯發科均顯著下挫，但面板與塑膠等傳產股逆勢走揚。",
+          "category": "台灣股市",
           "sources": [
-            { "title": "範例來源 D", "url": "https://example.com/finance-1" }
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzAgoulLbhqtSPx2LgWpSkRvwEkXcL0HSNM53ISenQ7sRSjC801S_kcSvNfjc3RVTyj1SKFiRsN_q5EjtvI_6stpPXVZyKqR05CUzDjrIRd4knYdxDFlrQrqH3Mtx1EKq5I7BTmUqwOO8xz8s="
+            },
+            {
+              "title": "storm.mg",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPLDMYcn5G3Frv8fyCMspWgeh-_8UP1TK8Vfrmz9IG86tRiG6_WJ_jemxXe-JCNH2KHQ8HKTThSqJ39AiKnBJsJc0hMyYBifGnDyJ5JDjJm8Scb1xtz2S4Jsm5uP1o7VI="
+            }
+          ]
+        },
+        {
+          "title": "美光財報前夕全球科技股震盪，市場聚焦AI概念股估值",
+          "summary": "記憶體大廠美光科技（Micron Technology）於美東時間6月24日盤後公布財報，市場高度關注其對DRAM、NAND及HBM市場景氣的指引。受對AI概念股估值過高的擔憂影響，全球科技股在財報前劇烈震盪，那斯達克指數與費半均承壓，投資人普遍採取觀望態度。",
+          "category": "全球股市/產業財報",
+          "sources": [
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbtcx1lGrdoKfKtqvInAxsbJK3gRBkaa4LBZ3T9hLgfN78z7Z4ZJyJcBbczelMx0gMYfeTqF94Hudbspqr2agDS1B6tH83OBMliY-RHpgGg6-RsjEgmF-7uYLDBJ4_PRdK"
+            },
+            {
+              "title": "cmoney.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjwFnfIt32mwhKNqzMW7XLPcFYeXLQbJHOF-8s5LlTLfmjirkBG2RNy9N7-o1dK9bWvlDBBzPzRWjMZYOmkFqiFGazUFN1T4wf_h1_Dx4xL9yWiDI2q98qEqUI7QqAKmhAYQ6kJuToBb2Iu2-twPVgCMhb"
+            },
+            {
+              "title": "taiwanhot.net",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpxm_RDFheg-jlDZqaeCV-w7C9Cjp364U1RUV8LFHclU_OIqWC4i5NwaX_HLL-e7YCTy473B7deUkaQgJ4T6Wb7vYbbtmwTvMNBDHGmyHT1OlHS7FQ3-jiZI2lB6q2Ng6s2-7yGZonmlTb5Mm5XHelh8B1JzP5AkXKXeuq5pA6Yedce4zHQsXV1MEjV0fvnHnoCMZNQjWYr3kZStsLTx_E4kH7YQaRzfdJeZBHT--Cn404zIBh_1V7NfwaKLxwF1x5G_0RSNfo2RlaLK0OOg9pMZva3o3NmqiOGzh0YwUBgg6-2i3vEFHM4O0z94zLTczNhUSPtlXbYtz8LNp3K9pN2GaL2NZE1aew190qZHVGXPRHLl6_dXciqj4ViYYVThRTpZqee11Vnj-m3XvodUXgqEWsgl-S4hXDxzchC2COs6tyhUugtVSu2sks9IlMq29MkiPYm4nzrJoUiFf-NI-vQ8HnvPb9YzmUSx5TLIljb8WH0fsmhHRcV8uaazTea0Zf7EjSYlxLhqFjwkjVapZxjSn4k1dMA9fakrbw4ZtUVfW1oY5yqg=="
+            },
+            {
+              "title": "line.me",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5VOFP_4weirPjbXll9Ssf8DRynqIpsffiqtCsPJxjGYJi0c1yLlKVy186AaIh1HafjN-fFou43BHhO5ZsPf2gN7lp3VxASZMjQ_oc8sMFIUGlubwzFrfgev4Ls6R7FsqhNSVIWvY="
+            }
+          ]
+        },
+        {
+          "title": "AI晶片新秀Cerebras財測不如預期，市場檢視獲利能力",
+          "summary": "AI晶片新秀Cerebras Systems公布上市後首份財報，因全年毛利率展望低於市場期待，股價盤前重挫約14%。這反映出投資人對AI基礎設施投資的關注焦點正從單純的成長故事，逐步轉向企業實際的獲利能力與毛利率表現。",
+          "category": "產業動態/科技股",
+          "sources": [
+            {
+              "title": "uanalyze.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlKAi4El2FEfzsZMX4gpgWo5isL8hjbJb2QYlomx1_gaC6xR-B4Zewai4IYXEYQGu69mXBVJjEZsufNWtG1i3mNGOeX7U1yG6QRSsIpzQuDvTNAYpn5VEJ0rai4SkCwd8aDXu1JUE="
+            }
+          ]
+        },
+        {
+          "title": "永豐金首席經濟學家預測台灣景氣擴張至2028年，建議堅定持有金融股",
+          "summary": "永豐金控首席經濟學家黃蔭基在「台灣大未來國際高峰會」上預測，在AI引領的生產力革命下，台灣經濟景氣擴張期可望延續至2028年。他建議投資人應採取價值投資心法，堅定持有股票，並特別點名金融股，形容其具備「愛馬仕的品質、無印良品的價格」。",
+          "category": "台灣總體經濟/投資策略",
+          "sources": [
+            {
+              "title": "businesstoday.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElFrgaRykCCA0b1744KiSIs9yfYA5dBQSDDBL7056mNLjrna3y2I-uBpmBKEAdp-fG1z7xQlFMrclQmHJ4Pd3iyhlJ7Gg-usGwtqvEKorHuGqtYmU_W7e15ddvG20rnbrlwhm08USMuisxr1ZbpzALF25_sZKVSsyU4eIEJbh8_R7WToia_8B4r3YLAqhj7rJDRt9155SW1wHgbE-y8xcerlivv1hFkNKZo5_uxJdIZ0InqLpvqRKt9an_M2gekzWlkLQRdbCx"
+            }
+          ]
+        },
+        {
+          "title": "金管會關注「四貸同堂」現象，防範股市過度槓桿風險",
+          "summary": "金管會正密切關注部分投資人同時動用房貸、信貸、股票質押等多種管道借錢投入股市的「四貸同堂」現象。金管會已規劃兩大監理紅線，一旦銀行或投資人行為觸及，可能啟動專案檢查，以強化金融穩定並防範市場過度槓桿帶來的潛在風險。",
+          "category": "台灣總體經濟/金融監理",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQErtF_VtYiSaGwnkwIuANdOEMwFVPFAwCpRiZp8rfoWENxoAE_tCGW1SkD173mzx8HEwPNbSt2n1kLv4X33V1W-G3ZOP6p1swH84pe3v5dHQbZ75U2PNBgzw-1DgnQUtin-VfPsKOX9sk0="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFdjLIogad4N1SDYQQ7vlgZDFMUcNPlXF0aAi8xm8vbrBHgAvhoJz3RGTlD3OhuqGbDS6Ur46a5IPVvhehXnTVumf1orKtiH3CkB_eZLRRXR8gQoaqPNlJ9KyZf8-qLyc1wUqhUe3FXtoin6R8t624Pf5v7TViJG-1zaye3e8PbA=="
+            }
           ]
         }
       ]
@@ -57,17 +163,9 @@
     {
       "id": "taiwan",
       "title": "台灣在地",
-      "status": "ok",
-      "items": [
-        {
-          "title": "（範例）台灣本地時事一則",
-          "summary": "範例摘要內容，用於驗證版面排列與樣式。",
-          "category": "在地",
-          "sources": [
-            { "title": "範例來源 E", "url": "https://example.com/taiwan-1" }
-          ]
-        }
-      ]
+      "status": "error",
+      "items": [],
+      "error": "{\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\\nPlease retry in 43.411925786s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"5\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"43s\"}]}}"
     }
   ]
 }
