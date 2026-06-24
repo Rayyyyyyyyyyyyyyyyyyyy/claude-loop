@@ -47,7 +47,7 @@
 
 ## 7. GitHub Actions 自動化
 
-- [ ] 7.1 在 GitHub repo Settings 設定 `GEMINI_API_KEY` Secret，並將 Pages 來源設為 GitHub Actions（部署前置，記錄於 PR 說明）
+- [x] 7.1 在 GitHub repo Settings 設定 `GEMINI_API_KEY` Secret，並將 Pages 來源設為 GitHub Actions（部署前置，記錄於 PR 說明）
 - [x] 7.2 建立 `.github/workflows/daily-digest.yml`:`schedule` cron `0 23 * * *` + `workflow_dispatch`
 - [x] 7.3 workflow 步驟:checkout → setup node + yarn install → 跑 `yarn generate`（注入 Secret）
 - [x] 7.4 將 `data/` 變更以自動化 bot 身分 commit 回預設分支（不覆寫其他日期）
@@ -58,7 +58,7 @@
 ## 8. 驗證與上線
 
 - [x] 8.1 本機以範例資料執行 `yarn build` 並預覽，確認四版面、單日、歸檔頁與 NYT 風格皆正常
-- [ ] 8.2 在 GitHub Actions 以 `workflow_dispatch` 手動跑一次，驗證 Gemini 產生 → commit → build → 部署端到端流程
-- [ ] 8.3 確認 `https://rayyyy.github.io/claude-loop/` 可正常瀏覽且連結無誤
+- [x] 8.2 在 GitHub Actions 以 `workflow_dispatch` 手動跑一次，驗證 Gemini 產生 → commit → build → 部署端到端流程
+- [x] 8.3 確認 `https://rayyyy.github.io/claude-loop/` 可正常瀏覽且連結無誤
 - [x] 8.4 確認產出的 JSON 與前端 bundle 皆不含 `GEMINI_API_KEY`
 - [x] 8.5 確認既有 `rayyyy.github.io` 作品集未受任何影響
