@@ -4,9 +4,80 @@
     {
       "id": "ai-tech",
       "title": "AI / 科技",
-      "status": "error",
-      "items": [],
-      "error": "{\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+      "status": "ok",
+      "items": [
+        {
+          "title": "美光強勁財報與輝達股東大會將驗證AI基礎設施行情持續性",
+          "summary": "市場高度關注美光科技2026財年第三季財報，其數據中心營收年增逾七倍，凸顯AI記憶體需求強勁，並預期供應短缺將持續至2027年後。同時，輝達(Nvidia)年度股東大會也將舉行，兩大事件共同影響AI基礎設施板塊的後續走勢與投資者信心。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "futunn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHWRgSnmp_2JGa5yNDNz8g0u1lt6E2sn-n6fU6iPS34rZXxhrbcf76aN__FepLnfMuZYBiXckMG7CrdbmONAw3OIg9w4tG-2lg8LkLF3ukNPjGsXOKqb2oqkbFcxouU6i8NEOHznP5Aeparu-HRhWJfUhLbiDyqyKLiX6jN4R6_uwR_DSHv28Y6MjbxVc0JGLTvBUxvZdyyNOs="
+            },
+            {
+              "title": "futunn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbC3JudxtFQdf-Xrw6EE9DRBERjglDgGFD4gkYV-IYIXmw63aGRidaOJhn6b6TC_5SRkyRkvziW6VJIFPmPattOI6fKabSFd4FCNo70bTFPmi-69vQ76vaa0c6LxKhRLKx6A=="
+            },
+            {
+              "title": "moomoo.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyLJR-_yCwATYtCxRR5nfQiD_BRmeGmeGZxt_PFJxdp_yMtayoWKzkQyLv359sIyG2I859eyixzZLi52h-027qaqTgLRsBQdma37Su89L0zuuDcl1yuvgibXwtEupyHs7Q4bPbuC-IZe7w14HIilFanE3ocEa8j3AnwKOYPqrRVvl46Bn_K6qz12TYn8yH3IRCECgaA_I2R-qOguBLCHHV6vu0RtmyO4EEjJaBeGCDyK_x98Ed"
+            },
+            {
+              "title": "tradingkey.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEi3g0IFhjNAw7tS1VJjDARU6EZjf70Dhy8fJIHKJSdn3WmvMSsadTeeyZ-KXAAZTuwnFDH8n2kx8OZuqh-t36tjg5ztcmoOMo5a1j4s7zvfO2UySvf09qPo0BwlTHtIY1TTPbRynR42W9Rw_-RnEumQb8KSCShAu_qit8jkgZsDwsF9CWGaxN-jEdkS1IPJGXjbpNaiijrzPrsY4_rdxRG-ldPvb3BcC1E7MEs8nTRkxtiKO4_hPjwNhz--HoznE32uQhaCvBPv7tQ4zxkxfY9Udzq"
+            },
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnbjuCR5bV1hUCqJWftsN12v2kRMltK6GJCdqviB4sws9jS6LX_a6PodfugWQKsVztJPoEiBOg09HS6F1EuXNnARprUuhElfWEgWjJbXiRggcHg355N7tvpY0GoOWrxII="
+            }
+          ]
+        },
+        {
+          "title": "美國務院「矽盛世」峰會登場 台灣受邀參與共築AI供應鏈安全",
+          "summary": "美國國務院於6月25日至26日在華府舉辦「矽盛世」（Pax Silica）夥伴經濟體峰會，旨在透過與盟友協調投資，強化人工智慧（AI）供應鏈安全。台灣也以非簽署方身分受邀參與，顯示其在全球半導體戰略中的關鍵地位，共同確保未來科技發展的可靠性。",
+          "category": "科技產業",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpnGfk9Txiy-3r6sGfaDQI3xQo_TOZLQE_T6zO_8MeQ_UbBT--HglYNkcTA8iq2IaBq4DhL9Qp14UsDPWl2SMyNPL8u_XwjvJSd-mC1j1bEvZQ-_Fag05JfON_xBFc3l5BwbniIotz0A=="
+            }
+          ]
+        },
+        {
+          "title": "日本政府提出74兆日圓「官民投資路線圖」 大力押注AI與半導體發展",
+          "summary": "日本政府於6月24日提出「官民投資路線圖」，計畫在未來近15年內累計投入逾370兆日圓（約新台幣74兆元），重點投資人工智慧、半導體等17個戰略領域。此舉旨在切斷日本過去對未來投資不足的趨勢，並在AI時代確保國家競爭力。",
+          "category": "科技產業",
+          "sources": [
+            {
+              "title": "rti.org.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGT5GiIA9DNOOvIozrqq95IL5gN8xiixHjPLCzKEvdhtkr3lcwuzqDY23qzeUk__DEUOE6pV7G45FCAECywbW2YIiiqz5E5U_pN8V8pioA5N_l7OqgqwFttarP0VX04Q0rLX5uu8qA="
+            }
+          ]
+        },
+        {
+          "title": "Anthropic控訴阿里巴巴大規模竊取Claude模型技術 恐加劇美中AI競爭",
+          "summary": "人工智慧公司Anthropic指控中國電商巨頭阿里巴巴透過近2.5萬個虛假帳號，大規模存取並可能複製其Claude人工智慧模型，試圖藉此模仿美國領先的AI技術。此事件凸顯了美中在AI領域的競爭日益激烈，並可能促使華府對中國AI產業祭出更嚴格的限制。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnbjuCR5bV1hUCqJWftsN12v2kRMltK6GJCdqviB4sws9jS6LX_a6PodfugWQKsVztJPoEiBOg09HS6F1EuXNnARprUuhElfWEgWjJbXiRggcHg355N7tvpY0GoOWrxII="
+            }
+          ]
+        },
+        {
+          "title": "中國半導體國產化取得進展 日本設備對華銷售額首次下滑一成",
+          "summary": "中國在半導體製造設備的國產化方面已取得進展，導致日本五大半導體設備企業在2025財年（截至2026年3月）對華銷售額合計下降一成，首次低於上一財年。這反映了中國政府在自主半導體供應鏈建設上的努力，以及美國對華半導體管制的影響。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "nikkei.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6IkCWDKX7TOGOWO97eNVQ0TN2ybQ_1YPnnS0nD3XD3d14P-ixqeX1IMc79p4pPyV9k-SnOc2MXq1rfmZvSd-P9hKVZNUFEAQIfHxOwZ8oMG13CpViImscAyxwJ9bqbusejnVyPmgbwxorllQfSRBwK3_Oe2GPyGkwzhGIKNK6SmRcaOLC7dEC"
+            }
+          ]
+        }
+      ]
     },
     {
       "id": "general",
@@ -14,61 +85,73 @@
       "status": "ok",
       "items": [
         {
-          "title": "國民黨鄭麗文「造局者」紀錄片引爭議，民進黨批為「被造局者」",
-          "summary": "國民黨主席鄭麗文日前發布「造局者」紀錄片，闡述兩岸和平之旅的路線，但遭到民進黨批評為「被造局者」，認為其主張恐損害台灣主權與利益。國民黨則反駁，指出賴清德總統的「新兩國論」才是破壞台海現狀的主因，並強調鄭麗文的路線有助降低台海衝突風險。此外，行政院會預計今天通過修法草案，將未成年子女免稅額增加百分之五十，並調整「婚育住宅」相關稅制以因應少子化議題。",
-          "category": "政治/社會",
-          "sources": [
-            {
-              "title": "udn.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAaZsiooJ1yx1VnnLlZ9IspzMJ_RIczbUhl8DJBx8yNFk8m9gKNU7JBxVTtO7M7GO5ka-xvLHsFD87HZIwjYGQU5z0miV1sVMlOTJXlEllYUudHloVYDu9JKn-awLlAFwz"
-            }
-          ]
-        },
-        {
-          "title": "美國務院「矽盛世」峰會登場，台灣將以非簽署方身分參與",
-          "summary": "美國國務院於6月25日至26日在華府舉辦「矽盛世」（Pax Silica）夥伴經濟體峰會，旨在確保人工智慧（AI）供應鏈安全與關鍵科技合作。此次峰會聚集了澳洲、日本、韓國、新加坡及英國等多個「矽盛世宣言」簽署方的代表，台灣也將以非簽署方身分出席，顯示其在全球半導體及AI產業鏈中的重要地位。",
-          "category": "國際情勢/科技",
+          "title": "盧比歐關切伊朗核設施與荷莫茲海峽收費議題",
+          "summary": "美國務卿盧比歐呼籲國際原子能總署（IAEA）盡快檢查伊朗核設施，以履行美伊協議內容。同時，他強調華府反對伊朗與阿曼對荷莫茲海峽收取通行費的計畫，認為該國際水域應免費開放。此議題在全球產供鏈穩定上扮演關鍵角色。",
+          "category": "國際情勢",
           "sources": [
             {
               "title": "cna.com.tw",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsjX7_g506QdWHXiGum48bxBIaqW6UZZHwx9BxnfQ33mJ5ojiY1ZGvEL7ch4HdKq6gKIHJKvZo-4nHOctlUZk0Tm1SN0BazX_qT1DobHc_1HxHO0LqRa2Zsu5XDCGOP5R5x0XjUH0J2cJ8UPk="
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIlUayiErAFHi3EYrDtGS56HLQJhUVb1gr84Jp47mqRbQpweF4qhuVbPvz8AsKC4HlKW0WX619CGZMBfMOJyDA-IEdogctIdmC728Krar0UP7Pn_h42CgukGMeIQQHQ23TVm8ypdg9C1eNuI0R"
             },
             {
               "title": "udn.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFysmjd_hd9cZeIC94bgwweNCHE7r8rxjxDjNoAvA6g88T67cVRuVakDUbqfSVbHT5Sx61TNHzSl2pNqb-P3KhurjIsn3dAMjMBAm1EmBSXnuQGUgFRlWGov3ieFzrP3EsA"
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFA47fxN-ZQ1iNQxcOFQvQf5QsLy5cl2P7AWOi4TivEVpk3w6bfYsLNwfqmyLNi9bFHviJ4L5y6-O9t39I1KsOygugus53d9lf6GIaLEPtJ9mQY9BmKAxXmusaeYu1X_rBfwT4l_RJkjGiDCw=="
+            },
+            {
+              "title": "people.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQExv78uCgR87cml0IOr21ZAaQnhsmWd4ceWpUe5yypmHTt-6dkoniXcg-3EAee8dOP1huMalEe2clXmdKIrekYBW53rVuChk3u6X4Io0WZ6yogYXmf5dj5YBeaPHIAurgktg1MWeVopO_cxeOpYYbxVv5o2ywgTKCkHWVHqdJY="
             }
           ]
         },
         {
-          "title": "美國總統特朗普稱伊朗承諾不向霍爾木茲海峽船隻收取通行費",
-          "summary": "美國總統特朗普於週三表示，伊朗已向美國保證，無意對通過霍爾木茲海峽的海上交通徵收任何通行費或其他費用。此前美國與伊朗簽署了諒解備忘錄，其中一項要求伊朗在60天內為商船安全通行做出安排且不收取費用。特朗普警告，若伊朗提供不實資訊，美伊談判將立即終止。",
-          "category": "國際情勢/地緣政治",
+          "title": "歐盟等國加入美國「矽盛世」倡議，強化AI供應鏈並降低對中依賴",
+          "summary": "歐盟、德國、荷蘭及希臘已加入美國主導的「矽盛世」倡議，旨在確保人工智慧相關科技供應鏈的安全，並減少對中國的依賴。台灣也以非簽署方身分參與此峰會，共同建立可信賴的科技夥伴關係。",
+          "category": "國際情勢",
           "sources": [
             {
-              "title": "voachinese.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5AQjDv5Cy51VoT_qVx4vsR-lL56Q5lHiMBUMy2pYHI_uf5oeZ13O7x2Lz6-UpGvVamxKY2wHqEWz-rbBDndqlg6XpWbcCkgistqRLaAuWMv_NdQIhf_YLbD9kN932FYffDivpN0UllEWSLRF7vv6OKrVQYv1vLlepxJWCAf8c7euYD0yNQkjKzufR9sSDVorhtAfVAsDJBP1c4_WXwzqmuNGOcHQbPVDMc7gEh1nZeOT5NSJHFkJmOrLonOSwj8IWalyfkZCvYmMBSG7UyJ2cjagGCL76FIOba4N74RFlUhRG9VCVrA=="
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfI3PquNbqWTHcRkJ7eA6wacyzA-tItZOW2xiYXX8GrtEMLJHIyf73YIGHojIOJ1gMjxhfzzji-D7UizueAjeKLMSHRN0eHrLyJ3PJXn4KuQHmokHIbNUqHJZRitywqfz1uQC0kEXYeHRNdAYE"
+            },
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcnuKVc8Ds4kY4FOy9jV0buIWpN1zBE5_tKZHN3xSNLMmQ8aOBQsaYq7sIwQJcj1Eu7HvtZDTV1AoIj5Be9hrvK5hwxDf_sdKkuNgry0A6io_V9Rq-BleLzK8won1oYuwO1Ak9qePfalGunXXJ"
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPTFyD4SGMNmxQX-AOJxEgoEyxb3Y0w8zqPXGGzE8Aorvsj3hQ5AYpja4P9KqilMgDeuVaT2Sx35MdZgfXrGjk2gYvndylzoVcVQ3DYdCneHesfjP_ZdOp8tE9vezUF2kglNSzHfKfXOA="
             }
           ]
         },
         {
-          "title": "中國人民銀行將於25日開展5000億元MLF操作",
-          "summary": "中國人民銀行於6月24日發布公告，為維持銀行體系流動性充裕，決定在2026年6月25日以固定數量、利率招標、多重價位中標方式，開展5000億元人民幣中期借貸便利（MLF）操作，期限為1年期。",
-          "category": "經濟/金融",
+          "title": "中國海警船頻繁擾台東部海域，美英法德表達嚴正關切",
+          "summary": "美國、英國、法國、德國駐台機構共同對中國近期頻繁派遣海警船在台灣東部海域的活動表達關切，認為此舉嚴重破壞區域穩定。美國在台協會（AIT）敦促北京停止對台的軍事、外交與經濟施壓，並與台灣民選當局對話。",
+          "category": "政治",
           "sources": [
             {
-              "title": "wenweipo.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUNRfbJ71V7XVTjuVFyWjTsb0ufHH-rtj8--Tvz8GMU3zsYKKcmnCf2MzzWSSbNpxrTf7COU5dkaEhZTFzZOYGoUTAwyf15icf03rdUS8r0leXsbfZlCbkGxKcfgGFsfK-9qqq-UbP-3Arux25mcH98KsNJatB5F2jedQRMjM="
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENaiChGi3JhgT2D0RN4v1oXUFHmxkB6hJ3O_SHu2tWRqV9Iy4fb-hwkyf6cOxcMLzcZ6EMtIYEL_jzsMDSEsAkeaZAt_c9YHBExHJNhZuC4Kwmnd3JwfvyNv5Unez-TTyLr89myX9bFEeaC5Nycfoe0g=="
             }
           ]
         },
         {
-          "title": "賴清德總統出席GCTF研討會，呼籲提升民主韌性與人權保障",
-          "summary": "「全球合作暨訓練架構」（GCTF）「建構韌性民主以因應跨國鎮壓研討會」於台北開幕，總統賴清德親自出席。賴總統強調，跨國鎮壓已成為民主國家共同面對的挑戰，台灣將從「預防」、「保護」、「反制」三面向強化應對措施，並持續與理念相近國家合作，共同維護民主自由與普世價值。此次研習營為期三天，匯聚來自29國的專家共同探討威權政權利用數位科技與假訊息等手段影響民主社會的議題。",
-          "category": "政治/國際情勢",
+          "title": "香港國安處拘捕兩人，涉煽動罪及處理犯罪得益",
+          "summary": "香港警務處國家安全處於深水埗區拘捕一男一女，兩人涉嫌違反《維護國家安全條例》的煽動罪及《有組織及嚴重罪行條例》的處理犯罪得益罪。警方調查顯示，被捕人涉嫌展示及出售具煽動意圖的物品，並收取外國政治組織資助。",
+          "category": "社會",
           "sources": [
             {
-              "title": "taiwanhot.net",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8zkbe-r5XG25ei_sBWCweAje2n-SZURv6sVR--24Mx35qo7ws8roHtLbCVSifEjOq5wgqwnbG_G3aFFGLlFAC9coFEkVSMUWuKunRE-S7qyVbeDw6okuJ3T-VSd5Xogve7rWzkTaTjAo5A5xTCbXp0w4t1wA6z7Sz6koIbkvuwphT5rN3F-cC2HUO3inJUCiL7WjewQpJbMBzj9EsUsn9Ncrt1W58aESDKJUXJktm2k27Ce_FPaAFv2a03NMsV3ghYToXz8mBx-YBZUJAJu-IZn8sdevrRbps2VXSU91FBZe_zQ0w_sxkcu_Vihw5Oq65vZU8GIsagSS_g6F70oJGchOlKu1bWB9NjFKf6RxM9tnKLGzxev93RTaLZqDmxkQDb8VOq_zLeO0VAtXobK0-t2w3xYGeSUu-ulxvjy2lZ1Du0rz7KxBc"
+              "title": "info.gov.hk",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNxPl87giOZ-DJZgW7bYnJzIhHV8pzHFzqHOLdUs-B4HEZz4kT9xshJm3BOvzVzNdtDwxBcxcly0Wp_V2-cYDduDIkNZspQzxFgrurmrwCgdvppEYyA6n3tFRUzHDFtF-FhDQOmA5q5IivsgA8e1Xplm35A-_0KsSARtI="
+            }
+          ]
+        },
+        {
+          "title": "全國政協常委會會議聚焦高質量發展與經濟進步",
+          "summary": "全國政協十四屆常委會第十七次會議舉行全體會議，圍繞「堅持高質量發展，推動經濟持續健康發展和社會全面進步」進行大會發言。中共中央政治局常委、全國政協主席王滬寧出席，討論科技創新引領產業體系建設、優化營商環境等議題。",
+          "category": "政治",
+          "sources": [
+            {
+              "title": "people.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEW_U42RHSTouJIska6ZeyfpEKSWFVrhejlQuy7HcMebSMXxY-sK33WiclUQtt2fhVnTVvIYkeg9Lci0N29TPByyiNWN9M4gY1STsrYyCJxLYnG6dK9y_Nv9Ug9KRDlYNFztekkwOmBQzTp2hx801tXjnAKpdWXir6_gfYrr3w="
             }
           ]
         }
@@ -80,101 +163,121 @@
       "status": "ok",
       "items": [
         {
-          "title": "美光科技公布最新財報，市場高度關注AI記憶體表現",
-          "summary": "美光科技於台灣時間6月25日清晨公布第三季度財報，分析師普遍預期其每股盈餘（EPS）將大幅成長近1000%，營收也將顯著增加，主要受惠於全球AI基礎建設的持續擴張與記憶體產業的強勁需求。此次財報結果被視為AI記憶體產業的風向球，將影響整體半導體板塊的市場情緒。",
-          "category": "產業財報 / 全球股市",
+          "title": "美光第三季財報遠超預期，AI記憶體需求強勁助營收飆升",
+          "summary": "記憶體大廠美光科技公布2026會計年度第三季財報，營收年增逾四倍，大幅超越市場預期，主要受惠於人工智慧（AI）帶動的高頻寬記憶體（HBM）需求強勁。公司預估HBM供應吃緊狀況將延續至2027年之後，盤後股價因此飆漲逾10%。",
+          "category": "企業財報",
           "sources": [
             {
-              "title": "knews.com.tw",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFerTrkkBALYirDK7UhHZYWyXxuGptbzqglXaTl_4epWxhaCS-K5cGlzK27uQ_X-vzIez6DBbsSyMCQQVhXVk9aEkoATT3FtRoBlWh7_EeEsYILrcWv7RVOK0-wd5OsytuscPrJGdykawX1SiavJ4t1H08sDP00KTaM"
+              "title": "tradingkey.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEriQJeFIxandVw-veJ99gzc4O8MxSshhnw3swl79v26_oFUcyQQxC-mptauD65PqnLkaJxhhdiwA1_P50sHYO2jRRo_6YaPPHolv82l7QOknVWY11L0MoG-Ob0JhmPUJMQri1S_V6EzMVkDWa1h7gzaB249ElxB8zg-Mv7oLohAFs2ufz0nv_yIH7ZP9H7t7HWOStTTUC7DjGw7WMPPdA1lQ7a8y2VSshrv5Gc1ti0Qcn2vQtBct7_FshzpNNZuEKaNz70eYFF3AZ0"
             },
             {
-              "title": "21jingji.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPSmLvvdgvoVw0FBxeGTEGSFpT8Yjxv6_U6H1l3oJX91u-rjBMsXJjWd74LrwGqqDrIpiWNWhdd6AyPVaDnnDsmHh417NK7HKxIeRqkmHe4bKMK-eTFJLNxM4a3brdqj0CF35FnBrxrfyJKnsYvSFgArrml4PbEyFPMBT5GQyQjRpzEsRJOVz9zZ9KxCTqE16U"
+              "title": "bccnews.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEC6S7y32wug84xLQ05vWDB61q1UkY7T9ifV5tzxOGL1nydA-wTxyrWwnVW0SeBBIddNqrrtdtVg10z08Nqe11YorlwtpL7Ub9OwUpKbySQWCvD8DTtuJc6K0QGplVHR7NH"
             },
             {
-              "title": "yahoo.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO_h8Z28nZuZIxccEwdF9kCjaPSinQSlM9UXMB5lKiBvx8MYIQGmhn5NU6-FRv_9_fBRnjvW0Gs7RnUBZonBI7komDr2VG8SkL2d-db1BY8VBZ2DRMQOi-acN5ddhEnPrIm1mptQUVUiQQfJZEp_-oZYcS3t-V5T2oIy2A_i1nNOIgUZCtR7QSNfoPyghTDvYCD1sfHx5D34-zro3Ry92od-2oZ_76f7-330GKwQLhYZMesSa-ng7sW9-uZsvwtbly6sWUBgTMzFJD73z8yG2xLcu9QQGLp8CvaaKODI7-bdm79owCb-2MEQ5s4ZG0Q8HZCtjfu9r_5HS0tTPvsFtOz61K7IX-s0-MuEBZifXnO54YESQf3qSrbsHir7GlbuMcwJ5jffg6PcoIIhFjX4QWqMG3nthJJ8ZKYdFjpfUJk5f31fpPNWiRNBi2qDgP2a7J4y2ziCxpH41xLBIXSsq5rs9bT8owlhLWysye"
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDmWdHZliGLcldbPiRSw5Ky0lWo38ZBbue44p4iAQpQpW7mvdqAQe6l2181_DzaE9tHDjk-3m-WyH6feMgAFyR01X5nT8vjWyIwp-R6h5JZHyhOzNZqHxmGXNnvBfsPqdp"
             },
             {
-              "title": "chinatimes.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyUAvKqm1jxoi04P9YhinmmRuQOq51jBFpy3I_mz6olZ-3GbzFh2DG3yKtvsw-Pt-HJyyw2Kck1cTAFc_YQ47Oj-l5eiAn_oEzKvlGxkJB0PMAEmd3YKK2P-e4iiQk0_rO0Yt3rcLZ_C7FhHqH49eO8fqUXMU="
-            }
-          ]
-        },
-        {
-          "title": "輝達年度股東大會登場，執行長黃仁勳言論成焦點",
-          "summary": "輝達於北京時間6月25日凌晨舉行年度股東大會，市場高度關注執行長黃仁勳對於AI需求、高頻寬記憶體（HBM）供應狀況，以及下一代Rubin平台量產進展的最新說明。其發言預計將主導半導體類股後續走向，在全球科技股面臨AI泡沫疑慮之際，格外引人注目。",
-          "category": "產業動態 / 全球股市",
-          "sources": [
-            {
-              "title": "21jingji.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPSmLvvdgvoVw0FBxeGTEGSFpT8Yjxv6_U6H1l3oJX91u-rjBMsXJjWd74LrwGqqDrIpiWNWhdd6AyPVaDnnDsmHh417NK7HKxIeRqkmHe4bKMK-eTFJLNxM4a3brdqj0CF35FnBrxrfyJKnsYvSFgArrml4PbEyFPMBT5GQyQjRpzEsRJOVz9zZ9KxCTqE16U"
+              "title": "investor.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7_ffNlSsMPW6lxjI1My008ExIIj_GSJn1lrmTufMq5O1skumLsIA6IhFHCobS7P2mjPZkc1C0xdSYGt7GB3f3i63_zegV4j-4fU_AUBtJUJw0_sSWGsa-iJ0PxjRaDrrFCYRySXPSqCmrmE4VWGhWS3GNIS9wKGa0EpFKpLNDburapYG8-No_8dI="
             },
             {
-              "title": "mitrade.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt0N_ULcNB7p2L7zaLuzkLKAbxY3ZrTchp8M4vqWR7Nb0rqaxOSF9r3_jutInp_GzXTmV-owYlqE7xmY9XxM-rn8RwWp0gKiDY017MIzV0wGW8piLjjQhYUhxC5TAW7GdOrs1eOjCdD1bMLgBtCHf5edMutWgQlVf26qCvCPDUCCQPaqyP"
+              "title": "futunn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbrGYnweQPtl2oMoS9ZnKgsrbzrHiQqn6Ey8TRLn7Z8kPnK-O3PbSlvyFTkhCMUA6eowzU7O8_vWRFyenVdupifSZRSlDxJ4MqALCyEZ5eeUDtwJ1hcdkG6hZfj5sqPES7Yzc="
             },
             {
-              "title": "yahoo.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO_h8Z28nZuZIxccEwdF9kCjaPSinQSlM9UXMB5lKiBvx8MYIQGmhn5NU6-FRv_9_fBRnjvW0Gs7RnUBZonBI7komDr2VG8SkL2d-db1BY8VBZ2DRMQOi-acN5ddhEnPrIm1mptQUVUiQQfJZEp_-oZYcS3t-V5T2oIy2A_i1nNOIgUZCtR7QSNfoPyghTDvYCD1sfHx5D34-zro3Ry92od-2oZ_76f7-330GKwQLhYZMesSa-ng7sW9-uZsvwtbly6sWUBgTMzFJD73z8yG2xLcu9QQGLp8CvaaKODI7-bdm79owCb-2MEQ5s4ZG0Q8HZCtjfu9r_5HS0tTPvsFtOz61K7IX-s0-MuEBZifXnO54YESQf3qSrbsHir7GlbuMcwJ5jffg6PcoIIhFjX4QWqMG3nthJJ8ZKYdFjpfUJk5f31fpPNWiRNBi2qDgP2a7J4y2ziCxpH41xLBIXSsq5rs9bT8owlhLWysye"
-            }
-          ]
-        },
-        {
-          "title": "美國5月PCE物價指數即將公布，通膨數據牽動聯準會政策",
-          "summary": "美國將於6月25日公布5月份個人消費支出（PCE）物價指數，此為聯準會（Fed）最重視的通膨指標之一。市場預期核心PCE月增率可能上升，若數據顯示通膨壓力依舊偏高，恐強化聯準會的鷹派立場，進而影響全球利率政策與金融市場。",
-          "category": "總體經濟 / 全球財經",
-          "sources": [
-            {
-              "title": "sinotrade.com.tw",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_q7eyW-N1_Jykb-6FtdtwEGUATmAUv9JUYge2lxPj4kulTT798jcMvfX7nDNvXAFogiiAQ8_xUTGpUsC4PZ7SiZgL3rlCIRhYibNdB1Ul0WLwPwplTrakd6tE0UzeHQ3pinovn-SAng5KqAw4TeyMtNvS8K6-qLTss-_3PdhzVOKhvBrpkS4IUAEC87wEP-Ieag_spljmykGz6EtU9vpjmLBktUajrk_iNrdsof6BqOBTDO2LsW-9bwwfWXQFnpokVGq0GkxSlK7MvONAoirqQjOIh6QG2DlSrdOLxTtc7yVTe90ekqKYT2-ZW8Ksf7_YuuMexjm12gOcKvwrTzPnB5nYXxFo9c0fsmCSla1398-xvsa52g9KvTd-iDsE1vAbwGvkGhJcARd5K-eXfaeD1H8fAsFJnQjm1rBptE0nfOTHuWtFhNByJjK7FaydqspTS3bKwljIDefSKoZMddO8Gzj-_RQskB5zLZ3F7ivXRc43FVftGkuOeUn-q_fJR6VGsk6REZ7ei0-a_tuM7Cpm06HrVVJi0U3PKKwaaYI="
+              "title": "line.me",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvDECvgwzY4a5YY6OO0BWkV8VIvpMa2qzVDCKb_beWvY4zyFS2fBQ1YQJjU316A-mqJObH1c0uq2G0un5yTQgoNNMK3IWLbvke3_8GeQXZeajGcGbstLux_9ytlKsfdsjdrUrCPEs="
             },
             {
-              "title": "sinotrade.com.tw",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEitsds2Rz_Fr6rnBR-YrGot51eCSH1sekoQnn6oa9qL41HtDjTyP6_hMQXL04ufshWjPpX5BXDGLMpJLdvio39CdgyJAjB__axUCnIyAY1akBhVsGhNCJXZiBBufnp9CqgJPlsNM602GJ-5OvzRjZWIK1OQgubHSane1z8ruAkhiHQ0MpAh6p2FaPx8fcuJUp_ICjNyKFGrQWWW2sVC3O4QexB5a5Rb3MUKdfA10JjMvkoJYicahH9oxO3AwPX4dzI9HPMuuBE1pngKjAU1F_dbzHbOho0mvo3AVLyblMOaRfsF52uzwCNfN2_Idlj2jWPj-GjaRx1znbJqlQ5oT7B1yHakZDWTLxFLhwupQDonnqsNvN4FBFsXd2U-v8D_nZYQxAjzXqRxZy3JjTadotg2NplkPuf-SpB83opL-5HZ6TIpUjQ_W7e3QzmWGLX574ZX-vLGI2UcbBv18cE5pWPJcsHIIYrwEu01IYWZ5wakHDgs9xNZ-FA1QZUVALMi-TZ5l5RQdbfEaaEzR14pOShiT9ZM_6sGa-NezWbtdvatPNaTYMXFMeuYAMz82-86zVaAXjNSrIkXeA="
-            },
-            {
-              "title": "ig.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFheo-xhEiuEL4jxFbkbrVIpFwbCZmoQZd8Zcl1Cct394t-aCpgBJRTYSx2RxJybDJQUnqfnSp7uYlAJmzksWERcoTGppfrIjmsp3oxhozasAPTFhFquthECE5SP_yGlmrBr3WZJsvEdmXEwFtzGa-xItlvdUr3SqsxEWuYIDQFuwAPH4dcL4z9LwlSiL2Q864="
-            }
-          ]
-        },
-        {
-          "title": "台灣股市受全球科技股拋售潮影響，指數重挫千點",
-          "summary": "台灣股市在6月24日受到全球科技股拋售潮影響，加權指數盤中一度重挫逾千點，終場大跌1057.05點，跌幅達2.24%。台積電、聯發科等主要權值電子股普遍走弱，顯示市場對AI題材過熱的疑慮升高，資金轉向低位階的面板及部分傳產股。",
-          "category": "台灣股市",
-          "sources": [
-            {
-              "title": "nextapple.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI6vrgS3pkysrFJJ4NUW0LZmbChJj929alnlI8D0EQjX7SS635LtDa3fA8vvXPByFMnmCxXAVJD3K6as7-YjcVy7Ax1X3aoT2fmwph3o-qWhxokIfGJXqisp0_FJCsqhyy-0icIP8Ku0VSWuFi-N02NGXD9_7cyeBjL1jW-SCKER5F1wnsC-Y="
-            },
-            {
-              "title": "mitrade.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEt0N_ULcNB7p2L7zaLuzkLKAbxY3ZrTchp8M4vqWR7Nb0rqaxOSF9r3_jutInp_GzXTmV-owYlqE7xmY9XxM-rn8RwWp0gKiDY017MIzV0wGW8piLjjQhYUhxC5TAW7GdOrs1eOjCdD1bMLgBtCHf5edMutWgQlVf26qCvCPDUCCQPaqyP"
-            },
-            {
-              "title": "storm.mg",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOxLPPPbUmeYNmDU1Pclsx9vvuZmZlyPOrAipaH_PcYvEz6SDRTDijVVLX77f4KW5jFPQUBfb8P13P-fmXmWDa0nES_jhJlnBHQoO7Wys8m7lpKUxbqtVwN7icli5VWPY="
-            },
-            {
-              "title": "yahoo.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHO_h8Z28nZuZIxccEwdF9kCjaPSinQSlM9UXMB5lKiBvx8MYIQGmhn5NU6-FRv_9_fBRnjvW0Gs7RnUBZonBI7komDr2VG8SkL2d-db1BY8VBZ2DRMQOi-acN5ddhEnPrIm1mptQUVUiQQfJZEp_-oZYcS3t-V5T2oIy2A_i1nNOIgUZCtR7QSNfoPyghTDvYCD1sfHx5D34-zro3Ry92od-2oZ_76f7-330GKwQLhYZMesSa-ng7sW9-uZsvwtbly6sWUBgTMzFJD73z8yG2xLcu9QQGLp8CvaaKODI7-bdm79owCb-2MEQ5s4ZG0Q8HZCtjfu9r_5HS0tTPvsFtOz61K7IX-s0-MuEBZifXnO54YESQf3qSrbsHir7GlbuMcwJ5jffg6PcoIIhFjX4QWqMG3nthJJ8ZKYdFjpfUJk5f31fpPNWiRNBi2qDgP2a7J4y2ziCxpH41xLBIXSsq5rs9bT8owlhLWysye"
-            }
-          ]
-        },
-        {
-          "title": "台灣證交所赴美招商，積極吸引全球AI及科技新創來台上市",
-          "summary": "為響應打造「亞洲那斯達克」的國家級戰略目標，臺灣證券交易所持續推動創新板制度優化與國際接軌，並於6月下旬再度率團赴美招商。此舉旨在吸引全球AI及科技新創企業來台上市籌資，以期將台灣打造成「全球科技資本匯聚中心」，促進海外創新企業與台灣科技產業鏈合作。",
-          "category": "台灣財經 / 產業動態",
-          "sources": [
-            {
-              "title": "udn.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoeo15-YTzZ0LR4NxFD3y4PpR9E71KgactadbeTJGclulRealvevq6eIjHGMPFDd4oU0gXWOm5ZESpVY4aG7LI_Yl6ITCJfBeq5yh4yA4_TIwEMKC60WTasqKLPw9aIDW6HfKsyyPKWf-naPKRq5sEcGpa0JsoNsnmf_L8bOOYWfjr"
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERWyYCKBP0hBfWMMMxXQi9z-wwLqm5VgcNrYGhCXM57MBV22ZT-MLs3mybZCtpRjfNZTkaIIKPw2_CARY3MwRZ02KiQVfxmVu-DX11mjQBaQhPGBb5RxgK5Y9TEQXAQeprH1BkKMyaO5QCtrlyD_HrurcGxRTQiQNDR3OyvOWva3dqQJs="
             },
             {
               "title": "udn.com",
-              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlR_XFiDJE1OJu2Gb79ONhO8jVc4-UZVEL23p0XzKx4PPzJu3rSc5if93kvLoUlirQ2mRY2CSMggeYk6bbvn4Lpr7AKxNifV_w6OWc0crf1LrDKVytDgreKWaATC6dkgZX-MQJURivS2k="
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtW5iun3d7w45DKZ4VLnuYo3WJxJXqaIuTm-8EoC2Y5-XdBRXzqfyw5Vlz8hj08SaA772v8o5eAGfOkmucd4YeOolAMf_8wA14_2vEhvr8WrgsxbyZbUVXrtievWtphaWvW-2zRnPFTOM="
+            }
+          ]
+        },
+        {
+          "title": "台股面臨「估值卸妝」壓力，外資單日大賣1774億創歷史新高",
+          "summary": "台灣股市在2026年6月24日遭遇顯著的「估值卸妝」修正，指數重挫逾千點，外資單日淨賣超高達新台幣1774億元，創下史上最大單日賣超紀錄。包括台積電及0050等權值股均受影響，新台幣兌美元也同步貶值1.26角。",
+          "category": "股市動態",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEriH5etAJknq2w62WZh1x2-vnm6gT3eZ9YgXFax55q1rhdBuCtvVj-RYWv-TJtZK7S1mxS26w_aayH7bIpZ_veRwFAZJVaR7A6gptxBA6Mz_5U32fUpfWDt8wwtbAPaj2QTtC1YzhVFEg="
+            },
+            {
+              "title": "cmoney.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHE6ALf2F2H0HCvaYPy7pqZoCg-I_BKm9klO1dwDTJgEuKF_EyenL4vpjGUUOoec8qITyzIhzek6f-tHILizqJRCcl7ymJm8V_jLsjWT0-DQnd14dVTR26C2h_PDGjskP4jQVl1PIpMWw=="
+            }
+          ]
+        },
+        {
+          "title": "高通深化AI佈局，宣布收購AI軟體公司並提高非手機業務營收目標",
+          "summary": "晶片巨擘高通宣布以39億美元全股票方式收購AI軟體公司Modular，以強化其AI軟體能力及資料中心業務。此外，高通大幅上調2029會計年度非手機業務營收目標至400億美元，幾乎是先前預測的兩倍，並推出面向資料中心的人工智慧CPU。",
+          "category": "產業新聞",
+          "sources": [
+            {
+              "title": "tradingkey.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEriQJeFIxandVw-veJ99gzc4O8MxSshhnw3swl79v26_oFUcyQQxC-mptauD65PqnLkaJxhhdiwA1_P50sHYO2jRRo_6YaPPHolv82l7QOknVWY11L0MoG-Ob0JhmPUJMQri1S_V6EzMVkDWa1h7gzaB249ElxB8zg-Mv7oLohAFs2ufz0nv_yIH7ZP9H7t7HWOStTTUC7DjGw7WMPPdA1lQ7a8y2VSshrv5Gc1ti0Qcn2vQtBct7_FshzpNNZuEKaNz70eYFF3AZ0"
+            },
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDmWdHZliGLcldbPiRSw5Ky0lWo38ZBbue44p4iAQpQpW7mvdqAQe6l2181_DzaE9tHDjk-3m-WyH6feMgAFyR01X5nT8vjWyIwp-R6h5JZHyhOzNZqHxmGXNnvBfsPqdp"
+            },
+            {
+              "title": "futunn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbrGYnweQPtl2oMoS9ZnKgsrbzrHiQqn6Ey8TRLn7Z8kPnK-O3PbSlvyFTkhCMUA6eowzU7O8_vWRFyenVdupifSZRSlDxJ4MqALCyEZ5eeUDtwJ1hcdkG6hZfj5sqPES7Yzc="
+            }
+          ]
+        },
+        {
+          "title": "全球大宗商品與加密貨幣重挫，油價回落至衝突前水平，金價、比特幣失守重要關卡",
+          "summary": "國際油價在美國與伊朗談判進展及霍爾木茲海峽通航恢復的預期下，顯著下跌超過4%，布蘭特原油和紐約原油期貨價格分別跌破每桶74美元和70美元。同時，受聯準會鷹派訊號與美元走強影響，黃金價格跌破每盎司4000美元，比特幣也失守6萬美元大關。",
+          "category": "總體經濟",
+          "sources": [
+            {
+              "title": "jwview.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEcEExbsfhkigHTbUZyIP5STf5TyDTLue0lI6a0B11Ou7CJPMNXO9mafTIDqht5ibh8SJZ0feLYHmlC5yFwGqvx7xdyGfAYJZkuNjAL_kcbDlH6tRdfQZwqsd04KJ9F-_Srw_QGCgLt6SJMkKlqt2HylLI"
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYvDSlYkWUngy8ZxoVzoOsExaz8xcOEjRjZHKYBqCCRHO_spQhqHWJZEnN9U6ZYEO3pAk3xu7Bumy5O_g3pKi5ZPw2cyZFUYMzVPKlpErXssNVtpcGnL4zUaMTkD4CPzGGNUPro4VLsiPmFLzeI6sXJWe7dXXP7EamlPwQJ0g98rcyL7Ew8bcWSsK0oSErM2wY"
+            },
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDmWdHZliGLcldbPiRSw5Ky0lWo38ZBbue44p4iAQpQpW7mvdqAQe6l2181_DzaE9tHDjk-3m-WyH6feMgAFyR01X5nT8vjWyIwp-R6h5JZHyhOzNZqHxmGXNnvBfsPqdp"
+            },
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEPS-6T_gQ8RdruGZAfdvcLYWca_w-sgYyTfnd2-eRE92RnLeGh_5k-GtKFzkvV5ewgFD_hoSzpd6kqZ-NJvj8oRDTRrivD27GpdJHTejUfwQQaqrZSLDtzOJu2R_G1OpnBKU8Dj12297H3NSmCNrWBFhyEuaAJvynr-to1yrydQJr2P4rE9bClbfltVHq5k0hcc3PI0nUKm6MhyBlXUQYt_jikWbpAUOZiolJBvQSPW369WJgutQjczFF_eWi1WOsxf-Ctqc8xuUQaCq4Tv4bh1Wq6DW6_TfC-lj-SwEfhhgU1eK_OIPLai2H97D5eTNCJUwzs8gCRdy5ZZrLcPOPmIq3FnryvmIB3RVigKMD3Bdg3sg0="
+            },
+            {
+              "title": "note.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbV2qwufAHTq5_aIbrXQjZ86pGEKhbxrF5zsqc4QAkwgQx77zmnzOTIQNGrHTwyFFgz4pmbX69T8vP92WqGmni2OW0sNFxvV0Z-ENHaIG759ypbyiIpHqk4Ek1bvo2cNA7AO8VCQ4="
+            }
+          ]
+        },
+        {
+          "title": "美國聯準會維持鷹派立場，財長樂觀預期經濟成長將重返3%以上",
+          "summary": "美國聯準會（Fed）主席華許（Kevin Warsh）展現堅決抑制通膨的鷹派立場，市場預期聯準會將至少在9月前維持利率不變，並可能於年內進一步升息。儘管如此，美國財政部長貝森特預期，美國經濟基本面強勁，今年經濟成長率有望重返3%以上。",
+          "category": "總體經濟",
+          "sources": [
+            {
+              "title": "tradingkey.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEriQJeFIxandVw-veJ99gzc4O8MxSshhnw3swl79v26_oFUcyQQxC-mptauD65PqnLkaJxhhdiwA1_P50sHYO2jRRo_6YaPPHolv82l7QOknVWY11L0MoG-Ob0JhmPUJMQri1S_V6EzMVkDWa1h7gzaB249ElxB8zg-Mv7oLohAFs2ufz0nv_yIH7ZP9H7t7HWOStTTUC7DjGw7WMPPdA1lQ7a8y2VSshrv5Gc1ti0Qcn2vQtBct7_FshzpNNZuEKaNz70eYFF3AZ0"
+            },
+            {
+              "title": "investor.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyXJIFR46ec_-lk4dwQ7DNIIbOx7vQRIe8t-oG1t10fsDIvfFHL68oC7W07eyga2Dcw0BpEjQ2CN1JsI5nQAri8wyikFH3oDnLAKcqWIqZk_sgvyxnyKGd8mvs1at-db_zoFuEugQ27QURKoi_HIDvjt3rM06WLj3h-QXteiApXlPAH-t5sWBUEBI="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-59mqx8AUFvM9nTkPvDg0hz2PX86nwUxifZKdhzInrLx4L73MAlK4NU31nfKU5BqGqEcXWBT510u6MxNaNEMlNBZF5Z6q41o_glr9ePUbXbxh8jO3qt0FV0va8dHkFY8clA=="
             }
           ]
         }
@@ -183,9 +286,68 @@
     {
       "id": "taiwan",
       "title": "台灣在地",
-      "status": "error",
-      "items": [],
-      "error": "{\"error\":{\"code\":429,\"message\":\"You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/rate-limit. \\n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 5, model: gemini-2.5-flash\\nPlease retry in 40.589637749s.\",\"status\":\"RESOURCE_EXHAUSTED\",\"details\":[{\"@type\":\"type.googleapis.com/google.rpc.Help\",\"links\":[{\"description\":\"Learn more about Gemini API quotas\",\"url\":\"https://ai.google.dev/gemini-api/docs/rate-limits\"}]},{\"@type\":\"type.googleapis.com/google.rpc.QuotaFailure\",\"violations\":[{\"quotaMetric\":\"generativelanguage.googleapis.com/generate_content_free_tier_requests\",\"quotaId\":\"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\",\"quotaDimensions\":{\"model\":\"gemini-2.5-flash\",\"location\":\"global\"},\"quotaValue\":\"5\"}]},{\"@type\":\"type.googleapis.com/google.rpc.RetryInfo\",\"retryDelay\":\"40s\"}]}}"
+      "status": "ok",
+      "items": [
+        {
+          "title": "中國海警頻繁擾台灣東部海域 美英法德聯合關切破壞區域穩定",
+          "summary": "針對中國近期頻繁派遣海警船在台灣東部海域「執法」，美國、英國、法國、德國等國駐台機構於6月24日共同發表聲明，表達嚴重關切。美國在台協會（AIT）指出，中國此舉嚴重破壞區域穩定，並敦促北京停止對台施壓，與台灣民選當局進行有意義的對話。",
+          "category": "國際關係與國防",
+          "sources": [
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzLLEMaUFpcp38_82-ml1ox0EFs3ubjQOdrFidBe1Bsi0sm1bfgTdpz-TT-zsZ7iZJZvlM6VITi865vuDBs_Q1RYUiyf2ZwLRSpqrqRztRF0tZdWXDX1odqVIS3EOWLI-WnPJhCPLP5Hahfk5ibEeh6w=="
+            }
+          ]
+        },
+        {
+          "title": "台灣出席美國務院「矽盛世」峰會 強化AI供應鏈安全合作",
+          "summary": "美國國務院於6月25日至26日在華府舉辦「矽盛世」（Pax Silica）夥伴經濟體峰會，旨在確保人工智慧（AI）供應鏈安全，台灣也以非簽署方身分應邀參與。此倡議為美國與盟友合作，整合半導體、稀有礦產及AI等關鍵技術，以抗衡中國主導的「紅色供應鏈」並強化經濟安全。",
+          "category": "科技與外交",
+          "sources": [
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3S3kd0TkivFPVRT3KX5IvdRF920fA1qizIFxkMWIzOkfIZDeaqGqj9R76tA09cbHjRx5SmMKvZE7m8oQkBCBW6m3FXrMpIua9zmTc5uaT3nmU5cr7K8rlh2AcWVzjEG7-IX9KkJUqXne5x5Pm"
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGsO1WGnZAXXYnnKNEyPuG0a55sFp1mUdey8ZalLWBvLV7SjfrQUnQJYL4yBYzPorAtBcMWdg19Recni5kCM9TyuygEdtLFDlSWO07X4V0jHGOj9j3-uIsTtCrpwWCrjeuOBBsIjKJg7Nw="
+            }
+          ]
+        },
+        {
+          "title": "立法院預算僵局持續 專家憂侵蝕台灣民主根基",
+          "summary": "台灣立法院多項國防、能源及基礎建設重大預算案長期陷入程序攻防，引發外界對憲政僵局的擔憂。有評論指出，這種朝野政黨間的衝突已從政策分歧轉變為身份認同對抗，可能導致「衝突產業化」與「治理反對黨化」的政治邏輯，進而侵蝕民主體系的治理能力與制度調適能力。",
+          "category": "政治與民生",
+          "sources": [
+            {
+              "title": "upmedia.mg",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLtvVTVfSr96_dirEDQH3Ui3ITbrSiYgZoS9sCqq7pGfnjWe7yeQwldX_8XwM06U2XM9MDLjUymcvePCI-XoFwFU738xh2zPX6hbDWv8SnFe_uPz1_SAoTS5nLsLgDmZZIcjHIhKQiLtpzyktey5boEWo1W2bwF03p5KEZgvdHP8UeQmF1"
+            }
+          ]
+        },
+        {
+          "title": "全台10縣市局部地區今日停水 民眾籲提早儲水備用",
+          "summary": "台灣自來水公司公告，因管線汰換及漏水搶修工程，6月25日桃園、台中、台南、高雄、新竹等10縣市部分地區將實施停水。最長停水時間達10小時，影響範圍涵蓋多個行政區，提醒民眾提前儲水。",
+          "category": "民生服務",
+          "sources": [
+            {
+              "title": "nownews.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFAQOcTjstQo8emBi44S860rSWeCMUqPBs7GEFN-qqTnBvg7UPsvq2jwmCL1QTixLaMao6YeIAjv5b9dSTs2-kUb5arIG-YxDmLajKXa7KnHyDl9vcPZvQ5MpfM5UNefw=="
+            }
+          ]
+        },
+        {
+          "title": "信義代銷：政策風險高峰已過 預售屋市場曙光漸現",
+          "summary": "信義代銷分析指出，台灣房市政策風險高峰已過，預售屋市場可望穩健復甦。在央行維持信用管制、上調GDP預測、AI出口動能強勁以及新青安2.0政策等多重利多支持下，下半年預售市場有望逐步走出低量觀望格局，帶動自住買盤回流。",
+          "category": "財經與房市",
+          "sources": [
+            {
+              "title": "pchome.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYsVb9b0z6jdJgGr8QDCHlO-4bIpIq-vvYk1f41MrmOkP2f0qFOkqQmPtir3VVY878TKu7F-JRBDaXqbu3t-bslFRl5zV72z2o58ykOg3SwcXRenzHmq5BSVfBozpGyWdelzwcCATpka94-A15wROmlbGYHDLpMwNKHOGpW6d01rXdVRyWlm3KbLMXXvs="
+            }
+          ]
+        }
+      ]
     }
   ]
 }
