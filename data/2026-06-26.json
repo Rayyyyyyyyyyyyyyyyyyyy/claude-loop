@@ -1,0 +1,381 @@
+{
+  "date": "2026-06-26",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "ok",
+      "items": [
+        {
+          "title": "台積電預估AI驅動全球半導體市場破兆美元，並揭示先進製程與封裝藍圖",
+          "summary": "台積電於2026年中國技術論壇中預測，受惠於AI與高效能運算（HPC）的爆發性需求，全球半導體市場今年將突破1兆美元大關，並預計於2030年達到1.5兆美元。會中台積電也揭示了2奈米（N2）製程已於2025年第四季量產，並公布A16製程與CoWoS先進封裝的未來發展藍圖，強調其在AI晶片供應鏈的關鍵地位。",
+          "category": "半導體 / 人工智慧",
+          "sources": [
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH91aFJpNeTotRDpcNYzj2udgcxSfsQpwmMSbSj08PBeK_c9ljkQ8ZOKpg8WwpJuCaiMw0L20Qqiw0zCm7T4Xe2Cy1dam2O4dh5OfSO9cad7kCEvedtIrUVl8Glul_reto="
+            }
+          ]
+        },
+        {
+          "title": "OpenAI推出自研AI推論晶片「Jalapeño」，加速AI產業垂直整合",
+          "summary": "OpenAI與博通（Broadcom）合作，共同推出首款自主設計的AI推論晶片「Jalapeño」，其設計過程更透過OpenAI自家的模型加速完成，展現AI對AI自身生產的早期回流證據。此舉象徵OpenAI從模型開發向下延伸至硬體層面，旨在最佳化大型語言模型（LLM）的推論效率。",
+          "category": "人工智慧 / 軟體",
+          "sources": [
+            {
+              "title": "youtube.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb9OK56W5XYkacA_KGCv4nC7ed-dQj7qTHGEyLzCrLNAQI69g92Sc1BxV2nSpZPxdPRqnnhoUXwG3EsL5fCKO1IW1OR0htMd689WHWIRXY3ZQtdn4gAofMmEMFwQLmiiUSk5Q2Kw=="
+            }
+          ]
+        },
+        {
+          "title": "高通收購Modular並發表「Dragonfly」AI資料中心產品線，強化AI運算生態系統",
+          "summary": "高通（Qualcomm）宣布以近40億美元收購由LLVM和Swift語言創作者Chris Lattner共同創辦的Modular公司，旨在打造跨晶片的統一加速運算軟體層。同時，高通正式推出全新的「Dragonfly」資料中心產品線，包含CPU與AI加速器，並獲微軟及Meta等大廠採用，預期將顯著提升其在AI運算領域的競爭力。",
+          "category": "人工智慧 / 半導體 / 軟體",
+          "sources": [
+            {
+              "title": "youtube.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb9OK56W5XYkacA_KGCv4nC7ed-dQj7qTHGEyLzCrLNAQI69g92Sc1BxV2nSpZPxdPRqnnhoUXwG3EsL5fCKO1IW1OR0htMd689WHWIRXY3ZQtdn4gAofMmEMFwQLmiiUSk5Q2Kw=="
+            },
+            {
+              "title": "digitimes.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE5Sem_CbQtnz7iXK90TxkZvyt_pK9qffMWWFk3wYCKUUVJy4xe-41PrL5kCDz4xxdncmNtwIF7r5xHCupGejvYdKPSx7ffnSyGtCVqsKHSpEeAca77NJBhsaZTGw=="
+            }
+          ]
+        },
+        {
+          "title": "蘋果因AI需求推升記憶體成本而調漲多項產品售價，並傳將轉向AI導向的M7晶片",
+          "summary": "受人工智慧資料中心建設熱潮推升記憶體與儲存晶片價格影響，蘋果（Apple）宣布調漲Mac、iPad、HomePod、Apple TV及Vision Pro等多項硬體產品售價。此外，彭博社報導指出，蘋果正計劃跳過M6 Pro與M6 Max等高階版本晶片，全力衝刺AI導向的M7系列晶片，以加速人工智慧功能的發展。",
+          "category": "科技產業 / 人工智慧",
+          "sources": [
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJe8MeqL_fl0D1jEbdwTw2z6uj6AjwU4m0Q-xtsGypKCHRDRduNmTihW_v9Urq8TWoaXHbTGZDNgDXm8Omwgfvr-mp5jPUfoubxJt6-9-jPo8XzVgRcSjghj0Bl50="
+            }
+          ]
+        },
+        {
+          "title": "美光公布超預期財報與龐大訂單，釋除AI泡沫疑慮，凸顯記憶體在AI時代的戰略地位",
+          "summary": "美光科技（Micron Technology）公布截至5月底的季度財報，盈利年增近14倍達282億美元，遠超市場預期，並擁有高達千億美元的長期訂單。此強勁表現不僅緩解了市場對AI估值過熱的擔憂，更確立了記憶體在AI時代作為戰略資產的地位，預計DRAM與NAND的供需緊張將持續至2027年之後。",
+          "category": "半導體 / 科技產業",
+          "sources": [
+            {
+              "title": "hkcd.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3QvdyPzcADtEGkO4MCmvEYEVU9zCMLoxUEjSJsh8LzCJMEDDKzuchmIoKPg4HahHn9XH5WdRIF8sravSJixxV_B5ZovQYf5gOSXv2hHGEymMpzzBPLB-qCkLkn-Hfu750ZfJo4iaIoVTi_FhOsU3AMj0tiZTv5mIGYE3Acjs="
+            },
+            {
+              "title": "moomoo.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGltOUZgePxQW4VWPwXyt15TYVUL4_d8j7QliwN1ikpCwGI4_hQkUNtNczn4QTxaolSw0slFDf6SH1zXRcms4v3sdV-T407IP1H8f0mOODRAB-6RCsy_Ov0_IcLjESugvlB8ZHjxnpMFWg0JhaaXHkUTjIUjcyxZ_F6Sjtyq9pe0IwN5TJNqln0fCUmfZ-4zHUD"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "ok",
+      "items": [
+        {
+          "title": "荷莫茲海峽情勢升溫 伊朗警告與貨船遇襲",
+          "summary": "伊朗革命衛隊警告未經協調穿越荷莫茲海峽「不可接受且危險」。此前有美媒引述官員稱，伊朗於週四在該海峽襲擊了一艘懸掛新加坡國旗的貨船。國際海事組織已暫停疏散滯留船舶，加劇區域緊張局勢。",
+          "category": "國際情勢",
+          "sources": [
+            {
+              "title": "capitalfutures.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIMkzTV8pg7ssf9FQtO7EU0dfKo0rsg4oSnnLmIwIjFW6uL2tRyhnj-c0weolxRD9BCKWzcyxNPfsh-0jeysATcQjD-IcsOQ7bhx1m-MATDWQ0qCeMCLLFRHpRyEWZj_469_PA4fj098_v9wsBklW4yelkd19lGR6W0mw_xSRkjYeCOkWG6C_9hxVznVFL3Nw0l0et1KGX"
+            },
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEb7HsB5t6R2_mywmhxWZ_POWD-W6vUyR_Kdz6tgHei4Vr6M0-ddxQlY8ZLpem58HwGuLKotIIgHSgHyDdOWCFNkhj0jkkUDNUX7xf79zEvzTzq"
+            }
+          ]
+        },
+        {
+          "title": "委內瑞拉雙強震釀188死千餘傷 美國馳援",
+          "summary": "委內瑞拉遭受規模7.2及7.5的雙強震襲擊，造成至少188人死亡、逾千人受傷，首都圈受創嚴重。美國已承諾投入48億美元提供援助，全國進入緊急狀態以加速搜救工作。",
+          "category": "社會災難",
+          "sources": [
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5GfGz9lJK6vyehaO2XDs9SbkA4g2371E-HaN9xHMIejKYtsvON_A7QusbW0kUuG_mvR4csqIzH5OtVd2Yn3VLIAtTs7Xw7Bq7PcCuMJZb4VW0_ODO7DL6hUy_hLUF8Jk="
+            },
+            {
+              "title": "sbs.com.au",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUDgHxU0jqwNlTeRLRL5PW_HIp1GZWsY36-UjwIEd7ls1bcD0gVpAYgaEyu3KfyS-ZqxEc6G9IBLXpobx2TTYNHBiCJHfNnbzBPqI6yd4f3M5r86aQzEISEsowm_vGVqe913YFc3FLE11gd1Pg01sdEHAGDIyCm9PkqvZ9CkehmSBQGe85o41kxCOUgdMAwwrW_XRvlkE392YjDkcV"
+            },
+            {
+              "title": "google.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5LM0-FDQtAFEFJQsvczbJOJmzgAJNeDdfhs-OcTRztY1s0NaCXB7CtbgmBNzJZaAuhRnrHmiA9vYqSL7tE7KWOsKW1hrjrhGobz1g1fN7fN7dx7re0Wts4f7D8O0HCav0XuHdbjDLGZlj5jIx2Gv432H6qKnNO9k="
+            }
+          ]
+        },
+        {
+          "title": "全球熱浪持續 英國瑞士迎史上最熱六月",
+          "summary": "北半球熱浪持續肆虐，英國和瑞士正面臨史上最熱的六月，而荷蘭也已啟動高溫警報。極端天氣事件頻繁發生，再次凸顯全球氣候變遷的嚴峻挑戰。",
+          "category": "國際社會",
+          "sources": [
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5GfGz9lJK6vyehaO2XDs9SbkA4g2371E-HaN9xHMIejKYtsvON_A7QusbW0kUuG_mvR4csqIzH5OtVd2Yn3VLIAtTs7Xw7Bq7PcCuMJZb4VW0_ODO7DL6hUy_hLUF8Jk="
+            }
+          ]
+        },
+        {
+          "title": "中美同意成立貿易理事會 討論對等降稅",
+          "summary": "中國商務部回應中美經貿磋商最新進展，雙方同意成立貿易理事會，並將在該理事會項下討論對等降稅等合作議題。此舉顯示兩國在經貿關係上尋求新的協商機制。",
+          "category": "國際政治",
+          "sources": [
+            {
+              "title": "capitalfutures.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIMkzTV8pg7ssf9FQtO7EU0dfKo0rsg4oSnnLmIwIjFW6uL2tRyhnj-c0weolxRD9BCKWzcyxNPfsh-0jeysATcQjD-IcsOQ7bhx1m-MATDWQ0qCeMCLLFRHpRyEWZj_469_PA4fj098_v9wsBklW4yelkd19lGR6W0mw_xSRkjYeCOkWG6C_9hxVznVFL3Nw0l0et1KGX"
+            }
+          ]
+        },
+        {
+          "title": "貝佐斯與馬斯克提太空殖民 解決地球永續危機",
+          "summary": "亞馬遜創辦人貝佐斯與SpaceX創辦人馬斯克，皆提出將重工業、數據中心甚至晶片製造搬離地球，以維持經濟成長和環境永續的願景。他們認為，人類若想同時發展經濟並保護環境，最終必須向外太空拓展生存空間。",
+          "category": "科技趨勢",
+          "sources": [
+            {
+              "title": "csrone.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH20WAVt5R-rTttdaxANfMn3PAA0faAur0hsaM8jfzNHF5AjPWpikYUDNsFA8xc5DSnLHI8TQ0FmPjUOUvdnXDSB5eDuSYaDFlFXWgzAI75qJCtSv2crfaI9w=="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "ok",
+      "items": [
+        {
+          "title": "美光財報超預期點燃AI記憶體新時代，引領全球股市反彈",
+          "summary": "美國記憶體大廠美光（Micron）公布優於預期的季度財報及強勁財測，顯示AI對高頻寬記憶體（HBM）的需求持續強勁，並預期供應吃緊將延續至2027年後。這項利好消息重新點燃市場對人工智慧（AI）前景的信心，激勵全球股市中的晶片與半導體類股普遍上揚，多家華爾街券商上調美光目標價，預示記憶體產業邁入新時代。",
+          "category": "產業財報/全球股市",
+          "sources": [
+            {
+              "title": "line.me",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmSX7C_DD03QO_KLShFp5-IyqSW8LMtTG9WPsLrFOdrMQvwkdF3j8TUgBrpahJySHMO0ne4SXeh-4X1iJkCKXKVi2P9yGgCKvRsV-U9OcIisP0mnVbtXJj8vcNUNgCL7jhb--Uk18="
+            },
+            {
+              "title": "sinotrade.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5nER0-xbv2YouKuuEwxEJ7SBTYkTRkFuMQR6KdcqZv4ONaX6zRPODnBk6f4d3CDaiYez1AJ9m6N9DZojB1trtg0Ao94sveHZixUzy2YF9ereCmzt7-dAXMQ3HSXe6813TYeF932VX_Z4VSfdQTXsEQ8AQwKt30247v5YqHBY="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrY2XAp1AtuoDLPU4AbhRkzkyJ5CVngGxi5qaFQjefvjBGzGSyk2HeBSnSP7QbeHybq1MMJTLYQiKJ5oYNSlbfFLWTijWjteGAlYw7ooUOGckfbRAKNtsVx91Y8RISdehQWl5CM7HOJn0="
+            },
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY7b2gwnJo9B0EzAQuaolLwx4GNJ7hyAoxpIFXD-kZL_Zq-WrditG8d44fNMV-QqdtBn1S0NTo1N46cUE0nmq6GwAcD-HKaMuApx7V34d1xsMHJmJmfRv0Bpz9jTT2"
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENW7aPngBboJKyaUVTSnqXQd0m96lEmycq9Kf-2fRqLAa-dWNJpOnu0l47msUqQRurnfnR06CNiIhNfDeEeDHpKqck2Y2dHFDzqufxpUVFRCheWeRoiPlPnOVEZtdt1XFU8FX1J2TXuYsN5_KA5aiAkYSs6RMzwrlR2NUErFiWIVK1oQ=="
+            },
+            {
+              "title": "line.me",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGsl0Re76ikt-jit8Fu9sG9zrMvhjnBL3UaL_rRTBC85R3-JRJRCMNT-U0v_kBD_ofFTz6uZHJ1HjE18ZYoNu1MqT78fdXFxmveTLDK4v52MWilw1OKJthJ7DHCqZh9O1xsVeN7pc="
+            }
+          ]
+        },
+        {
+          "title": "美國5月PCE通膨增溫且Q1 GDP上修，聯準會利率路徑添變數",
+          "summary": "美國公布5月份個人消費支出（PCE）物價指數年增4.1%，符合市場預期，同時第一季國內生產毛額（GDP）終值上修至2.1%，顯示經濟仍穩健成長。然而，通膨壓力持續存在，使得市場對聯準會（Fed）未來利率政策走向保持高度關注，部分官員預計2%通膨目標可能延遲至2028年實現。",
+          "category": "總體經濟",
+          "sources": [
+            {
+              "title": "capitalfutures.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAJDFOi_PMGX6pXj7Cv2fE3rERrzxhWfMuIbNr9xXkNVfDTWcGKjn0zhFBD9BkJON7mbs4KnYQSkaC6Bk1kbpp0JMeEM9Umz1P-Aqto7nS1XOs1S-d9ls_cBvp3WCah_ATvMDSgigXlUT1ZaKzwNbu9NnwSuUpyKNwK3-QUoGZ8DVD6NolcFBVwh-0rrUISy5t2VAigyeI"
+            },
+            {
+              "title": "line.me",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmSX7C_DD03QO_KLShFp5-IyqSW8LMtTG9WPsLrFOdrMQvwkdF3j8TUgBrpahJySHMO0ne4SXeh-4X1iJkCKXKVi2P9yGgCKvRsV-U9OcIisP0mnVbtXJj8vcNUNgCL7jhb--Uk18="
+            },
+            {
+              "title": "sinotrade.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5nER0-xbv2YouKuuEwxEJ7SBTYkTRkFuMQR6KdcqZv4ONaX6zRPODnBk6f4d3CDaiYez1AJ9m6N9DZojB1trtg0Ao94sveHZixUzy2YF9ereCmzt7-dAXMQ3HSXe6813TYeF932VX_Z4VSfdQTXsEQ8AQwKt30247v5YqHBY="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrY2XAp1AtuoDLPU4AbhRkzkyJ5CVngGxi5qaFQjefvjBGzGSyk2HeBSnSP7QbeHybq1MMJTLYQiKJ5oYNSlbfFLWTijWjteGAlYw7ooUOGckfbRAKNtsVx91Y8RISdehQWl5CM7HOJn0="
+            },
+            {
+              "title": "cmoney.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLwmoX97r-bkNYmK78OqLWtpUOBTEOiKOQmJ7re7f7WU7A9MiUAxWd41Qege2DBuyjLzSByo2VRASCEPHRCODoYN93QsHz-vOrTdNzz31xqcQSOMEvRA2RZRzyGpZgsQD-JtEobWzQ5g=="
+            },
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY7b2gwnJo9B0EzAQuaolLwx4GNJ7hyAoxpIFXD-kZL_Zq-WrditG8d44fNMV-QqdtBn1S0NTo1N46cUE0nmq6GwAcD-HKaMuApx7V34d1xsMHJmJmfRv0Bpz9jTT2"
+            },
+            {
+              "title": "capitalfutures.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD33lGJEnwqxwPaatT4MENh1wgOFd370DDolptS-NsjQwfrHVBb3N95ZpLksgmCbc8TtYLlsDXoIq7xB9Q6jR3lK1Kn92an5u8nIjgAFkDMahXxuOxyDg4mSi79jdKNwfftKab7oytUYmjUyRyaEc4LhexUsmG_G1haOpGdnHxnXbBs4g9KNkse0SRZabELi0t"
+            }
+          ]
+        },
+        {
+          "title": "全球股市受美光財報激勵但走勢分化，科技巨頭蘋果下跌拖累那斯達克",
+          "summary": "受美光科技財報強勁提振，全球股市部分反彈，帶動半導體類股上揚。然而，由於蘋果公司宣布調漲多項產品價格以應對記憶體成本上升，導致其股價重挫逾6%，拖累那斯達克指數震盪翻黑，顯示在高利率環境下，科技股走勢仍具敏感性，市場表現呈現分歧。",
+          "category": "全球股市",
+          "sources": [
+            {
+              "title": "line.me",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmSX7C_DD03QO_KLShFp5-IyqSW8LMtTG9WPsLrFOdrMQvwkdF3j8TUgBrpahJySHMO0ne4SXeh-4X1iJkCKXKVi2P9yGgCKvRsV-U9OcIisP0mnVbtXJj8vcNUNgCL7jhb--Uk18="
+            },
+            {
+              "title": "cnfol.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_Vu3OB59Z9tcitxxwBsKnQHsf0vAfJfbN1wnEbod7X2BFFgQhElpkSly4oG_-zq7PKgpptpG_hR6wBafW_FSD_b7Xb9wZRvw-Oj5ShyyjYzAqivyzSxhMmg7Fe-Y6lKNtHn3DHXgZptDDWAUGY_1YzJdcuvA="
+            },
+            {
+              "title": "cmoney.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLwmoX97r-bkNYmK78OqLWtpUOBTEOiKOQmJ7re7f7WU7A9MiUAxWd41Qege2DBuyjLzSByo2VRASCEPHRCODoYN93QsHz-vOrTdNzz31xqcQSOMEvRA2RZRzyGpZgsQD-JtEobWzQ5g=="
+            },
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFY7b2gwnJo9B0EzAQuaolLwx4GNJ7hyAoxpIFXD-kZL_Zq-WrditG8d44fNMV-QqdtBn1S0NTo1N46cUE0nmq6GwAcD-HKaMuApx7V34d1xsMHJmJmfRv0Bpz9jTT2"
+            },
+            {
+              "title": "capitalfutures.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD33lGJEnwqxwPaatT4MENh1wgOFd370DDolptS-NsjQwfrHVBb3N95ZpLksgmCbc8TtYLlsDXoIq7xB9Q6jR3lK1Kn92an5u8nIjgAFkDMahXxuOxyDg4mSi79jdKNwfftKab7oytUYmjUyRyaEc4LhexUsmG_G1haOpGdnHxnXbBs4g9KNkse0SRZabELi0t"
+            }
+          ]
+        },
+        {
+          "title": "台灣經濟成長預期上修至近10%受AI驅動，惟「K型分化」現象加劇",
+          "summary": "台灣受惠於AI產業強勁需求，外銷訂單和經濟成長率屢創佳績，多家機構將2026年GDP成長預測上修至9%以上，顯示經濟進入高成長期。然而，報導指出，AI榮景主要集中在少數產業和企業，導致社會出現「K型分化」現象，多數民眾對經濟繁榮感受不明顯，貧富差距隱憂浮現。",
+          "category": "台灣總體經濟/產業",
+          "sources": [
+            {
+              "title": "sinotrade.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5nER0-xbv2YouKuuEwxEJ7SBTYkTRkFuMQR6KdcqZv4ONaX6zRPODnBk6f4d3CDaiYez1AJ9m6N9DZojB1trtg0Ao94sveHZixUzy2YF9ereCmzt7-dAXMQ3HSXe6813TYeF932VX_Z4VSfdQTXsEQ8AQwKt30247v5YqHBY="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrY2XAp1AtuoDLPU4AbhRkzkyJ5CVngGxi5qaFQjefvjBGzGSyk2HeBSnSP7QbeHybq1MMJTLYQiKJ5oYNSlbfFLWTijWjteGAlYw7ooUOGckfbRAKNtsVx91Y8RISdehQWl5CM7HOJn0="
+            },
+            {
+              "title": "cmoney.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLwmoX97r-bkNYmK78OqLWtpUOBTEOiKOQmJ7re7f7WU7A9MiUAxWd41Qege2DBuyjLzSByo2VRASCEPHRCODoYN93QsHz-vOrTdNzz31xqcQSOMEvRA2RZRzyGpZgsQD-JtEobWzQ5g=="
+            },
+            {
+              "title": "upmedia.mg",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDmonaCU91Rile_2SNg-EI91Evvg7nSz_tt2FpSHLxzFEwbr1XNqXx6UHDowZxyCKESRrBhzt_ejZLx30bAzIv5M9SbDRTQm0MbGLl1oaaPrlg7FuK-ZkNc-8zevDlY_Crrw1RjqmwfBs="
+            },
+            {
+              "title": "586.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCDudEsvqs0_4gfkljKfSgwmGVTegRmZANzhKMsl3-rPdJ3-fxqbDoQTKTNjQ6yAnz5QfkyTQkEPHO343ogJlwHpKbORsUGBfHYh8yB9sgb0NfqAd77L-Eq88Fa4SYje0-ende_Z-y"
+            },
+            {
+              "title": "ctee.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgM27WLqVtYlrNwMBaCjP9De3tFUHQq6ATWrewsw8CZXI1d2H4ANRSRi3kkMoREgKFoJyWusQpMUm3RBPjGMxNmvlnA3a3-SFVX382t6Qopwq1j1QSwZe4mCCb4hHJSwCcwh_cysvANdJZpuQH"
+            }
+          ]
+        },
+        {
+          "title": "中東霍爾木茲海峽局勢升溫影響油價，中美經貿磋商取得新進展",
+          "summary": "霍爾木茲海峽發生貨船遇襲事件，伊朗革命衛隊發出警告，一度推升國際油價，市場擔憂中東局勢對全球能源供應的影響。同時，中美經貿磋商取得最新進展，雙方同意成立貿易理事會，並將討論對等降稅等合作，試圖緩解貿易緊張關係。",
+          "category": "全球財經/地緣政治",
+          "sources": [
+            {
+              "title": "capitalfutures.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAJDFOi_PMGX6pXj7Cv2fE3rERrzxhWfMuIbNr9xXkNVfDTWcGKjn0zhFBD9BkJON7mbs4KnYQSkaC6Bk1kbpp0JMeEM9Umz1P-Aqto7nS1XOs1S-d9ls_cBvp3WCah_ATvMDSgigXlUT1ZaKzwNbu9NnwSuUpyKNwK3-QUoGZ8DVD6NolcFBVwh-0rrUISy5t2VAigyeI"
+            },
+            {
+              "title": "line.me",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmSX7C_DD03QO_KLShFp5-IyqSW8LMtTG9WPsLrFOdrMQvwkdF3j8TUgBrpahJySHMO0ne4SXeh-4X1iJkCKXKVi2P9yGgCKvRsV-U9OcIisP0mnVbtXJj8vcNUNgCL7jhb--Uk18="
+            },
+            {
+              "title": "cmoney.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLwmoX97r-bkNYmK78OqLWtpUOBTEOiKOQmJ7re7f7WU7A9MiUAxWd41Qege2DBuyjLzSByo2VRASCEPHRCODoYN93QsHz-vOrTdNzz31xqcQSOMEvRA2RZRzyGpZgsQD-JtEobWzQ5g=="
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDDV6sBBgW-PYwGhoF26EX1pkTtLmhr476Y4ekCIW5uT7JOu5bfmB1vjn2KMgCn3Z2xHZMVHarCZwfMEx65h1AEXNwqsXTaB4vv0SksYLgqeobOoSWGob7V5-EFNl_slpDhwFJD_MqHcyzJb7MphecMChXJ9ZlWyntkVZOyRM="
+            },
+            {
+              "title": "capitalfutures.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGD33lGJEnwqxwPaatT4MENh1wgOFd370DDolptS-NsjQwfrHVBb3N95ZpLksgmCbc8TtYLlsDXoIq7xB9Q6jR3lK1Kn92an5u8nIjgAFkDMahXxuOxyDg4mSi79jdKNwfftKab7oytUYmjUyRyaEc4LhexUsmG_G1haOpGdnHxnXbBs4g9KNkse0SRZabELi0t"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "南部多縣市因豪雨停班停課，交通受阻",
+          "summary": "受到鋒面及西南氣流影響，台灣南部地區遭受強降雨襲擊，導致台南市、高雄市、屏東縣等地於6月26日宣布停班停課。豪大雨造成多處積淹水，部分鐵路路段亦因水淹軌面而暫停行駛，影響民眾通勤與生活。",
+          "category": "災害與民生",
+          "sources": [
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQkuuiLKwTSEIIcUacUmr5t8UuBCcAicC8NjZPuU7ofV2EByuzGtcW1TQ20wjui7msZeLbbLYesMfVLBCVv7_2BcJY7K2O1CF-A3TLI4IabRlkMi6aGe5E8AKyk60TEYTnMJMGCOHZYhCXMt6q"
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdzcPR3yyne-gjwFxJZ5GcogOnRAIVGs_wSC17FEc5oI1NAwfdlRn0sA7-NK9M2wiErbtZuwLkcUv6eWabharofBhzxHms9ngqax2gPIqTPgicI5CsbBFyy8kS"
+            },
+            {
+              "title": "storm.mg",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF3F1lE9iT28UHw85WWUizWBIyCQFx_6XKOcxa3rybvzi-IQnEFXMUvS9enLpX8R2ZU0Ew2x9l4XAasQ3U9dsCjw1_RNeXLPwrCQVv1jS15H7P8f9Jh1D33vPrig7v8IF1SEA=="
+            },
+            {
+              "title": "bccnews.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqgT7nHYybZDnVr8iK-BZHZAUt-YJqAxDA7gVIITbE3Dh6nwfxZLrghbzc75LcLqwK1JkTaibWr4x30qDEpgzIRfb6zz-zZDmF9N0CjEWywc-5To36ka_Mt8aPOp_GC-Fx"
+            }
+          ]
+        },
+        {
+          "title": "台灣國際醫療暨健康照護展盛大登場，聚焦智慧醫療與長照機器人",
+          "summary": "2026年台灣國際醫療暨健康照護展（MEDICARE Taiwan）於6月26日在台北世貿一館開幕，共有來自13個國家及地區的288家廠商參展。本次展覽聚焦智慧照護，並設有創新醫材主題館，展現台灣在AI醫療應用與長照機器人領域的實力與潛力。",
+          "category": "科技與產業",
+          "sources": [
+            {
+              "title": "iek.org.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsTF096YF9U3c-l7VH91RPgzdPbpsK8W2cHXbG8jVgUnne02DBdJQqKeqsuOpd1qnf0LPdQthOLFTicIsF_SW8ABS-DXt-gYmcqglVqBMC2cRLukGqDzE5na95dbxdpLGHZAsxmaMXAYM2OeQkQGfDse3SrROxd_AMh9oBXe5r3DnZ7daC2bowY7dvkTMzZIMC-N5pTBVkwxYugFMVBP1L0W29vveV1p6AcFfOa-swmQaR"
+            }
+          ]
+        },
+        {
+          "title": "行政院通過婚育家庭減稅大禮包，回溯至2026年元旦適用",
+          "summary": "行政院會於6月25日通過《所得稅法》、《房屋稅條例》及《土地稅法》修正草案，推出針對婚育家庭的減稅方案。這項政策將未成年子女免稅額提高50%，並預計自2026年元旦起回溯適用，旨在減輕家庭負擔。",
+          "category": "財經與政策",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNzQ0qR3DNUN3I-wQhdcVpsPMtaJ6-5GyxMw-qv9VPihnArPqXAc82LbSLXLAojM76C4iVLLpWCmWymBp81Ey_el7N2QqtPCFoYVDkmpvM9KPva570VAhLyEJr5CDfTLIPyEP2tnoi67Y="
+            }
+          ]
+        },
+        {
+          "title": "國泰世華銀行董事長郭明鑑因兼職爭議請辭",
+          "summary": "國泰金控董事兼國泰世華銀行董事長郭明鑑，因近日兼職引發社會爭議，為避免影響公司聲譽，已於6月26日宣布請辭所有相關職務。國泰金控表示將另聘資深顧問。",
+          "category": "財經與商業",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdzcPR3yyne-gjwFxJZ5GcogOnRAIVGs_wSC17FEc5oI1NAwfdlRn0sA7-NK9M2wiErbtZuwLkcUv6eWabharofBhzxHms9ngqax2gPIqTPgicI5CsbBFyy8kS"
+            }
+          ]
+        },
+        {
+          "title": "行政院拍板毒駕修法，加重酒駕及毒駕累犯刑責",
+          "summary": "行政院會於6月25日通過《刑法》部分條文修正草案，針對酒駕及毒駕的累犯行為，將大幅加重刑責。此舉旨在遏止日益嚴重的毒駕問題，並保障用路人安全。",
+          "category": "社會與法制",
+          "sources": [
+            {
+              "title": "line.me",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUsMdnyHMt25IuMaPwlJiEkGVENBjgd8ZO-FcTCF-uh6A9xbYMSptrt1CMdKcNwj1aM0lV2W0DJvfp52YdUWD2JFIe_eJRqCp_onQ4kOUi7OaJ8qjZipAJKJepSiVrvfdzyOw="
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
