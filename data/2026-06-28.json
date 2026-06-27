@@ -1,0 +1,377 @@
+{
+  "date": "2026-06-28",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "ok",
+      "items": [
+        {
+          "title": "三星集團擬投入巨資布局未來AI與半導體產業",
+          "summary": "消息傳出，三星集團計畫公布一項高達1,000兆韓元（約6,457億美元）的尖端產業投資計畫。此計畫將涵蓋未來十年在半導體和人工智慧等關鍵領域的發展。市場正密切關注預計於6月29日召開的政商聯合會議，屆時投資細節有望進一步明朗。",
+          "category": "科技產業",
+          "sources": [
+            {
+              "title": "digitimes.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_e3t-lqMTgg17lY3z9h7KmViHqInMTzDadSfaqUrzNs3TLL_Vd_sjjaeRroGEJTRQ3o9yeiSYyUq2iOVbISaishH3ff34ENC3JrS-zfbDuYJGtIvzZUDfa27pBA=="
+            }
+          ]
+        },
+        {
+          "title": "台積電預估全球半導體市場將突破兆美元，並持續加快擴產",
+          "summary": "台積電預期全球半導體市場在2026年將突破1兆美元，並在2030年達到1.5兆美元，主要由高效能運算(HPC)和AI需求驅動。為滿足客戶對AI和HPC的強勁需求，台積電將持續加快擴產，包括新建9座廠區。公司先進製程如N2P、A16及N2X/N2U，以及CoWoS先進封裝產能，均有明確的量產及增長計劃。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "yahoo.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeVTyyzz1dJTvl6K7vZmmcaxqe9zLW_YhKIqTPtVGiGYiz6mCOWK6En-6R0or1N8IAG4JmB_qf8okAdPh7JqOxux1pOcuE_6B0LtGkJd8iwsi_oBX9Xh72A54lcFBp5QVWhV_2Uq20H1tO84_WvHpbn1sOIVpqycHOURbZ3w1Vxw5zMXvqtwFYaoVQwaKIwekGNPxiYLfdt4p8iEynXo9voAwr2Gr7TmfFIKB4arx-U-kgaZD4QIXMj2bAE9vn4godqdNUrrWJ_0xYsHNgfdA0FxkfhyiviS8wyLu7gSkR6gnUSgAwugovrNPCnhfLpASZZoTFRoICTCu39fJMrqyCIl58GEobHFjbS9lsVlOOz2AenrK1xoMDfKNX3ZnoL-zCbDNgqU4ELNy2um6uV-M4L4KhACeY2Oyky7IJ4HUkkcLRHZ3sE9G6x3IJTSn5lO1j7V9AVhCOzRrU8kOqJnYZTXHkWG0W6Up3"
+            }
+          ]
+        },
+        {
+          "title": "意法半導體宣布微控制器（MCU）再次漲價，6月28日生效",
+          "summary": "意法半導體通知客戶，將於6月28日啟動今年內第二次的微控制器（MCU）價格調整。此次漲價反映了半導體供應鏈成本持續累積的壓力，恩智浦、英飛凌及新唐科技等其他MCU廠商也陸續跟進。成熟製程產能趨緊、晶圓代工成本上調及NOR Flash價格上漲是主要推手，預計將對下游製造商的採購成本造成進一步壓力。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "futunn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE3w___Jf6aMByLe6PyKeY9uCpf-2nV9F87QsOnNTYCLukVhXvXnEpV-YynpoWdyn3LJmL3arCWDtnxm4IFZu2Q5A6MhAPHK2PcnSIMJmELosiZ8QyeCMDLLpe_AvqPLY1bd2FQ2f5j8TaR5G3dU7NijsaWEXe9niB-BGejIE3abMj9P33PAdIKPkFl0xl7b4I0O9kTIMArbV8ONYA8OeSlpeAbMsA="
+            },
+            {
+              "title": "moomoo.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFj-sr_gemnRBCfMH41aBAGf36Lt7PRW8xQLJfIP1NX8RV9FFtrMeZUP5zChkFJZL_1IY67cE1HeFoY_GlGF3nm_xrciRHHhRy3fgUsnEvWVywxWQhi7YeUeHUaHBpGztwQOgGN_6N4eCA0zuZgciqMYCv7UkV--30bQwxmkanWuV8kzCdr63dL6mjXxAdYAuTKmIWHcE_bEx30elqfObTiTVq4A0MVXPx0fbA="
+            }
+          ]
+        },
+        {
+          "title": "五眼聯盟罕見示警：AI網路攻擊將在數月內成形，威脅政府與企業",
+          "summary": "由澳洲、美國、英國、紐西蘭和加拿大組成的「五眼聯盟」情報機構發布聯合聲明，警告強大的人工智慧模型可能在未來數月內發動毀滅性的新型網路攻擊。聲明指出，AI技術將大幅加速網路威脅的速度、規模與複雜度，降低惡意行為者的攻擊門檻。這使得網路風險不再只是技術問題，而是核心的商業風險與領導階層責任，需全面性應對。",
+          "category": "資訊安全 / 人工智慧",
+          "sources": [
+            {
+              "title": "pchome.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEp8QC7m_6KbSvlgOXHmWWIyZ6v30LZCp6nO5vloH420IXKK9gAyRxTIvWwGJHAQkyo7Bk5gUPmmed02d4MhpYW_Pywn6kIoAJRfz92Olnhumk73LJbzmFSP9VSDQefOal8Cxwy6y05AkoPWSrvnSY1ej_PVXh-iJ5bTY1BgdAa3HFAW59Gk1xBGa2r8379"
+            }
+          ]
+        },
+        {
+          "title": "MWC26上海圓滿落幕，AI經濟與6G創新成全球焦點",
+          "summary": "為期三天的MWC26上海會議與展覽圓滿結束，吸引37,300名來自143個國家和地區的與會者。本次大會聚焦AI經濟與6G創新等議題，展示了正在重塑中國、亞洲乃至全球移動產業的前沿技術。5G和5G-Advanced被視為AI堆疊的基礎層，為日益嚴苛的系統和服務提供所需容量、延遲和可靠性。",
+          "category": "科技會展 / 通訊",
+          "sources": [
+            {
+              "title": "prnasia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFo5NLHPqBDZb_JXqL9Iu4FjX8yO7O4sMyGlHO_M1IbiDfZAPiomuSZGdh7Rg0kZ8vJ9etWFayTZdqJZQY6nMrmX79DMjrV1phfkWWdQo78TtPHPTud3cc3EzwgFB4htZUFLgjRKJ2itZIZc5OKl-0lBNJIH_P2"
+            },
+            {
+              "title": "prnewswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBmr7uuVTiqG6D8oSP23GHpeNXYINYPBVuFsrEjUcS8omkNZ2rgtvyjBkBVGwGyZBsnf2BHC-HAXASbfXTRtBZup-_O8A6MiEJlDyUogfME-XpLa-ikJzr0s2Gi2YUCaVyhD9ZLgcd8ThzHRutUdGudJv_BxSTk45r7cRnrb4yEM9F2z47wcRFn7Oz9yReqpke"
+            },
+            {
+              "title": "prnasia.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG_6qtsBfN7iNRfo7h34iWhAppe41c_fwcRPIxFVL-EjpY62PCjwLu1rv-abg_0Zaxi9zJLLDq5g8vpc_hqicn7qD_SVp6RPH6l6Epyib_v7hYMhBDKX8OAXYiov80BQ9oQ3h4RRKI="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "ok",
+      "items": [
+        {
+          "title": "委內瑞拉強震釀逾1400死 國際搜救持續進行",
+          "summary": "委內瑞拉日前發生規模7.2與7.5級強震，截至6月27日，官方統計死亡人數已超過1430人，另有數千人受傷，大量民眾流離失所。國際救援隊伍持續投入搜救行動，但餘震頻繁及建築結構不穩增加救援難度，國際移民組織估計最終死亡人數恐影響670多萬人。",
+          "category": "國際社會",
+          "sources": [
+            {
+              "title": "2cr.com.au",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFf2nnOW2Q-qkFihDF2UII1JqndD3tUiNQmz_25kGDZ86Ou5GFN0V_geRlyMyYCGhGDcgaE2Ej6GK9UyMBxpnztpPwa5HwIidefocrulyo-ysr8c2pcBYfTNzS2HXVsGYvSSptkqEGTFfxfAn7N4n3X180KQ4X5tLPGx3LABQ71SPNm1UU_Or_VPHG-m7ncjSpEnbiNvZYLPFccQdvSbPgtnsj20WYEXyMvWkhYs8cS1eDDYrGZY8SmSQkRcext4yKK9kmUNyMYdWqttw4r1crhNrd1mh-geliQkQV3T-wtmXYnpbobLU1aBIF0tyPF8rc4svvurl6uC4aCGE1iClx_nKf22O3S27QJL3L5x2uvPMYKNv6icA=="
+            },
+            {
+              "title": "rthk.hk",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMZ_qZvP9lvfixIixrrMgJF3U6_JQcab2X9A1RgkKxow3XobowQX90VeicMKEkw5tZgXEPfiKlcgCTcyuHd208KWq0FrpXCACJfzR54LKdDNgbyat9sJeS1GXhFzULaT00o6h_sKH0"
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgcknbwwXF4ZTEgcwEe-oq7RgiCsxN0IkPj8Va_qii-gzb6vny8bVmS2pWx_9ALTIUJHldYrAMDIz-1t8ZgoUscXRZwKVfTmOxM_Cay_0Qey39ZIHQSzpJd2BRuImKW45qfI4w4Cppqt1HuzSNujpgn3EUZdhs8ysg4pFtz9LOFA=="
+            },
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0FhlpIRBV9INBMu2z_Izoxpw_LgXbDr1AA9s6ga_KLcfUQs92lRM0j4zAHDX7Ot3A1JNUxIifRwR8QaurlppIKTpr827DNpNESgFw7EKEZSaVcK-JYgzLXNQKzyf9vRE="
+            }
+          ]
+        },
+        {
+          "title": "中東情勢升溫：美伊談判僵持、油輪遇襲與伊朗通膨加劇",
+          "summary": "美國與伊朗在瑞士進行的和平談判進展有限，主要因美國總統川普的威脅言論以及以色列與黎巴嫩真主黨的衝突。與此同時，荷莫茲海峽發生油輪遇襲事件，而伊朗則面臨惡性通膨，6月通膨率飆升至88.6%，食品價格更翻倍。",
+          "category": "國際政治",
+          "sources": [
+            {
+              "title": "rti.org.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRjByhQg3ipgBHnWZKU5OpH-YA6jWJrRI5TSVtXkrTiAu5LFF1xEStwUqIBYasHLLklA8STBwj_rShsjOQLzTPkZ3-Q91MCddwnXgi_vgFzFQdquuNPPTN-1kpP2_VKZ8Sv33V7rpq"
+            },
+            {
+              "title": "vocofm.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2s63tWZhBTXgR12-ifE1kODVY2MUqwgL-Be1G-8_IgGGzvyPTmMSzjAUhAye5hliMMovL_CpUXLxBQmH2jup5hhdUv8t7iuYlKT2Pcs9G59EpqA4lm0_TdyosVh9j6ZSAwCNCce4o6Y1FTALXrlJ1yFHr6lMtP75br3hRy6jt"
+            },
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0FhlpIRBV9INBMu2z_Izoxpw_LgXbDr1AA9s6ga_KLcfUQs92lRM0j4zAHDX7Ot3A1JNUxIifRwR8QaurlppIKTpr827DNpNESgFw7EKEZSaVcK-JYgzLXNQKzyf9vRE="
+            },
+            {
+              "title": "yahoo.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbUbKH9e9kpcyLzssPrpwbmRHPq42WytD429QXLmFW6wmQzw-0Su0eBG0vl_vRzUa-IESRFh-D0KMkGtRG1jNn90dki5ycPwt0n1KrZSj6lAARibbSvvXlg_qa7pEuDaSskuiMMnD0VqcAYSkHspxIiAVeQNKKkJI82wT96aqmGLCpSx4-yDB3teVEkoxOZzgasC76BqXVphTeBVWMUXVfuLB1zsSAUsSSlIuUc0TOOcrpnGpKKXJs9tH4sJH47OxElfimQ7aGwclX3gS3QzJs0ggaNNwjU_liRBff1FRnmosgAA_b3HNSvLNF4qI1_HVNzv9ZSiFPh2Y2YfTdf93FkHj-7iM01EzVMHnjX-mh47g="
+            },
+            {
+              "title": "capitalfutures.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVmu3yAjxdR4-79NcsTtqVifrd0HlvRjyWagVjCsaOQhTmybb1zzrcAT11xjvR6y276rAarqLecTIr1Yw6ymCCtdgqIPMLWqF0B6AGrpVdsoIjiQXsnQguOdmnwAmAjlZs2iy3RRK3zFc9NohgY5B9fMQDBLBpIekUO_oQXM1Z5rrkQDPDexIKwM9lZJQxUFLhap4pPm1b"
+            },
+            {
+              "title": "rti.org.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFamMOiNzpciYfvPH807muchXji5pmKaKRt3soSADkB_k9fkDnTmvjvWc0tvDs7gXlQG2exlCwdS7SYdk4Qwx18wpTigOTvxTaADd9kbF0Zoqb9S2xZi0H36JPbXjUgWjPKiG9OY2vC"
+            },
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtBCAVSMZV83WHW4mjQVxpPMxfdefWdk2oxBkoivQePyVGW5oPZzD52HvQ2PasgZwE2DpLlkhtgMmIuKMGkOYWS4QV8YCj4JD86LTIxBz8s1iz3pgZLv7l0PnBeuDfYJf7TggrQ_Vop-qTGOKR"
+            }
+          ]
+        },
+        {
+          "title": "蔡英文前總統赴義大利出席全球女性領袖峰會 拓展台灣外交空間",
+          "summary": "台灣前總統蔡英文應主辦單位邀請，赴義大利出席「全球女性領袖峰會」，與來自世界各地的現任及卸任女性領袖進行交流。此次出訪被視為台灣重要的外交突破，有助於提升台灣在國際舞台上的能見度與影響力。",
+          "category": "台灣政治",
+          "sources": [
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgVnFWTN9hu394d0vmyxZxmnrVfbb1wY3TJlAZH-2WtTGMOILKmtM47VHj2zmDGdMQ3Vfn-4gjEHaA6xx4ZqlL8K3De6gHQBdCu1mQ0WQ8aThNYQZiWklDK-elDFSyph11ywu4Fk4KnRf7qmaIgBh3qw=="
+            }
+          ]
+        },
+        {
+          "title": "北京高樓輕航機撞擊案 官方證實1死13傷 疑涉報復動機",
+          "summary": "中國官方於27日證實，北京第一高樓中信大廈於26日遭一架輕航機撞擊，造成1死13傷。網路盛傳駕駛為中信集團旗下信銀理財的一名女高階主管，疑似因不滿而駕機撞樓，分析認為可能涉及「報復獻忠」式的社會攻擊或政治因素。",
+          "category": "中國社會",
+          "sources": [
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgVnFWTN9hu394d0vmyxZxmnrVfbb1wY3TJlAZH-2WtTGMOILKmtM47VHj2zmDGdMQ3Vfn-4gjEHaA6xx4ZqlL8K3De6gHQBdCu1mQ0WQ8aThNYQZiWklDK-elDFSyph11ywu4Fk4KnRf7qmaIgBh3qw=="
+            }
+          ]
+        },
+        {
+          "title": "紐時報導：美國AI晶片先進封裝高度依賴台積電 成全球競爭關鍵瓶頸",
+          "summary": "《紐約時報》報導指出，台積電幾乎承包了所有先進晶片封裝業務，這項原本不起眼的半導體環節，如今已成為全球爭奪人工智慧主導地位的重大瓶頸。儘管美國多年來挹注巨資扶植本土半導體製造，對台積電的依賴程度卻未見減輕。",
+          "category": "國際經濟",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHaAgYjYkVA_l2LVikYSd3Ebkk0ion0fNyLsGlLM8NM4bfrODR3IHS8JkN5FdOgtrd87G_-nykeX0XCwf3OR8dbZCrgTBfw0aTx6fY="
+            },
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE63DlQbE5aMJYAExSwJYjGV5raoWg6NavLFpzBd2W4d3ttBGYTqE-9GR6P-PwW_COPiHBUN9xMP6uBDUa83tUvdOsZQ2R4CLW69Zq4exlZ0xU6"
+            },
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0FhlpIRBV9INBMu2z_Izoxpw_LgXbDr1AA9s6ga_KLcfUQs92lRM0j4zAHDX7Ot3A1JNUxIifRwR8QaurlppIKTpr827DNpNESgFw7EKEZSaVcK-JYgzLXNQKzyf9vRE="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "ok",
+      "items": [
+        {
+          "title": "美國6月非農就業報告牽動聯準會利率走向，AI基建投資恐加劇通膨壓力",
+          "summary": "美國即將公布的6月非農就業報告成為市場焦點，其數據表現將直接影響聯準會(Fed)的利率決策路徑，市場對今年升息的預期正在升溫。分析指出，科技巨頭在AI基礎設施上的龐大投資，預計將在未來幾年達到萬億美元規模，這股資本開支熱潮恐推高通膨，對聯準會的價格穩定目標構成新挑戰。",
+          "category": "全球財經/總體經濟",
+          "sources": [
+            {
+              "title": "cls.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEQ8RDQK7Z78PS9Enimjl_xg8wF0VEPuzhFmJaWykjB7hgFM6DFU_3ZZgh3qVFNNx6VS8F58nBJhhkX6sTqzgH8UIkIpZCIFq1FwRhxrg82zRXHVxBvWraHlNL0A=="
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoALOLgnx8w-VpAT2a4yidBVuI_FeE8aPH98sn6ZOGIQxqgf3qn7XtjNg7NxVuzrMHxXZARVexXpcQNl55OZprVuch7S1kMxodi9hJPHBflA3VEG4f5ALS73t38m0CtAqGhQbUbkAETy8IhDkysR7ZSJKdunDKEmrnXoc9LCFW4w=="
+            },
+            {
+              "title": "eastmoney.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzyF46GYxW7jgP5BXm-_wNuWQwAghO4CQPDWMrRyHS6gqjpItf3m8PnPbO07B6liY39aqG7sd6SlNOffNxNuFDzcgXBhJpv6LaCWq-WW-Nesqye6DJidYrPCtBaeWFnibk7tGrzn_BBp4u4UpaSA=="
+            }
+          ]
+        },
+        {
+          "title": "全球晶片股遭遇賣壓但華爾街對下半年樂觀，資金轉向更廣泛經濟成長股",
+          "summary": "近期美國股市，特別是科技和晶片類股，因投資者重新評估AI概念股的估值以及對聯準會升息的擔憂，經歷了顯著的賣壓，費城半導體指數大幅下跌。儘管如此，華爾街分析師普遍對下半年經濟前景持樂觀態度，資金流向正從漲幅過高的晶片股轉移至能受惠於整體經濟成長的多元化股票。",
+          "category": "全球股市/產業焦點",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwpboR7UvUO3WJyeNyxPL-H9pSoI59SKpo1eyffoZrRXuGDG5YugtFX0e5Fypwr6ZrcVOCd8DwgfUvAXBXJ3kyQmREouoazeYZrGCTbuhk-viVUrP_gqs2YMxrbZznROLCXwlAX6L7SXo="
+            },
+            {
+              "title": "ctee.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGORgXC5xXHay-PrM20Hx0fK2v0gjq92lk7VjUaEYENmgGDYzb7wCmhYgPuYP35SnyCuhBtdQ5wqZo4PQQ9GD2W96YpWT9UIx8pb1ZOfcH_S8gI7miWTn43urWpCUD2MSCBex8="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEdJwttqzj3EsqRD3SVqXOQ9MN82VlDuATHjQsW5TqE1oJUDSbQwFkoZkZ5zURAg9KJsvCZGbfXeoBXcjeo3PEYKmU76pfkWNOu8zH46iEhH-TOz1evLv8-Cu0jTEUghI-pVnWrtUuq6esDvA=="
+            },
+            {
+              "title": "cmnews.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGaiUWywV2EwCHzRBi2mPdD537O6-7AacbyBzOI3Hv5kDl2aLd0qxu4yMAzobuQz59NIzfLEsJNnLKo6rdmLrj7-prrLuZZSXgQvEaKLQLSl2K1pf837bwmlIvQh73c3gsHgPihYD2hziri5m6lG_NGI-13T0f13wMuAgob8WU9QZnIWV0mXLs="
+            }
+          ]
+        },
+        {
+          "title": "台灣投顧預期第三季台股上看5萬點，台積電法說會成關鍵",
+          "summary": "台灣證券投資顧問業普遍預估，台股在今年第三季有望挑戰48,000至50,000點的新高水準。其中，晶圓代工龍頭台積電(2330)預計於7月16日舉行的季度法說會，將是影響台股後市走向的關鍵觀察點，市場關注其第二季獲利表現及對下半年產業展望的預期。",
+          "category": "台灣股市/產業焦點",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwpboR7UvUO3WJyeNyxPL-H9pSoI59SKpo1eyffoZrRXuGDG5YugtFX0e5Fypwr6ZrcVOCd8DwgfUvAXBXJ3kyQmREouoazeYZrGCTbuhk-viVUrP_gqs2YMxrbZznROLCXwlAX6L7SXo="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGI-lzYojkXwmJ7DdFejWKVrKaETqGcx_gDR4vjzy4Dmnmlt6GNdLCnglK2v0P2Q7b8joDXnYuFqeWfUvDBfe3ZUwkRuqF8mVdckL2Z0DobQZgubffSP7T1p--OoXrt4onJFQ9h-x7Ro-yUDGtpkl-rNCJsdRkL-i5Edxmc9g8="
+            },
+            {
+              "title": "cathaysec.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZpkSshgF4YoRjfQi6ySg1XIfG4I59GhEopXRA2txTSXPdk9jhmLxcf7XZMHG7uapLbpfCTojeESk2-Ili56PYhjv4aCyU0hXEkvCnytfXRAmaPngrbO3qgh5A_x5-weX6C99cdXvioKvZQCeZkFbe6NK7m5DgcM5cPPw1XcCaaEExCExdkPeL5nKDNYHvqNjzCyuv3Cw="
+            }
+          ]
+        },
+        {
+          "title": "世界先進8吋晶圓訂單能見度高，台積電CoWoS技術成AI關鍵瓶頸",
+          "summary": "世界先進(5347)董事長方略表示，目前8吋晶圓代工產能供不應求，訂單能見度已達三至五個月，預期下半年產業鏈需求仍將非常強勁，公司營運可望穩健成長。此外，台積電(2330)在高階CoWoS先進封裝技術上佔有95%的市場份額，這項技術已成為全球爭奪AI主導地位的重大瓶頸，突顯美國對台積電的高度依賴。",
+          "category": "台灣產業",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwpboR7UvUO3WJyeNyxPL-H9pSoI59SKpo1eyffoZrRXuGDG5YugtFX0e5Fypwr6ZrcVOCd8DwgfUvAXBXJ3kyQmREouoazeYZrGCTbuhk-viVUrP_gqs2YMxrbZznROLCXwlAX6L7SXo="
+            }
+          ]
+        },
+        {
+          "title": "台灣6月製造業PMI續擴張寫五年最快，前五月對外投資受台積電帶動大增",
+          "summary": "中華經濟研究院預計台灣6月製造業採購經理人指數(PMI)將連續第九個月呈現擴張，並有望創下五年來最快的擴張速度，主要受惠於強勁的AI需求。此外，經濟部統計顯示，今年前五個月台灣對外投資金額高達356.11億美元，較去年同期大幅增加133.94%，主要動力來自於台積電(2330)增資海外據點。",
+          "category": "台灣總體經濟",
+          "sources": [
+            {
+              "title": "chinatimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBpCxrjNBkJnXyqXagUK8nDLMyK2u-AnKxBAd4YSqIhXf36jZvpoANq9H27chq3FJr2ByO0XYdO8zV5FvURmYViNKrkGxmi12P36LRof0xuydssiWF2FC3El9GM2SMmsNE3xId7h073gmLFpmanfhkI6V23Mon"
+            },
+            {
+              "title": "ctee.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBkF0YE9BlJ5Ih-ns57q4-d6hXNyST-m-FFT78nhoowgO55WKWRi0VgQeqEwq0hGCadzBSzjb3kvMYwKXiPAw5-WE5WZ7qlPQKAgpyIoPeJWd4OpXTG02E-XeVvDlBBzEUR0WqDO1gBjuh7oUm"
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGqRacHM-fMmTIZsaQgO6icI2bF10DB8AFz1Beic7penhmqCxbce9yS5ktMJQ5fqwfDOZpLS4gsWn_Ar_0Gv5G-7ko1qK7YHyWO7WxBdiRgF3w2njBW2_5JFOJqG-QgG-TdrJUGmG1AqE="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "鋒面北移雨勢趨緩，午後雷雨仍需留意，颱風「巴威」預計下週生成，花蓮堰塞湖紅色警戒",
+          "summary": "台灣受鋒面逐漸北移影響，降雨範圍縮小，但今日午後中部以北、宜花及山區仍有局部短暫陣雨或雷雨，部分地區恐有局部大雨。氣象署預估菲律賓東方海面熱帶擾動下週可能增強為今年第9號颱風「巴威」，對台灣目前無直接影響。花蓮萬里溪堰塞湖已升級為紅色警戒，部分村里持續停班停課。",
+          "category": "天氣災害",
+          "sources": [
+            {
+              "title": "peoplenews.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXte-kXsFonDLg_sMVFDRP3C-SVs2_ChFgtO7vCWfkFZKsZjbNxPiK-hjJWn5987ftGKlEcfor5VaqDbJTfBkjsEjRV6foeDzW296t03uix7UrTWwvoB79rtvxUJfgQxxRhW7wD3o8XQGbK77x"
+            },
+            {
+              "title": "nextapple.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHnKV_3eC-0DyMwhf_XcxKdYh2XKKrIW0bB44kghOmhvGNYZB2VVcNHLkSXzMeryDu_gpkDNyItrep4l7N1zlCwWPp7zfS-_M1j9MDwgF0fYDJEP_LkWs5WF9YUazphBRdTIvvlZ14DAgVomTiVN7jKszuOYlrytJxRc6OnmtifClfUOQ="
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrw01O7L3bnLMv18MzWJK2yHbtHz30TWQ8wO3Ww73xMCwVlchEomvgzUvBPIDquF57x0v60MeXiz0myVMd2zRv7uz9sFT_-aUliKqThr2I2_V4seQpPJBSwJFx6UQ6M55LszwL-vNAnYaj97Bg9WBeoQ=="
+            }
+          ]
+        },
+        {
+          "title": "八仙樂園塵爆案最高法院定讞，觀光署與新北市政府須賠償2100萬元",
+          "summary": "最高法院於週五（27日）最終裁定，觀光署及新北市政府須共同賠償2100萬元予2015年八仙樂園塵爆案中七名罹難者的家屬。此判決維持了高等法院2025年2月的更審裁定，確立了爆炸事件與觀光署及新北市政府的過失存在因果關係。",
+          "category": "社會司法",
+          "sources": [
+            {
+              "title": "taipeitimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0cCOx-B7opac4U9YSzoqmoJ4g9IncAKLfJb1C9GumH0ZRL338yjIJN3x-bHcKyLDLp4-IyLmwHBV2PU6NHYPL8nzJHvYt66fNpt--AcwlGYtduS04LJWz1OcPscP9GQSlhhqoI0Hvo5FRs3MHji8Tmkbd_9VfpuQ4VP534x8C_wk="
+            }
+          ]
+        },
+        {
+          "title": "台灣半導體產業動能強勁，台積電先進封裝具關鍵地位，世界先進8吋晶圓供不應求",
+          "summary": "紐約時報指出，台積電在先進晶片封裝領域佔有95%的市場份額，成為全球爭奪AI主導地位的關鍵瓶頸。世界先進董事長方略表示，8吋晶圓代工訂單能見度達三至五個月，預期下半年產業鏈需求強勁，8吋晶圓市場將持續供不應求。法人看好擁有特定利基的「升息概念股」在市場動盪中具備較強防禦力。",
+          "category": "財經產業",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0u4Ne3TiK1eIUFiJA1KnivNaoy7kiCIAUhgVRnoZdE6dwpBRrKp8iMnaMVOZxFNPUyzS1ubH-gs1wpZ9OWLb96rH39FRloh0dvH1DHRR7Nxbyk0W0cEzJE5T9Us_Uoj-ghLov3JyattI="
+            },
+            {
+              "title": "ctee.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENdZl1z1sYWS9H2w72Zk18YitCcb-mzoEtX9ZMrEYZB9OKn8sfw4TUoqYJgjZCffuB_YcQeTt0f-8MfykXp9yDofWGebQgTdvWyW4IE-nwHQ8T9Mm74g3OQyeSlIX7dBc29dA="
+            }
+          ]
+        },
+        {
+          "title": "賴清德總統強調「健康台灣」施政目標，響應提升在宅醫療預算",
+          "summary": "賴清德總統出席「2026第一屆亞太在宅醫療大會」，承諾將持續支持在宅醫療發展。他當場回應台灣在宅醫療學會理事長陳英詔的呼籲，表示「聽到了」將健保在宅醫療預算占比由現行不到1%提高至3%。此舉凸顯政府面對高齡化社會，推動居家與社區醫療服務的決心。",
+          "category": "公共政策",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ7_ddur5KRzmJ8sBIrme9SrrntMHrDqp9ArrpgBgKoY5HlqGpKvjJt7nhqydBzR1aL-ZNP14HLvtmCZXAkZT9WHVcnqoMqW_4_VN5AyWfY61SiDeCDoLL6gJV"
+            },
+            {
+              "title": "ctee.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQENdZl1z1sYWS9H2w72Zk18YitCcb-mzoEtX9ZMrEYZB9OKn8sfw4TUoqYJgjZCffuB_YcQeTt0f-8MfykXp9yDofWGebQgTdvWyW4IE-nwHQ8T9Mm74g3OQyeSlIX7dBc29dA="
+            }
+          ]
+        },
+        {
+          "title": "蔡英文前總統與韓國瑜立法院長出訪歐洲、美國，展現台灣外交多元面向",
+          "summary": "蔡英文前總統應邀赴義大利出席「全球女性領袖峰會」，獲高規格接待，展現台灣在國際社會的重要性。立法院長韓國瑜則率團訪美，會晤眾議院議長強生，呼籲支持「美台雙重課稅快速減免法案」，並強調台灣對無人機產業發展的重視。有評論指出，政黨外交應凸顯台灣優勢而非國內政爭的延長。",
+          "category": "政治外交",
+          "sources": [
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE17JSdeAq-Ec6bO3qQziHgaUXaeN_vdgeLpPjPuAm1qkMfBwoEC0JzFLezUmBtbw4trOCBeTpL4c-6HMLNv0MwfiyQRN05s9lqcu5ELjAM2QpQEd36TYFP2u8Vxc-L3ogKGDmvxKBuX3Q3ecN1fQ=="
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrw01O7L3bnLMv18MzWJK2yHbtHz30TWQ8wO3Ww73xMCwVlchEomvgzUvBPIDquF57x0v60MeXiz0myVMd2zRv7uz9sFT_-aUliKqThr2I2_V4seQpPJBSwJFx6UQ6M55LszwL-vNAnYaj97Bg9WBeoQ=="
+            },
+            {
+              "title": "newtalk.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAK3S26aANYng-U2llY5GrZR5cPDPwVsdynd1_GX6gen5Tev85StFPBfvW5ZrCCNvvCScsbbcXEx_g16zKp6jZzSRxw2Bm5KYso9Z-boE6XEfmrms05RWT8T_AlgFotDQZN6Rmhxxu"
+            },
+            {
+              "title": "newtalk.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSB5fV4Rxj-hWXW1Fqzmsy1XqWxCnVyXtThQdYeYanhdCysOflKJAiC22ZtaBHpTXMGfGxKDpUb8CpOq905hJsW0aS_4o9bSQeFbUw6QnawnkgOcSKZGV9AmNbu56MGPdoepw4dNKcNgkLUQ=="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQ7_ddur5KRzmJ8sBIrme9SrrntMHrDqp9ArrpgBgKoY5HlqGpKvjJt7nhqydBzR1aL-ZNP14HLvtmCZXAkZT9WHVcnqoMqW_4_VN5AyWfY61SiDeCDoLL6gJV"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
