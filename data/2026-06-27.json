@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-27",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "error",
+      "items": [],
+      "error": "{\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "error",
+      "items": [],
+      "error": "{\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "error",
+      "items": [],
+      "error": "{\"error\":{\"code\":503,\"message\":\"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\"status\":\"UNAVAILABLE\"}}"
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "豪雨持續影響南台灣，屏東六鄉鎮27日停班停課",
+          "summary": "受颱風米克拉外圍環流及西南風影響，台灣各地持續有降雨，其中南部雨勢尤為顯著。屏東縣東港鎮、新園鄉、南州鄉、林邊鄉、崁頂鄉、佳冬鄉等六鄉鎮於6月27日宣布停止上班、停止上課，以維護民眾安全。此外，桃園後慈湖園區也因步道坍方濕滑，於27日至28日暫停開園。",
+          "category": "天氣災害",
+          "sources": [
+            {
+              "title": "nownews.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb7Y5DwyCgTRO2w8yMcOgARIwBbiFKpGGtNSi-4nyLPtxOi1ooKp4Tom2h692C9_Q2PVAfZ9-3qSnkQUJstkDxPbx4zFh4w3B0S68AAL7_MvVWfEjsmB3aaOzBZS7TXA=="
+            },
+            {
+              "title": "bo6s.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQES6xfWjNzvsi5fYot2bPaFcbRVuKXz3DgVsYoVBN7IArtzusAcPfKLX3ho04hNt5NLLKowwRk7nFQuzUJ4fXuZWcMZpAgykixCCOxiliGHLSjCky8_Rrm5Gc-X4w_Jtx4mnqf-q33HBcdPALvuF0p5"
+            },
+            {
+              "title": "586.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGWtQEOGC60ILxiUbl7yL335DTzqGG14G1eMghm_EFEo8MJV1YRrgs4Y0HxSiH8zZYxTEwLg2VizSDqGJWw_IYQxPMgcoYLdwW007Q63cCinQihH2ch6QKXUDSgZ-KzLlxD-tBaBBrH"
+            },
+            {
+              "title": "forest.gov.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSmIVQjFIYxdf9-IWy-bh1whs7O9FoDU9wtEcqg4KixZIoeveu3rHqrzRA9kazEipFIaolE1Fm6jSEVFl5VFFe3Fbpa_qR1zZurFnlvEfnxKyo3eeR1c4tQBUmMQqp0kIe"
+            }
+          ]
+        },
+        {
+          "title": "立法院藍白黨團聯手封殺行政院無人載具採購特別條例草案",
+          "summary": "立法院國民黨團及民眾黨團於院會中，挾人數優勢，聯手表決封殺行政院所提出的「國防自主無人載具採購特別條例草案」。民進黨立委對此表達不滿，認為此舉恐阻擋台灣無人機產業的發展，並影響國防自主進程。",
+          "category": "政治時事",
+          "sources": [
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_kkRz15po9L1Up9CcJw07hO-Cj9GVZUsi132Twyu5VyEbcoaTxT2PJLV_rG58m_9nBHu_IB3cFCjnkKjutNjGZXwvfL_M_GHoT53wxOgAEecZW9UKBVw2i88600BdHtEmLhT-GUM9-yCTmdVpNLVohA=="
+            },
+            {
+              "title": "newtalk.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGznsE1qJYH1dARzoZOGRJQaPorLxnqhL9ue5yig45dOsIYAroqZ9jhajGRj9SBEZIPj5HpNiDrjTsdg-sXZXCf_rbRYD5QkzaYYIzwidhMdWTc44p5LeAkDlOpKqVlEvU0saqfecGO"
+            }
+          ]
+        },
+        {
+          "title": "台灣出席美國「矽盛世」峰會，美方肯定台灣AI革命關鍵角色",
+          "summary": "美國主辦的「矽盛世」（Pax Silica）峰會於華府登場，台灣以非簽署方身分參與，由數位發展部政務次長侯宜秀代表出席。美國國務院發言人表示，台美在供應鏈及人工智慧領域密切合作，台灣的先進製造業在推動AI革命方面扮演關鍵角色。",
+          "category": "國際關係/科技",
+          "sources": [
+            {
+              "title": "taronews.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKvmavSYEmVDA_QlGMGt1nn5eApClyA9Auy7qK5BUSkT4HUHq9moxLL5PkaiKjLGpHxwveBnjdchfLGtJvRVbpLxGmv4srf4No8xCdTCQFoiyoN48ambBhJ-2W6O_VRk2bVQ=="
+            },
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1YpsDnX11l5PAMBRLNR8aWLyAuKtr4XiAWechbxKrhwtC8q4tTVGgKR-cgyp9iiUT3Hboiz2dC-1ayn5FpO2HAbtkxHgtSQxNmJs4dHnTtvgkvpbo6JceS1prO0IMKw67zTPz61sWlD957ULy"
+            }
+          ]
+        },
+        {
+          "title": "長榮航空華府直飛桃園航線首航，立法院長韓國瑜讚台美夥伴關係新里程碑",
+          "summary": "長榮航空於美東時間26日首航華盛頓特區至桃園航線，立法院長韓國瑜率領跨黨派立委團搭乘首航返台。韓國瑜稱讚此直飛航線是台美夥伴關係發展的新里程碑，有助於促進兩地在各領域的深化合作與交流。",
+          "category": "交通/外交",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHldVXbRpYXb-n-cGi0XJ3ocdUCAQQkXroPyH0FC92RbGC6Xp8HAatn_ORDZj0rdmq4L-N50sgFvJxFMTWOnMDlONoAjSwG8zDsMyJBdxqnIpgCEO_sWrGcLo_tPy5tymB76KPKeW1Xqj1jWbVmKq6J-11HUirT6gFP1nA0jyAE"
+            }
+          ]
+        },
+        {
+          "title": "行政院通過婚育家庭減稅大禮包草案，未成年子女免稅額調高",
+          "summary": "行政院會昨日一口氣通過《所得稅法》等修正草案，預計待立法院通過後，將回溯自2026年元旦起適用。其中，未成年子女免稅額將提高50%至15.15萬元，旨在提供婚育家庭減稅大利多。",
+          "category": "民生財經",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtcgybyuHpzlsDtyCHNruySG4NQ-cU4W5ruUUItHZG3imOlY6-d6eeTvGNNQYxjP0_U4bMnyfiX75h00Qayvkl8QccudNkU1Vh5jjB5IiX7A75x-kltW2RqG9oTO-n-XS5NmHH0J5B5BI="
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
