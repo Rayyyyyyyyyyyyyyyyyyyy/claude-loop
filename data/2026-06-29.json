@@ -1,0 +1,377 @@
+{
+  "date": "2026-06-29",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "ok",
+      "items": [
+        {
+          "title": "AI帶動記憶體供需吃緊，Omdia上修2026年半導體產業預測",
+          "summary": "研調機構Omdia將2026年半導體產業營收預期大幅上調至增長62.7%，主因是AI應用引發DRAM和NAND市場前所未有的成長動力與供應短缺。高頻寬記憶體（HBM）產能集中生產，導致傳統儲存晶片供應受限，企業和資料中心的強勁需求將持續推動市場。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "businesswire.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5RTMoWHh1D8y2behidQ1l2lpa9mUZzv8Csu5JZ1GBuC5HUxLM8PiRe4z_bFqZo_n781fjM8ZZ7iQeFG_TG4TdgNo6XqTZSVPqtDrfLL-2PvOIq3gJ_gkLiV_4OAswVoQDlTvSTG7mHPB3P4c6id2rUpJgJkVX"
+            }
+          ]
+        },
+        {
+          "title": "台積電加速擴產應對AI需求，預估全球半導體市場今年破兆美元",
+          "summary": "台積電在2026年中國技術論壇上預期，受AI和高效能運算(HPC)的爆發性需求拉動，全球半導體市場今年將突破1兆美元，並在2030年達到1.5兆美元。為滿足此需求，台積電將持續加快擴產，包括2奈米家族製程與CoWoS先進封裝產能的顯著增長。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "yahoo.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiQv7teFZemLief9NUjqV8xAZZorTYRoteOZus_ddngrymTcGs8UeXJlI0oW5i93GvCOclLJMia0LLnAm7lrQU0lavflpY63IxEQrlDXCFWB4mvquaQL6ARF7eX4_RThHTDm0Z-Q1g2eJnBJZ4btwU0oDdsNCWejnv14Jg8TjOVE1EROstppn9Lj8LtfQQ_4LBJ-CyknPwdhgdNvfI_2tm8_hN9EZO83ysFOtm9XVKOP_dPL05xdbvw1curut-iSIBGmkcL7UHlELHBUVNWevJ53fxynyHFcYg8TjfFdupknqr3mr1q57vRkVVUK6T57pIna1YaINgwiphzg4dGHteziYvtXXkDTGb4-dcDsrzS48KvBT90pXbP3ENZiVowAqa9vracCfLtfitAnE2K93KN_Tn_0AL5sA-5k31hwOEaKZQhOoyLAXRs8Ys6RTwyXYOt8KmUhkciouqRTkH_ojGNV5zxkhFfglF7A=="
+            },
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEATnTitXlABFYvF9-ARDcNgvxD1H_H7U9qlhWwq_xunKrxoO_7Ib3M4qjPwr6ujmtoHvrJC2k2BsJEJ6aZQCJPttulfbFNHktX0u4CxgX2yhqZa5p-3OoZ12UM7XurMeL4"
+            }
+          ]
+        },
+        {
+          "title": "美中科技戰催化中國晶片與AI企業本土IPO熱潮",
+          "summary": "在美中科技戰持續升溫背景下，中國晶片與人工智慧（AI）企業正掀起一波本土首次公開募股（IPO）熱潮，募資規模較去年同期暴增逾五倍。此舉顯示北京當局積極推動科技自立自強，並帶動中國A股市場強勢復甦。",
+          "category": "科技產業/金融",
+          "sources": [
+            {
+              "title": "ftvnews.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1AlcASzHS1RQn1ClPxh02UdRLdUG3nvyLDS1trVHIE2_ZkfwT1ZM6QrVrSda-PRzjW0DtEzGfP4FDaa5DFf8oAiYyup-2urv7uFnDAwFHHvtcggeKXZH55G_7gB4YrZjneJXCDdhvZ0TF06ReZh2jz38="
+            }
+          ]
+        },
+        {
+          "title": "中國樂奇AI眼鏡正式登陸日本市場",
+          "summary": "中國智慧眼鏡開發企業靈伴科技（Rokid，品牌名「樂奇」）憑藉支援AI的眼鏡正式涉足日本市場，並將完善電商及手機銷售店等銷售渠道。該產品特點是支援OpenAI及谷歌等多家企業的AI模型，提供用戶更多選擇與便利性。",
+          "category": "人工智慧/消費電子",
+          "sources": [
+            {
+              "title": "nikkei.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiM02rTbAsYuKh9HTUxBwFYKXx7_tJ00RC79LAaN4_Beoy1zmA4fTLYtG4tXlKZN5leKuhOIsnCds0xtCKikHqBdJ9M9lOahwTfvt2ipO0W_aDMgsvS-BVrkUxdAK70Mem4lVEvb2hIL-euejrJef8MO5lkzx4tw4pbkgLFjaXya4="
+            },
+            {
+              "title": "nikkei.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtArIPqBslIHlDGgyHTYdlCOCjRwIDFB3Gt2rf0YNh_kK2IHDS21x4JO9QUxDImaIhNRCSavx_OBnHhiDc9S2UExKzPPj7D89rJ-YTcb3mZ335IBSq2-kuNUQDuSN5mioVNOfpXdOW7heqGFEWtwKMbtPwyukONODK2oE3ooQ="
+            }
+          ]
+        },
+        {
+          "title": "2026年6月AI趨勢：智能體爆發、超長上下文及國產模型領跑",
+          "summary": "2026年6月人工智慧行業呈現三大趨勢：大模型能力底座升級至百萬上下文和原生多模態，AI理解與處理複雜任務能力質變。應用形態從對話轉向AI Agent自主工作流，智能化、自動化程度大幅提升。技術從虛擬走向實體，具身智能和物理AI突破將深度改造實體經濟。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "csdn.net",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHW8Pf4OfTzbbFPW_6IyqVO2yacWvDYUkyDath-_AfWDvBR7KKY-SKII-CahUdao7fBy4MPwnGU5SnDrkB5LjvK8bORHfbUZ5CI84wkQW6lZP3RrkMGzXBXY7UobET01gaQLRKT1VI25NjytZbqZ4x79Vl3bI76Bxg="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "ok",
+      "items": [
+        {
+          "title": "委內瑞拉強震死傷慘重，國際社會伸援手",
+          "summary": "委內瑞拉蒙塔爾萬附近於日前發生規模7.2及7.5級雙強震，造成嚴重死傷，罹難人數已攀升至至少1450人，另有3150人受傷。委內瑞拉總統馬杜羅已透過社群媒體感謝各國政府及人民第一時間提供的支持與援助，並呼籲各界持續團結互助，共同推動災區重建工作。",
+          "category": "國際社會",
+          "sources": [
+            {
+              "title": "chinanews.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVzx8UowuyLi69sEwSGDh714kedehCL8fScbwWo_xUD_k6cJHx048HYK8JAQFCfs6k7tsFGuxsZ92kLhj34YJzt2ieSBnVmPl_A0ZeY5k2stRB3ZbAo43MwHHIDjSDzzoBwVqFJnCLiyOLarrvpLt4yvNcaQ=="
+            },
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2vfnWfzHICIC6cs_Si7OFAi-1W4VhPZXMRlV7SR9gORvp8tLZZPePWg9CHVpDoniKKZ9FJbo_gEs2k8y55W2B0P0LcTtLRd5dX50VNK7VtXjgk91PMFzfIouf0UZY7ZR-OlKO8QPHatsdECTHPzp3UvDdzy-E-CB_oPY5TOfkvKpp"
+            },
+            {
+              "title": "sina.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwJ0AeJ4G1eg9Nvotpps5fBDbH5ky2UzORVUv5QlAxwwGsUjh91bb3C6uhC-Wnr9LUYYGEzLYjoBdKT1X0QHn8X5jIiwGvptftuHFym6zDtnZ3nts0fIlAuF_cwY_WLKuWj35OlxMjhHmDqvLVWgR5cbmQay2trzkig1C9IJyKerwyn1PKc4xcqtwcMuIGv1wkumzDFQ=="
+            }
+          ]
+        },
+        {
+          "title": "美伊同意停止互相攻擊，將於卡達舉行會談",
+          "summary": "據報導，美國與伊朗已同意停止互相攻擊，並計劃於6月30日在卡達首都多哈舉行會談，聚焦霍爾木茲海峽問題。此協議是在近期雙方再度發生軍事交火後達成，旨在解決中東地區日益升級的緊張局勢。",
+          "category": "綜合新聞",
+          "sources": [
+            {
+              "title": "guancha.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE29JZFMfRCm22Rv9ll920pENsUA42TPb6DJofKWEsur4u1e-Pa2TpMibyX3r1pgPijSsNhHfY2Z3JL9ESmTpZRtg5p5JgobrPqTjzeyvUqrLqYnhNn9va2qrEt_jbLQeUoa89ZPWQ62JTaYpnxrKItNs6x8IQ="
+            },
+            {
+              "title": "sina.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwJ0AeJ4G1eg9Nvotpps5fBDbH5ky2UzORVUv5QlAxwwGsUjh91bb3C6uhC-Wnr9LUYYGEzLYjoBdKT1X0QHn8X5jIiwGvptftuHFym6zDtnZ3nts0fIlAuF_cwY_WLKuWj35OlxMjhHmDqvLVWgR5cbmQay2trzkig1C9IJyKerwyn1PKc4xcqtwcMuIGv1wkumzDFQ=="
+            },
+            {
+              "title": "163.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGCd3G9Pzh2DZT6NtPYg_HrHH43WawR7ygX8ULKh8plxNsVz2tcCfjpBbzX6kvpi-j48X3Anu27lumjxSi0Y8avJd1xQeFYokexMe1le3id-pXmWqJlPNHUpIDV6Hd5-68yep3h-hviOWA-cpiW2xw="
+            }
+          ]
+        },
+        {
+          "title": "日本成為台灣安全「事實大後方」，深化安全合作",
+          "summary": "一篇評論指出，日本正透過新安保文件、統合作戰司令部以及與美軍的協作，將其安全區域擴展至台灣海峽，使西南諸島軍事化，台灣與日本之間正形成事實上的安全共同體。台灣已將核心軍事數據與資訊備份至日本，並在半導體供應鏈等領域深化合作，將日本視為其安全地理的核心節點。",
+          "category": "國際政治",
+          "sources": [
+            {
+              "title": "upmedia.mg",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHG8vJ_zoa7Gl6sJwGJH8nXED_WGVRgbbda7ziqcL4Re1tHJWGiUpz8c-rJb40ehL9OyPM8ivSjTB4r1WoDWPyoB0SKZKfaqbdTZM53f40wLGH2RUFnkWGZG1QuCucy8VTVe04eyYyyejf7lB5-OWIHDlAWeA=="
+            }
+          ]
+        },
+        {
+          "title": "美土安全部長重申持臨時保護身份移民須申請綠卡或離境",
+          "summary": "美國國土安全部長馬林於6月28日表示，在美國持有「臨時保護身份」（TPS）的移民，應當努力填寫表格申請永久居留權，否則就應返回自己的國家。此番言論是在美國最高法院裁決允許特朗普政府終止海地和敘利亞移民的臨時保護身份後發表。",
+          "category": "國際社會",
+          "sources": [
+            {
+              "title": "epochtimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFHo1fmzso2C__J4j9pmffnYXiIEtlHRjrcR5cDv8shzwWyLV6ruycuUpy4D8SmD2FK673yGJwEb-HjIEbrsnKT6LR-T830A-gcmOfaELC5GuclxUNYaxYoST1RMxV8pJtqEDRQZLGv-AfAhY3rg=="
+            }
+          ]
+        },
+        {
+          "title": "日韓防長會談，承諾加強防務合作並重申半島無核化",
+          "summary": "日本防衛大臣小泉進次郎於6月28日訪問首爾，與韓國國防部長官安圭伯舉行會談，雙方商定將進一步加強日韓防務合作。會談中，兩國防長也重申了朝鮮半島無核化的重要性。",
+          "category": "國際政治",
+          "sources": [
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH2vfnWfzHICIC6cs_Si7OFAi-1W4VhPZXMRlV7SR9gORvp8tLZZPePWg9CHVpDoniKKZ9FJbo_gEs2k8y55W2B0P0LcTtLRd5dX50VNK7VtXjgk91PMFzfIouf0UZY7ZR-OlKO8QPHatsdECTHPzp3UvDdzy-E-CB_oPY5TOfkvKpp"
+            },
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvMH7DXnCOVts-RjW8r83imqTsR-aM-7UULguRJcEJOIwi0B4srzIYckLWr30VmFux_Hk5wPuyd38-rZQJGMZo-b9NA7uqe_mNo8XThkQbp5JsI8PgyreKqWzIaIe2n5mIwB6N4MQDVrofnPIcdqbn7LFviqw3XB55tSLaov8sTF3x"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "ok",
+      "items": [
+        {
+          "title": "全球央行論壇登場 美國升息預期牽動市場",
+          "summary": "歐洲央行論壇在葡萄牙辛特拉舉行，全球主要央行首腦將針對貨幣政策發言，其中聯準會新任主席凱文·沃許的鷹派立場可能強化市場對升息的預期。本週稍晚公布的美國6月非農就業報告，其數據表現將成為聯準會貨幣政策路徑的關鍵指引。",
+          "category": "總體經濟/貨幣政策",
+          "sources": [
+            {
+              "title": "tradingkey.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuOjOADSxuOEx4vrqxxik-b9OW5h8EBKkT_x3xUvg64ObH0YFTW1UsfhwReMAx9RbbkHiiJn8CN58QgUYHwmB0Hx4azuF77hoOAegSma_7WCYBex480n7bvRqkaWotQA1tcPNjJwo-IpIcZ7xmuuig317IRecKUMHWWNRT9HL_QbO8hE6CZSNgbkitLH5aQwyuAybSWjh16rSM1-J1lSUzOFpVZWHPjx_H-HaZNMjsm_DV"
+            },
+            {
+              "title": "stheadline.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWbV6Uj78ak6LFzclFiz2UeTK0vCgM23VlL6LtTy2yLa8CFCOZhiOm61oYjwyt_HnxTP_-yCcyBom0zH9Ab5FSPTrUqUTDUy8KrbQAQsJLUlrc9uE2bmRT24A3Zvbdo9_WHn1_V3AXxftNG-yRtNbBIxZ8CgULHZ3ykskWWbtK5wv_slvF9m6J-tkbFJAf-fWAQs502iVClk-6WT6LQDVeJKRTcFrotxP6UHKnKU-hBFrjhB1cjU5pVJqHP6ITFxnhepC8ixE-IwAdjORMJmPuoiA36XlGYzdUVnKCEet3DVT7jl0zi2GjLjTvSZou8jfo16hV3xkZOf3u23-57bTwIzypPdFsSw15Cn9LsyPO5WGqlBL-nKa-EF3kJaTVvHXzMSqmDE0JbXEwRs298AEWCEE-HpWQmYqkwh2KlTaa-dXtvKpeMHp6jtzddKyhwmFVJ6RdWJA7m7evXkP8zE3edKj0WtHswWcOP9UY0-u4wwTqTU_CEfkTq9JXt8AMeFM9krnLncgnYQiWbKpm0fAbSoqUgZ8pNNHzcWGDsr19HTJicic="
+            },
+            {
+              "title": "cmoney.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo44jWO3VsJX6OZZjB683mbJ5nws2o44YFDFSt7ijEDr4t98rjf4G5A78RMIhpgEHhR1B-TFdHhGdoxXB25lnqTo38oAOD1re9HfakNmDfbk64qp8kzyGtfvwvUcFiGrGtHGcIbRpEYw=="
+            },
+            {
+              "title": "eastmoney.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU1HljEp_ensSgpfTCbxhZoRoSuqRWgZURS4ZClVlA4TPQBEiDBk3kzYTcO-qpzIgV0ZjT40BQYjsRly6_KTa_YfXXWeU6FkaIFR-0bLaLRS42e8fgzmrlszAm1EMIC8nHY3PCxrs4x8yS4nHc17F0rjU="
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFATEvJQ73m6QzjDx3rfOqXC3fpGsOKcPKCM4oHxM4MGqCZprmItQoiKLhAq0HX1f90Gc5K5ybBGtkI3UpahMTepQijck4GWnTbfauF5k8isq2Ww6n3MOWbln0KQ7nEG7sOYN3Nf0="
+            }
+          ]
+        },
+        {
+          "title": "台股急跌後力拚V轉 AI供應鏈續領漲潮",
+          "summary": "台股上週受美伊情勢與外資賣超影響高檔震盪，但市場專家預期本週有望V型反轉，並在全年獲利創新高、明年配息創新高等「五高」推動下，年底前有望上探55,000點大關。台灣在AI產業供應鏈中扮演關鍵角色，相關企業財報與展望將受高度關注。",
+          "category": "台灣股市/產業動態",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoNwrEUArZfUwgVn1iOsoDLd7IK8oFQ1qx3ey21mnU6IityY1ya3YDzBZxZPtlLXCZIpTNdJlYPu18XNNmlrZgJRs7AJxp-pOFuJGJFRJITT1_9Huv_sER1qQvCToxFUuhJ0quZWyE5q4="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZELkwN1KXR84tV12_L90sNnE0gYQrdJ4dBRoJmC_kzeiLw3CgxqNtfzRQJiOk76VXkRzcPMi63lZy1SFn0_tWUkX7iAMCD5SZLIpBvY9vB1ovRdocksyZHjpdsnl91ZSKzz-kTXAUb3I="
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFATEvJQ73m6QzjDx3rfOqXC3fpGsOKcPKCM4oHxM4MGqCZprmItQoiKLhAq0HX1f90Gc5K5ybBGtkI3UpahMTepQijck4GWnTbfauF5k8isq2Ww6n3MOWbln0KQ7nEG7sOYN3Nf0="
+            }
+          ]
+        },
+        {
+          "title": "中東情勢再升溫 美伊衝突考驗停火協議",
+          "summary": "美國與伊朗上週末互攻軍事設施，並互控違反停火協議，導致中東情勢再度緊張。美國總統川普警告若被迫重啟戰爭，伊朗將「不復存在」。此地緣政治風險對全球油價和市場穩定構成潛在威脅。",
+          "category": "全球財經/地緣政治",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoNwrEUArZfUwgVn1iOsoDLd7IK8oFQ1qx3ey21mnU6IityY1ya3YDzBZxZPtlLXCZIpTNdJlYPu18XNNmlrZgJRs7AJxp-pOFuJGJFRJITT1_9Huv_sER1qQvCToxFUuhJ0quZWyE5q4="
+            },
+            {
+              "title": "capitalfutures.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQtzyqRSnk-_FFkNYS8K7O3artVPpDq78ZDMgNXMJvqn4qAqS1XdCL33-TdPaD9SrQan4xjLpS3zMMwTe3DTy2l_8ncci9xVIScJmjExXO1SzCGgmiqI5EucWlDbqMC3yO6EJXVH-cSPA8ps3jlDvJZCW5wxReCdPUhw0-8M8gEXHRdXPTv0eDUf1hF9DLWYBjs7uLRZ-C"
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Yl1XQrM2DMVQmCAV_7EAURfLiRI1hpg6TH6yOpXNtXQzIBZop0aQllqgx6XYOr0uGy-3Vmn_3LIq26otpbdqFSRPLts6LKKBh1UmfQnKeFkvoUcCqrKo6ZeaZtXUbkTI-z_qTuTF7t37N-iKCGDyYer1UCk5hGWS9uFjr9Vfa4zHCqc="
+            },
+            {
+              "title": "stheadline.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWbV6Uj78ak6LFzclFiz2UeTK0vCgM23VlL6LtTy2yLa8CFCOZhiOm61oYjwyt_HnxTP_-yCcyBom0zH9Ab5FSPTrUqUTDUy8KrbQAQsJLUlrc9uE2bmRT24A3Zvbdo9_WHn1_V3AXxftNG-yRtNbBIxZ8CgULHZ3ykskWWbtK5wv_slvF9m6J-tkbFJAf-fWAQs502iVClk-6WT6LQDVeJKRTcFrotxP6UHKnKU-hBFrjhB1cjU5pVJqHP6ITFxnhepC8ixE-IwAdjORMJmPuoiA36XlGYzdUVnKCEet3DVT7jl0zi2GjLjTvSZou8jfo16hV3xkZOf3u23-57bTwIzypPdFsSw15Cn9LsyPO5WGqlBL-nKa-EF3kJaTVvHXzMSqmDE0JbXEwRs298AEWCEE-HpWQmYqkwh2KlTaa-dXtvKpeMHp6jtzddKyhwmFVJ6RdWJA7m7evXkP8zE3edKj0WtHswWcOP9UY0-u4wwTqTU_CEfkTq9JXt8AMeFM9krnLncgnYQiWbKpm0fAbSoqUgZ8pNNHzcWGDsr19HTJicic="
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrRFG5j3S8Vvp-5szzr_EQI6w4dQMMa_lrhPLQLJYt7inV1dRJ-v9i5ryrjWgiQbOPxWddFmNx9IlRShcz7e-tRN5LgoA0PIV2k3-82KVKsk1JhDe3eJQpUpDBfQTFvC1ZOMozKfIz0xUy5IMYOMsd2QU5O5dX4yMVJFVH4c8PbJUI9YMtjQ=="
+            },
+            {
+              "title": "cmoney.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo44jWO3VsJX6OZZjB683mbJ5nws2o44YFDFSt7ijEDr4t98rjf4G5A78RMIhpgEHhR1B-TFdHhGdoxXB25lnqTo38oAOD1re9HfakNmDfbk64qp8kzyGtfvwvUcFiGrGtHGcIbRpEYw=="
+            }
+          ]
+        },
+        {
+          "title": "中國工業企業利潤顯著增長 電子行業成主要貢獻者",
+          "summary": "國家統計局數據顯示，今年1至5月中國規模以上工業企業利潤總額年增18.8%，其中電子行業受全球人工智慧技術變革帶動，高端算力晶片和儲存晶片需求爆發，成為利潤高速增長的重要支撐。",
+          "category": "總體經濟/產業財報",
+          "sources": [
+            {
+              "title": "tradingkey.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFuOjOADSxuOEx4vrqxxik-b9OW5h8EBKkT_x3xUvg64ObH0YFTW1UsfhwReMAx9RbbkHiiJn8CN58QgUYHwmB0Hx4azuF77hoOAegSma_7WCYBex480n7bvRqkaWotQA1tcPNjJwo-IpIcZ7xmuuig317IRecKUMHWWNRT9HL_QbO8hE6CZSNgbkitLH5aQwyuAybSWjh16rSM1-J1lSUzOFpVZWHPjx_H-HaZNMjsm_DV"
+            },
+            {
+              "title": "stheadline.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWbV6Uj78ak6LFzclFiz2UeTK0vCgM23VlL6LtTy2yLa8CFCOZhiOm61oYjwyt_HnxTP_-yCcyBom0zH9Ab5FSPTrUqUTDUy8KrbQAQsJLUlrc9uE2bmRT24A3Zvbdo9_WHn1_V3AXxftNG-yRtNbBIxZ8CgULHZ3ykskWWbtK5wv_slvF9m6J-tkbFJAf-fWAQs502iVClk-6WT6LQDVeJKRTcFrotxP6UHKnKU-hBFrjhB1cjU5pVJqHP6ITFxnhepC8ixE-IwAdjORMJmPuoiA36XlGYzdUVnKCEet3DVT7jl0zi2GjLjTvSZou8jfo16hV3xkZOf3u23-57bTwIzypPdFsSw15Cn9LsyPO5WGqlBL-nKa-EF3kJaTVvHXzMSqmDE0JbXEwRs298AEWCEE-HpWQmYqkwh2KlTaa-dXtvKpeMHp6jtzddKyhwmFVJ6RdWJA7m7evXkP8zE3edKj0WtHswWcOP9UY0-u4wwTqTU_CEfkTq9JXt8AMeFM9krnLncgnYQiWbKpm0fAbSoqUgZ8pNNHzcWGDsr19HTJicic="
+            },
+            {
+              "title": "cmoney.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo44jWO3VsJX6OZZjB683mbJ5nws2o44YFDFSt7ijEDr4t98rjf4G5A78RMIhpgEHhR1B-TFdHhGdoxXB25lnqTo38oAOD1re9HfakNmDfbk64qp8kzyGtfvwvUcFiGrGtHGcIbRpEYw=="
+            },
+            {
+              "title": "eastmoney.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFU1HljEp_ensSgpfTCbxhZoRoSuqRWgZURS4ZClVlA4TPQBEiDBk3kzYTcO-qpzIgV0ZjT40BQYjsRly6_KTa_YfXXWeU6FkaIFR-0bLaLRS42e8fgzmrlszAm1EMIC8nHY3PCxrs4x8yS4nHc17F0rjU="
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFATEvJQ73m6QzjDx3rfOqXC3fpGsOKcPKCM4oHxM4MGqCZprmItQoiKLhAq0HX1f90Gc5K5ybBGtkI3UpahMTepQijck4GWnTbfauF5k8isq2Ww6n3MOWbln0KQ7nEG7sOYN3Nf0="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoNwrEUArZfUwgVn1iOsoDLd7IK8oFQ1qx3ey21mnU6IityY1ya3YDzBZxZPtlLXCZIpTNdJlYPu18XNNmlrZgJRs7AJxp-pOFuJGJFRJITT1_9Huv_sER1qQvCToxFUuhJ0quZWyE5q4="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZELkwN1KXR84tV12_L90sNnE0gYQrdJ4dBRoJmC_kzeiLw3CgxqNtfzRQJiOk76VXkRzcPMi63lZy1SFn0_tWUkX7iAMCD5SZLIpBvY9vB1ovRdocksyZHjpdsnl91ZSKzz-kTXAUb3I="
+            },
+            {
+              "title": "capitalfutures.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGQtzyqRSnk-_FFkNYS8K7O3artVPpDq78ZDMgNXMJvqn4qAqS1XdCL33-TdPaD9SrQan4xjLpS3zMMwTe3DTy2l_8ncci9xVIScJmjExXO1SzCGgmiqI5EucWlDbqMC3yO6EJXVH-cSPA8ps3jlDvJZCW5wxReCdPUhw0-8M8gEXHRdXPTv0eDUf1hF9DLWYBjs7uLRZ-C"
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1Yl1XQrM2DMVQmCAV_7EAURfLiRI1hpg6TH6yOpXNtXQzIBZop0aQllqgx6XYOr0uGy-3Vmn_3LIq26otpbdqFSRPLts6LKKBh1UmfQnKeFkvoUcCqrKo6ZeaZtXUbkTI-z_qTuTF7t37N-iKCGDyYer1UCk5hGWS9uFjr9Vfa4zHCqc="
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrRFG5j3S8Vvp-5szzr_EQI6w4dQMMa_lrhPLQLJYt7inV1dRJ-v9i5ryrjWgiQbOPxWddFmNx9IlRShcz7e-tRN5LgoA0PIV2k3-82KVKsk1JhDe3eJQpUpDBfQTFvC1ZOMozKfIz0xUy5IMYOMsd2QU5O5dX4yMVJFVH4c8PbJUI9YMtjQ=="
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFYJjiNfFfs0jF1kxUfY-FZmXfIQg1JuaSDCNpiTlzgM3uuaKehsziBP_4q9x2g8YRSI5gEzrXdKrTgOITL4KWTUsD1cSWuJ4IGSBD7vMlqBK56TXU9YMyUrDNsQ-5dulUKaIUamSQTCZneY8sCr6sJ66FuocVtq69q5R08pZ6-aQuDPw=="
+            },
+            {
+              "title": "cls.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGrC3BE0iI_QW-bY-KLFv-eyTGxis6_AXMp9FedkApKWJKzuIhEvpgbwHuZii-h74vPw0yFv8eSwRYJcuXZPa68HucNnj0J3phOWa4fTtKef7FToWsBEN3CjKWhUg=="
+            }
+          ]
+        },
+        {
+          "title": "記憶體價格飆漲前所未見 馬斯克與庫克同聲示警",
+          "summary": "特斯拉執行長馬斯克與蘋果執行長庫克先後指出，目前全球記憶體價格飆漲程度「前所未見」，形容此現象為「百年洪水」。這反映AI與高效能運算需求持續強勁，南亞科、威剛等記憶體相關個股成為市場炙手可熱的焦點。",
+          "category": "產業動態/科技趨勢",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFoNwrEUArZfUwgVn1iOsoDLd7IK8oFQ1qx3ey21mnU6IityY1ya3YDzBZxZPtlLXCZIpTNdJlYPu18XNNmlrZgJRs7AJxp-pOFuJGJFRJITT1_9Huv_sER1qQvCToxFUuhJ0quZWyE5q4="
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFATEvJQ73m6QzjDx3rfOqXC3fpGsOKcPKCM4oHxM4MGqCZprmItQoiKLhAq0HX1f90Gc5K5ybBGtkI3UpahMTepQijck4GWnTbfauF5k8isq2Ww6n3MOWbln0KQ7nEG7sOYN3Nf0="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "台北圓山保齡球館遭土石砸穿 警方管制現場",
+          "summary": "台北市士林區的圓山保齡球館於昨晚間傳出遭後方山坡土石砸穿，屋頂和牆面嚴重毀損。警方獲報後已封鎖現場，並對周邊及鄰近登山步道入口處實施預防性管制，呼籲民眾留意連日大雨造成的土石鬆動情形。",
+          "category": "社會安全",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoa76ICUpfNbF26GUKgaB4DBHTfGbKQHAZt_9BkxudYFnBS6jpudfEp7ue4NZz5rMiG6xFXQDrjPIVQsS2CShw65pqRpv8xmclTXow2oits0O1aC2-0eftve4="
+            },
+            {
+              "title": "line.me",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbMFtDKakAcWHqd75erjOz1MMZAPke3wY4Dch1GCAk9S2znPIuaauucPC6YkTVx1ReL3rDrYhqu1C-n--1l3lABmxbHGeosbPRvT8zVB60gtawW7qXb1-2cMnyE5ZI95Mo1O1IbQ=="
+            }
+          ]
+        },
+        {
+          "title": "台中蝴蝶谷落石釀4死1傷悲劇 檢方調查釐清責任",
+          "summary": "台中市和平區蝴蝶谷瀑布步道前天下午發生落石坍方，導致一個登山團造成四人死亡、一人受傷的慘劇。檢察官已相驗確認死者皆因落石重擊致創傷性休克死亡，目前暫無人列被告，但將持續調查是否有相關人等涉犯刑責。",
+          "category": "災害事故",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoa76ICUpfNbF26GUKgaB4DBHTfGbKQHAZt_9BkxudYFnBS6jpudfEp7ue4NZz5rMiG6xFXQDrjPIVQsS2CShw65pqRpv8xmclTXow2oits0O1aC2-0eftve4="
+            }
+          ]
+        },
+        {
+          "title": "ECFA簽署16週年：台灣經濟擺脫單一市場依賴迎榮景",
+          "summary": "「兩岸經濟合作架構協議」（ECFA）簽署16週年之際，台灣經濟已成功擺脫對單一市場的過度依賴，積極拓展全球市場。學者指出，自2016年調整經濟路線以來，台灣對中港出口比重下降，對美出口比重則大幅攀升，並在AI產業帶動下，整體經濟成長亮眼。",
+          "category": "財經時事",
+          "sources": [
+            {
+              "title": "newtalk.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFChAsOqb1qrf-KzyXgGmLd3NF6cSrQX5TREJG2ToSKYil2bxo_scSN_AxnlKrUpZ7LjzLgQ857U0fsl0F_HXisxP5p-r6N1-EI9f3cOSMKUclUrpKMlwVrkxnfPi5eWbeuYdcjeYfCpes="
+            }
+          ]
+        },
+        {
+          "title": "新青安2.0方案討論聚焦四大爭議點 財政部審慎規劃",
+          "summary": "財政部正審慎規劃「新青安2.0」房貸方案，目前討論聚焦在寬限期、排富門檻認定、房屋總價上限級距設計以及如何強化防弊等四大論戰點。此方案預計近期定案後將向行政院報告。",
+          "category": "公共政策",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmwyflqeDQuS7i5LODqqntzJL1Af1IPBGY6VW89xo9zM2PsBikkMb1o--ZnSxIyMDlkac2akTDTP4xKLU2NY9FFPxyJULlxtidBv3iSN90j3jJTPnoSy-Jt5Ty_mEIewlIpE2UI4cY0g=="
+            }
+          ]
+        },
+        {
+          "title": "「喪屍煙彈」列一級毒品生效 警全國大掃蕩查獲多嫌",
+          "summary": "俗稱「喪屍煙彈」的依托咪酯類毒品已於6月27日起正式列為第一級毒品，警方隨即展開全國同步大掃蕩。首日行動即查獲55件相關毒品案、逮捕63名嫌犯，並取締49件毒駕，展現打擊新興毒品及維護交通安全的決心。",
+          "category": "社會安全",
+          "sources": [
+            {
+              "title": "line.me",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQERC0eJ_sktCvNg371uz6B7QRypEGKngaL7O0IhqeJjMIhiOIs9wOFzCKmVZHyKpr9C3JOXbhO_sFLG9xCOuZ6LrLa9jkejm3FqswP0ocy2w0-3t48V05MUB0PiJq1ul0Eh2kbsyQ=="
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
