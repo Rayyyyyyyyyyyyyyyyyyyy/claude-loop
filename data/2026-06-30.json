@@ -1,0 +1,329 @@
+{
+  "date": "2026-06-30",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "ok",
+      "items": [
+        {
+          "title": "韓國宣布投入逾37兆韓元，打造全球半導體與AI資料中心新聚落",
+          "summary": "韓國總統李在明宣布一項公私合作計畫，未來幾年將投資近1.2兆美元（約新台幣逾37兆元），用於建立新的半導體生產基地及人工智慧（AI）資料中心。三星電子和SK海力士將在國內西南部投資800兆韓元，並計劃在未來十年內投入1000兆韓元於AI資料中心，以確保AI核心要素的領先地位並擴大產能。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "iek.org.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF11y8_2YO_9C4s8TVrBK-6p3BVrRYAuDIlv1WGub6eWXmek6XSCBr6UJr_QXU-vomv_sofqc137zK5CwVi2U5Pgmrj-xede5msXllT1mxxuTp6-DyYWG9JpSvnlgHIesNwGGDZYxpkZdKgTbnpvdYpVEwR90aUrSyyPRV7vg9o1Aeh06Kcx1g3y7PMILq1byGUUyBDfDgCFQ4GF-_eNDUfmsAfNBeW9Wv90WC4sVfeHmOH"
+            },
+            {
+              "title": "singtao.ca",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGefBVHxArY42p9JhfRyfE-4ccxAsX6pGSYzXME0jxD2AwFEEIYONk0EKXptNgKJtKgH4P7gWHMOYe1DsBqAJs8bWJS5rYTWikbDuPRhNUMCaQ5d13yVgXitEzGi1Ob94zBK3Vyu-XH0-NO8CpgnWlsNUL6obsRjE9GjC-pZAfNITQ8E5nYlZMi_wX5Mj4niQGy2ZZcALNJXa_79TbCPGMUU2NiYCP0w1uumM1YYoMGerjMD9r0I0ZMbTfYBDTK4Pswmqti521ceixLGgocexXX1Yy4mdkh76fxDa7q9umjt1pFzpsH3VfSpcXt1NfYU5BJ16x32dmVUGtwg0mFHalzOi_O5x5alwmUUSqhShLv4LEaUvBq1CQNRrHSw8ckBw=="
+            }
+          ]
+        },
+        {
+          "title": "科技巨頭面臨算力瓶頸：Google傳限制Meta的AI模型使用量",
+          "summary": "儘管是全球頂尖科技公司，Meta Platforms據稱因其對Google Gemini AI模型的算力需求超出Google供應能力，導致Google全面限制其使用量。這項限制已打亂Meta部分AI專案進度，凸顯AI基礎設施供應不足的普遍問題，並促使Meta加速發展自家AI模型「Muse Spark」。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "ttv.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8bRJyXCAmtUtQEpdP6rMpkr7EQNOgubl3o0yrJxvumdKfPdq9JwRLtt-Vq7IWsSel0QKjk2R4treIOFXuYRbyj5HcriEsZ0Jgiu4uSmixCLY7oHtsorbcAIuXvxjm5nY_0dqVZuT3ltFXgHn0ZAsvlcAJ2-Xn4W9oaLFqMeJznvJSwHoCSS1FvFjhDdxGtHJ1jVI="
+            }
+          ]
+        },
+        {
+          "title": "台灣當局調查Supermicro涉嫌違規出口Nvidia AI伺服器至中國",
+          "summary": "台灣檢調單位對美國伺服器大廠美超微（Supermicro）的台灣據點展開搜索，調查其是否涉嫌將搭載Nvidia人工智慧（AI）半導體的伺服器非法出口至中國大陸。此舉再度突顯美國對中半導體出口管制政策下，企業面臨的供應鏈風險與監管壓力。",
+          "category": "科技產業",
+          "sources": [
+            {
+              "title": "theheadline.jp",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtwHaaBog_xJ2S2bwPgbPIz1BuDvS314oly4awOo9ApEsy0ZO7ZOPxqqOyUEZ7Uda8UICzsNphaaTg63tpdCEJYlcW3HiTnXNa-sOCCT6tcfsUNqDeP9srG6U6ct6qJS6WLxMC-kWNnjs_gSSNWRlhfjxRug=="
+            }
+          ]
+        },
+        {
+          "title": "中國國務院常務會議聚焦AI發展，強調創新突破與「AI+行動」",
+          "summary": "中國國務院總理李強主持召開常務會議，聽取人工智能發展情況匯報，並強調要完善支持政策與治理體系，加力推進AI創新突破，加快關鍵技術攻關與超大規模智算集群建設。會議指出，將深入實施「人工智能+行動」，發揮中國產業優勢，促進智能產品與服務的規模化應用。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "yahoo.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYcvYzBfUUBMnWLGyXVlI4Y2gU6vGXLfFhQlEHhXoE18_xYSZHLF3pZCqCmk0jTNQeboMQdBRI26aB7xTKdobXdg0zRNXC9IwKZXbAoVZdwc7Um4saFtyCaeG3kiB7WQRK_1y55_YD93rGUb0eVxvJELNODt94lRbJQWHrB13TNnoKxYsqhoB8_ed72GgTo4odN8S6EFmzx6hYRnncCZ1VTzLWniWML9ii-C5ckZ-8heUNEFMsJC-HXBgmMXyvWwga0i6-uP76zx9ivgE3O8nCcJWw1iaqYtvT7ilEw2hEiS5R-B-mWxqWSv3MTqFdm2qF73SFUrn1vJdDzdUHgyHzINLfqmCtAG_C_Y_OqBLWWnoKUHVi6xDimN1kM_RLI8c4rZMbW99dpUiMUlxliEzZxFH4a7piXEh0qj6gQQ=="
+            },
+            {
+              "title": "people.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHedDRoSqis8JIZwEoqnLWMSn1gljLJG0Rav43BJuAbknuQPScF5W0HEEt5AxuwMdtMu4m5crB2GcH5WN9JNWDLIksWSh1Li05xPVty6XIy2CcSq_C8lzNOtN5x0WCSy1OGABd3RCxAgeZuooLggk41nQbiqDjrgAsoULskEng="
+            }
+          ]
+        },
+        {
+          "title": "美股科技股分化：AI應用軟體受追捧，儲存晶片板塊重挫",
+          "summary": "6月29日美股開盤，科技七巨頭集體反彈，其中AI應用軟體股表現尤為搶眼，顯示市場資金正從硬體端轉向更具變現潛力的AI應用場景。然而，儲存晶片板塊卻遭遇重挫，主因是市場擔憂國內長鑫存儲簽下巨額供貨協議，恐影響海外廠商的市場份額和盈利空間。",
+          "category": "科技產業",
+          "sources": [
+            {
+              "title": "sina.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGn-v-WmwjjRwwlHJSy2TSBWXerbIhWsg1XjB2QTOUmYebqY7KuWYrIcDaSZ00eROF67tVnA1aY9GmVH5e5EJD7Kq0iLGjPQKIIMI02U53Sec9qBbHgiaAXHiE7KeWozL9N03495mH9FB-1WAXNEyDp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "ok",
+      "items": [
+        {
+          "title": "美伊同意重啟對話，聚焦荷姆茲海峽爭端",
+          "summary": "美國與伊朗已同意停止相互攻擊，並計劃於6月30日在卡達首都杜哈舉行會談。此次會談將聚焦於荷姆茲海峽的商船通行與安全安排，旨在化解雙方對停火協議條款的不同解讀所引發的最新危機。",
+          "category": "國際情勢",
+          "sources": [
+            {
+              "title": "upmedia.mg",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGY3dawwdHE2ubJDytn-YsbX2PU0GlOlf0Ub_9XTzjLRjGMY71jX4wv7qObsXUlOLdRsJnhAPd0ryJo_hHMtNANZ9Fy2azlIg6hrZ1Lj0EJoqONKW1oNH6Ij7FBFgXSY91Lw5hMegpNy9glqmlWpRNx3SVU"
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU02Hf6FipS0IiTng1E_b-YXp0rIiP-crzYOqtNjGqrNZELMFvcgQ8y_gLdqSE79J1ZOnAEcf3tllYLq9-_MyClIBPpZOXdm6K1qC4oqVgw4W9erFnTcXW0pD5o6fZVMlGdPJzdEMCnkvDGUhIX5xW7tE="
+            },
+            {
+              "title": "news.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiV54-7iZD50Cys-KANZjfNrXx6gjnlvl5AaqSAWZFiVbBFGPrAoFGhGoEUW_VvGxzMcqiZCNyV0i1aKmS_IWseGucgzZWtmB0TuG9jf2QPTkUL3rHgP0OV46TYRM7nq-PigTSoWIKrLp6DFgHyboqPqB48hvn7dDN91xsXGzSh1834bcj"
+            }
+          ]
+        },
+        {
+          "title": "以色列防長警告隨時可能與伊朗再次爆發衝突",
+          "summary": "以色列國防部長卡茨於6月29日表示，考量到複雜的安全局勢以及在黎巴嫩的軍事行動，以色列隨時可能與伊朗再次爆發衝突。卡茨列舉了兩種可能重啟戰爭的情況，並已指示以色列國防軍做好「藍白行動」的準備。",
+          "category": "國際情勢",
+          "sources": [
+            {
+              "title": "chinanews.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGwShpzQaEXxAPXmU3UiAwtMqF_LZI84M-KIG9WHBxv6sBWcdU9197MzHW9Pz0M7SV7JFNO2008biODltTxinHxcYKOStvzqaWydw8IY39pivZAI87o2Am7yNxk0RnwkJEFoKUSSQHbnuWDNsiUdFr-4lJgpg=="
+            },
+            {
+              "title": "sina.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTEHnuOD63TBQNg4zHA1OmZoDvTqQ0RFesJemmtP7WUGBZm6xFx44Ik6V0c_NJ8E2uTvw7sGjvYSyjNzbFQOUilQotMSWtTlTyWrlm7uaBsWZJlb2GKopq1YsnH11sb9jt85bIgcBA5-zL2sHV9lH7t4dPvY6OQD6I63A8lS3lMFFVPp3IEWE0rH_8Tzepvy5OUDEnIZHprS6k"
+            }
+          ]
+        },
+        {
+          "title": "韓國宣布兆億級晶片與AI超級項目，鞏固產業領導地位",
+          "summary": "韓國總統李在明於6月29日宣布一項總值高達900兆韓圜的晶片及人工智慧（AI）超級項目，其中包括在西南地區興建四座晶片廠，並在未來十年內投資建立AI數據中心。此計畫旨在鞏固韓國在半導體及AI產業的全球領導地位，儘管選址引發反對黨的政治動機質疑。",
+          "category": "國際經濟",
+          "sources": [
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGjEbooNwVrnl5N39j5RXPY_T6Sm6ZYuoetZnjK9GTyE1B5y8MZ6EOOXdqn_szdQJtIM-6jMSrhrJ1ouBuwJrTHF10CmQDrWQ5KEMHAs2V29awF3-eZgo3M8va33QJ9izkaQtRrVr45ywaqBlbrNyDpaFxy55VDNvquVoU4nNkd1da6BukWzpOR6svwIapiEHBnq3ms9M9aeshHtGbNZoRIhsLqurt9FS2HPeVwRNLyZ61BkAp13AS8O_7hjehXUtgiNa4S3heBrRLxOcpI518yASGWGuwNCtuMDqbU3CUWgThNQkBMk1UEgwDPrK2SxArJ3A98zhU5OJ_Fm7sc29nK5ySX9H5g7Kxxbs7Ytc4UnwUMuhTxVhcsPP5jxoKZL9wKfD5nqXdP9y0miMEBVTPo_Zl4oNbk3UT0TXo2yNjVmqcE1kcdw-bQyR84ri40GOZlaOdpeGvTuVg8Ee9SyzW6UYgBayOMbZeLLyg-K9L_jOxlihzau_R7oe09z9Wycds7SoFiPWCs1UI6kquGW_AcuPjERoZwnAAjWnedM9KU3Q6Pj9yNHcT6urgh0-In-0e-koXqyjOXdKJ_i48Z5H5sJ4ldvOnN3jx8vKGHGdYOC_RJLd4="
+            },
+            {
+              "title": "mrjjxw.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFbsRAe4TjbYb0XnAuIOKYNBEV9b2ei8faBd1UkkYamyYzIW5Yu3LMqzOcbPBcDf6n92CA7BfIE2ehRs7KmWiAMobNB5kL9tZ0Qktr2vdGBuA5aIOkClM9ARbL7rR_luzfc3BLuVbIs7_OBisjgwGG-mM="
+            }
+          ]
+        },
+        {
+          "title": "習近平會見白俄羅斯總統盧卡申科，深化戰略伙伴關係",
+          "summary": "中國國家主席習近平於6月29日在北京會見白俄羅斯總統盧卡申科，強調兩國是「相互信任支持的真朋友」和「全天候全面戰略伙伴」。雙方承諾保持戰略溝通，推動雙邊關係在高水平上持續發展，並在「一帶一路」建設及多邊機制中加強合作。",
+          "category": "國際政治",
+          "sources": [
+            {
+              "title": "people.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzzL-sNwn6DK22aAZLYPXegITIhSZgFCBfA49B9YC-BtECCM1QQRSbLiuK0XRnn_7q62rmTmGVVCw_gRBnWhVl-lpxgbAoWGmIv1UMr0kkxCYhc7m5Z_0osQDCSeZUzBsCtEETVW2oAapXqfHUP7Q_HUHCs69P4r4RZEYVB8M="
+            }
+          ]
+        },
+        {
+          "title": "普京首次承認俄羅斯面臨燃料短缺，歸因於烏克蘭空襲",
+          "summary": "俄羅斯總統普京首次承認，由於烏克蘭持續的空襲，俄羅斯面臨「一定程度」的燃料短缺，但他強調情況尚未達到「危急」水平。烏軍頻繁襲擊俄羅斯的物流鏈與石油設施，已導致克里米亞當局於上週五宣布進入緊急狀態。",
+          "category": "國際情勢",
+          "sources": [
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDCnzYbTuye_zYBqm3KBPokUZNJCM6qPeN7EJLsRlNjRzETRKwu1Ww7Dky64VbXgWP1fNT__CPjrmzu1NMyrE2rPNj53kHuPZrTz5ThMDk04B4BZxZKUlLfXT3FBiGDTGL-ImFimjCGx2GQArwvKlsB8BpaFqAY0gdb5GV8Q9o1iRCI_z_L5o0L71A_FO4AE6HQk0Z_hsw0cTnh7d0ZcBYzvbSGr2BTwUvXfnqO32Jr0grbyJvfRBmdmtQC3MM-WKU8cMPFoSHniRPuw9gQsUljMB6nEhpv17HCXEvuESR6RJPG_J5hJcSRTNJYG6u75HvIxu21DvkXG0eqqCH0pUQvlosO-F3u_TbDKR-5uFklqlfTq6j3rFtGlM="
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF51ke-zFSNuuybNc5nu8B7h3s4HogjUSthOS3Pi0AmQ4ydlzAjz8Mlb1v_MmoE1JR_F62KBgHSwh40dhv6yXo3WSVRw6AQmTlPK5if3dElZLpyLXpI0ll0Vnf5CcmQsTlWBJVPdSjE0PnqFWvMjir2TAbfCkp1moxvuj1YZakz1RlzZA=="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "ok",
+      "items": [
+        {
+          "title": "華爾街AI熱潮持續推動全球股市上漲，道瓊指數首破52000點",
+          "summary": "受惠於人工智能（AI）產業的強勁動能，隔夜美股市場表現強勁，道瓊指數歷史性突破52,000點大關，那斯達克指數與費城半導體指數也大幅上漲。AI科技產業持續作為全球股市的主要成長引擎，帶動台灣、韓國及日本等主要市場指數表現亮眼，相關供應鏈股價持續受到資金追捧。",
+          "category": "全球股市/產業",
+          "sources": [
+            {
+              "title": "note.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwXhhT3ewgI1T_2ZIIjL0N4EZ-PhRPReRYGIoT59TbQ2bkizTqSAzv_Ah9CYpvOYJMXvNe2AXp2qTUOqejIiCZVkm4XEc4BbYwMtndX-dOq4DGFBUmFPgNWMQ0A75TxWzV3bQa"
+            },
+            {
+              "title": "sina.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUrB47ULcsCQ6GjbfxJ-x6wKkHWJDb-7M1_g9VFSeNPrOF61F9Y_SGTQSPenTWE1GsrUYIjNwDpJDn0qU-FAQdiqciDViksgomXq28BAh5mLE4Py_M_9nFQe3WRWLxQeCFxrQ2yaB876sVfxeCMTnW"
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyIwSqAt4gnXfZMBzWryKEZnlFLDUbnKXAP2CTi1LlxavQeSjnQj-gxbG3zMWFH0NvpubD7eO39A7AIt27D9oLH9kaHCMqqGCkunhaXn6fvXQIA6ozIqM-qS1BN6g03lzdTZ6-2FXIKQ=="
+            },
+            {
+              "title": "note.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7cfbHuJg2n_VgT4Vmh913Rl0JVI8K6ZpurFaHW0X6JYe37i3Dr1RB7k0hEGyEmtPNC3FvqWJFJcUGPFXYtRE4Os9K_hMJI7FVBHCpuQYQvMHR5VKlyetCaIxrcplk4dlB"
+            },
+            {
+              "title": "cmoney.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGMH1dKkloKys2Y_nhQdKgo1PKggcCsuYBNwqCx6bAxLWbxVkm8LU-1DulLYAV82-ruNQrTPF2RBA2eGlBB90mJEa-zlXzAYTc56Zz9JwRIibkGEwPaHoE1goQ9ToA0G8ZeFuI57NocWA=="
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfhH_C8h6zlaFtWJZX7xkKd7tbigxE0XMatZp7ACt1WBhoK7mUffMNTVWvlj_44eNoLSd33wPE5rpepyZCSKkis-Qbc1VY-yy8AFoBfqhkiQmr7szygdSiPodz_I057pe58ndJpgo="
+            }
+          ]
+        },
+        {
+          "title": "南韓宣布五年內DRAM產能翻倍計畫，記憶體產業競爭加劇",
+          "summary": "南韓政府公布史上最大規模的記憶體產業投資計畫，由三星和SK海力士領軍，目標在五年內將DRAM產能翻倍。此舉預期將對全球記憶體市場供需造成重大影響，進一步加劇產業競爭，但也凸顯對AI及高效能運算需求的長期看好。",
+          "category": "產業/總體經濟",
+          "sources": [
+            {
+              "title": "sina.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUrB47ULcsCQ6GjbfxJ-x6wKkHWJDb-7M1_g9VFSeNPrOF61F9Y_SGTQSPenTWE1GsrUYIjNwDpJDn0qU-FAQdiqciDViksgomXq28BAh5mLE4Py_M_9nFQe3WRWLxQeCFxrQ2yaB876sVfxeCMTnW"
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcRGx8ZpWVR86FAHrGrgUwf-_M7YLln68iO7BgC7hg9cOGqyO7kYhFIaMU9vIx2xL_XBKOSSq_tDou8ewAIy11GLC1U2y0oxxt-ozwNoiaoIgtvjWZaD9h_BXeernUGAfTgdj2nB75_2s="
+            }
+          ]
+        },
+        {
+          "title": "美國聯準會預計維持高利率更久，以應對持續高通膨",
+          "summary": "儘管美國經濟展現韌性且就業市場穩定，但通膨水準仍高於目標，聯準會新任主席華許領導下的貨幣政策預計將維持偏鷹立場。市場普遍預期，聯準會將實施「高利率維持更久」的政策基調，以有效控制通膨，這將是影響全球金融市場波動的關鍵因素。",
+          "category": "總體經濟/貨幣政策",
+          "sources": [
+            {
+              "title": "ig.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1v0Vl6boV2vmK45jR7Rch0noF2Nm4J9PWbAlstj_QFq-MkFbf8ZuDryDXhEsUmtNpuYcoTJODukEU3JB_I1rat7-1Ph1EZOnhzHbcYSMPuGZvD9f7fS8--xjK4iZWii14KXzZzkvlnauNVZgLIlsXXSrl3JejSu6vtFtY_ssIStPYfF3efFEdmS5TFEjdFcw="
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyIwSqAt4gnXfZMBzWryKEZnlFLDUbnKXAP2CTi1LlxavQeSjnQj-gxbG3zMWFH0NvpubD7eO39A7AIt27D9oLH9kaHCMqqGCkunhaXn6fvXQIA6ozIqM-qS1BN6g03lzdTZ6-2FXIKQ=="
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfhH_C8h6zlaFtWJZX7xkKd7tbigxE0XMatZp7ACt1WBhoK7mUffMNTVWvlj_44eNoLSd33wPE5rpepyZCSKkis-Qbc1VY-yy8AFoBfqhkiQmr7szygdSiPodz_I057pe58ndJpgo="
+            },
+            {
+              "title": "esunbank.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSBcSIzanJL1d6ldKiiwavpgMOUa6uQ_uioiaaAzEFDYiElZFpyoeDHJ_L9TqW1lmDcDijzlU9XXgc6a7fYdyj7983PVspuwkti6diuL-ZPWPg55emk1b4dEVrAnPGu86I58PkMqKOuyqafV58x91sItdJ1D1t4-aDYqWRpPNOjZd1RA=="
+            }
+          ]
+        },
+        {
+          "title": "中國銀行業面臨危機，不良貸款餘額與利潤下降引發關注",
+          "summary": "根據官方數據，2026年第一季度末，中國商業銀行整體不良貸款餘額達3.7兆元人民幣，且利潤增速首次轉負，顯示銀行業風險高企。特別是農村商業銀行淨利潤大幅下滑，中小銀行風險驟增，淨息差收窄與壞帳問題對銀行業造成巨大壓力。",
+          "category": "總體經濟/金融",
+          "sources": [
+            {
+              "title": "epochtimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEUjziPGEWMKrHXtqw7kWlCtsGz-tD2c9U71_iYEv4_hzEfA8DlKEmK_PYSl2YbUPrUFMdfMufsUyMAtkY66kpZsccB9jJP9tV82-0MbgAVSI01bQoN6XiQVP1u2x6OkO-ah22n6bbaz6q4ZgX"
+            }
+          ]
+        },
+        {
+          "title": "台灣房市買氣有望回籠，消費者購屋信心止跌回升",
+          "summary": "在中央銀行總裁楊金龍表態信用管制「就到這裡」後，台灣消費者購屋信心指數中的「購買房地產時機」指標連續四個月下跌後首見回升。儘管仍處於悲觀區間，但政策穩定與房貸難度緩和，使得市場干擾因素淡化，下半年房市買氣有望逐步回溫。",
+          "category": "台灣財經/總體經濟",
+          "sources": [
+            {
+              "title": "pchome.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcftElMSnCrYCDFAL8ZnDRIdrBjA8BJ2sMMCyv-NixyGzB5h2g3uk4Ke54KoCbF4Td6InWFkLylrODC_l2leYjzRbVwAfyCq7Vx8ZkRzdCYc7aOapLOjCGGg-LJS6fjNVM7aoTa_hOd3My19ode4qcneNIrt2cvTZ1qWouYkir-5MXSj1t3AEgfgs="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "新北捷運三鶯線正式通車 試營運兩個月免費搭乘",
+          "summary": "新北市政府宣布，捷運三鶯線已取得交通部營運許可，將於2026年6月30日下午起正式通車並展開為期兩個月的免費試營運，預計可縮短三鶯地區往返雙北市中心約20分鐘的通勤時間。這條全長14.29公里、設有12座車站的路線，使新北捷運總里程突破百公里大關，達到108公里、90座車站，總里程數位居全國第一。",
+          "category": "交通建設",
+          "sources": [
+            {
+              "title": "taiwanhot.net",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE2VTybcWHAPl3x0nQdLPrm-ZnTTNiJ4yzRMVdb2miOyTw1fYLQBp3Hp-RZRcxO88WQ99u8hmWWBmudfZb9a4w01vhERuqnpT3QLR3YJsJxjbvMYThy13EMQVNmicSKWGJNeSYhcUGKDrvxPMbjrTU3I3cInlJPGmZML2K_67_LEgB7vLhyO5PzIkRpL26wm0OETfz-b7HqaCY_xjYHAEl1Tb64Fo62GyCMlaYNg4T3UAtzofSQYFSQje0Ix3TAalc4q8CrhGWi9Rqs6AyqADeW6FPu2i8QakVDf29thgR31Flq1NsW7AnYaPw0YGKA6SWMDoM2KgE9FifVC53dPCOqInGpelno7QpA8-48A5eZ81BR-_TDSKRzzW0IFgXF_GwXhY5E4eTD9Q7nDILN0EIn6sd3R6EDPK5b7nRaocDAMwE7mXPE-x1QjH8M"
+            },
+            {
+              "title": "tyenews.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnwrnt4ccemICnnms51i-LezPTpqOr4NpU4e741ZdXq0FC--Nihlu7sIwEavI6xQvTDfU4-VZh6Ej6lSCB4sFl3hxXq0b2eX3dUGKp6qmHxigZSP3f8_L6gKNlSBRrZA=="
+            }
+          ]
+        },
+        {
+          "title": "交通新制6月30日全國上路 汽車考照筆試大改版並嚴抓高風險違規",
+          "summary": "為改善道路安全，交通部與公路局自2026年6月30日起實施兩大交通新制。汽車駕照筆試將取消是非題，並首度新增「危險感知影片題」，旨在提升駕駛人的防禦駕駛觀念。同時，針對高風險駕駛行為將全國同步加強執法，違者可能面臨當場禁止行駛及連續開罰的處罰。",
+          "category": "社會民生",
+          "sources": [
+            {
+              "title": "storm.mg",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5yXWhJqmwy02UkS5i3Ct8SIR8H47lucCKyCVJPj6qZRgaR6KPp2xdKl5MrCq3dv_JTLSNEss1hgq2FoOVdCFHIj9tyBdqyB5vScGYQtlFB8PxFH40C6rHJNCbxoBFwAy21Q=="
+            }
+          ]
+        },
+        {
+          "title": "ECFA簽署16年 陸委會：早收貨品輸中占比創歷史新低",
+          "summary": "陸委會表示，自「海峽兩岸經濟合作架構協議（ECFA）」簽署滿16年以來，2025年ECFA早收貨品輸中出口金額已降至131億美元，占台灣對中國總出口比重由2016年的26.3%降至2025年的13.1%，創ECFA生效後新低。此數據顯示，近年來兩岸經貿已出現結構性改變，台灣對中國的經濟依賴度逐漸降低。",
+          "category": "兩岸關係",
+          "sources": [
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCdEZ7otMv4sD436GFb06SErTR3WRcdpLGhJ_8Ilz4sw5S098kYto3t9iVcQ891epB9NLdXBlY5Qv1BQRgtKg8Z4UtYs0xCU1DPSowFwQ5rojCplqQZ0wSnyTW6BrsqIM2ABhsuZv3nNQzLqHdjA=="
+            }
+          ]
+        },
+        {
+          "title": "台灣東部海域發生規模5.0地震 宜花彰最大震度2級",
+          "summary": "中央氣象署觀測顯示，2026年6月30日凌晨5時15分，台灣東部海域發生芮氏規模5.0的有感地震。震源深度約94.1公里，屬於中層地震，震央位於宜蘭縣政府東北東方約36.4公里處。此次地震造成宜蘭縣、花蓮縣及彰化縣部分地區有輕微搖晃感受，最大震度達2級。",
+          "category": "自然災害",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHEQhVqjpxgjh3MDxP-FUqhuyzoN-BtutmvUjI6NaLsVD5O2d0iehFzNIGyLP9IuCCM0cWzqrLHeAJF5NRIxLKVGYO-Z6NO7KRz-fbkQSu-jSeywzGjO9sX8TTnuFet4o-TKA=="
+            },
+            {
+              "title": "ettoday.net",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfQoHjY5FafP4QMFY-3phErXDymtXcw5zq-rQJ5cdnvmK-3VAohvvQ61iwVFk-bE99YiI-dMEUEtz4GITGtsXLATbq7fhvcQ_mmKDTXQXS8kt5y66r2wCoR90-Gk5atphszQqU4oZAZVwth-g="
+            }
+          ]
+        },
+        {
+          "title": "立法院國民黨團提出2400億元無人機採購條例版本 盼回歸年度預算",
+          "summary": "立法院國民黨團提出無人機條例版本，規劃以年度預算編列六年2400億元用於無人機採購，總額高於行政院版的2100億元。民進黨團對此示警，若改回年度預算可能導致每年重新編審、政治攻防，影響建軍時程和產業發展，並盼國民黨再三思。",
+          "category": "政治國防",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECXWD7It7sqDu7dbrzsxFrnNfZTy0YSFThJ7Qfn_H3xaYW4aRJM07JXkPAMgQGQ711Cif-voxMBbnCyGX3Rc2N1Vyfsg6YDfLRh4sNGhqGM-d9I8Y5aR8JVaKoCOC7NDWv1tVM5byxh2o="
+            },
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIVgi4w2iOVfBsZNoi3RTF-cUkcxEI0Mw-zWL0cQfxMAo2Mj2H3Tp3SIrabZOUZAXC6U9LoM2UgH0L18oGIx9GD2fZZt13Iu2D4wDRxiDGz7QJA8A9V61ao-lw_pA2qmL4tOoNJpbPxc40bOl4UQ=="
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
