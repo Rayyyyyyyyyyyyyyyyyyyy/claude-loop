@@ -1,0 +1,345 @@
+{
+  "date": "2026-07-02",
+  "sections": [
+    {
+      "id": "ai-tech",
+      "title": "AI / 科技",
+      "status": "ok",
+      "items": [
+        {
+          "title": "美國解除Anthropic頂級AI模型出口管制，全球服務分階段恢復",
+          "summary": "美國AI公司Anthropic宣布，其Fable 5和Mythos 5兩款AI模型的出口管制已獲商務部解除。這些模型將從7月1日起分階段向全球用戶恢復服務，標誌著頂級AI技術在全球範圍內的可及性提升。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEggifDHOUKxzeUCUY-uIxTpRZ07iy_OMK1wxBtDGox4B4T_EMpgvDs-qPh2ljzu1dLbArFfTwPROjg9bjjzt7ulHDWmnNy4uDcS9CDvwF-b4Er7hfErffJg2EMX2kh6IZ_8wV9AJIdNswyyXe-CF8ObUDkS7Oruv6JjSvRiuM8n8Btny9CoMvIRvGTtu-ZXS9GOPut6iayVPFHl38BaeVqOmv-kHk-5x4qvalQ5FHBMrIKGSNRLxhSyWem9nKDFnbAGPQAk1hNaheqxtjfrVjaNpU99ph4hSabqYSZw15kVRHy0V7qZIEOlWyaq0fm2MYQ5D_ZAGkuEsbGD9vzxjOw"
+            }
+          ]
+        },
+        {
+          "title": "AI需求引發「晶片結構性通膨」，記憶體價格全面上漲",
+          "summary": "隨著AI模型規模擴大，高頻寬記憶體（HBM）需求激增，導致三星、SK海力士和美光等大廠將產能轉向HBM。這使得傳統DRAM和NAND供給收縮，伺服器DRAM合約價格在2026年第二季季增達50%至55%，進而推升PC、智慧手機等終端市場記憶體價格全面走高，形成「晶片結構性通膨」。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "uanalyze.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7gP1Jd1GPfWOPKOxmxXzM83YiDkxRJT6oiWoAkTKjSgzv7FiJje7prJ5mlnaJz739gP1Qvm4gCpmBGjwj_CbO_uPW-ANPFcKbyNip_kVNvLDnZN_B_AOXcqZFOBnjpCnAFH-0rzA="
+            }
+          ]
+        },
+        {
+          "title": "三星重啟1.4奈米製程研發，目標2029年量產迎戰台積電與英特爾",
+          "summary": "三星電子正重新啟動1.4奈米製程（SF1.4）開發計畫，預計於2029年進入量產，以在下一世代晶圓代工競爭中迎戰台積電的A14和英特爾的14A製程。此舉顯示三星在先進製程領域的積極布局，將率先導入High-NA EUV曝光設備以提升製造精度。",
+          "category": "半導體",
+          "sources": [
+            {
+              "title": "technice.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGuNEw6sbAV7mVy5oRdyXcjdDlJtcDWI5iWYVQdbKnHEhBSzD9VfgkzdsY5q2KBs0FYX1nDSLO42ZMUr6RGUX8_cezd1oE383lRZMhut3imOkUaE9eoS-xrs_PkoWzskg7zlxxypsgl85hrnBC5"
+            }
+          ]
+        },
+        {
+          "title": "SEMICON Taiwan 2026聚焦智慧製造與先進封裝，定調半導體下個十年",
+          "summary": "SEMI國際半導體產業協會揭示SEMICON Taiwan 2026展會十五大關鍵議題，其中智慧製造與先進封裝成為最大焦點。在AI的驅動下，半導體製造正朝向智造升級，並從製程微縮走向系統整合，台灣在先進製程的優勢將加速延伸至這些新興戰場。",
+          "category": "科技產業",
+          "sources": [
+            {
+              "title": "storm.mg",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAzrg2lOttZhfAvCWKiqxpPfaustLi9aIocP2H0_EdEomZIacf76J9Qen6nTovGmv4dez4XDCep06fz-Z3qG-MdX2OtLgbBRo2R_kaZT2PqS-0w1OMSWfVBW9WUJ8-Y1I="
+            }
+          ]
+        },
+        {
+          "title": "日本政府設新目標：2040年前導入1000萬台AI機器人以應對缺工",
+          "summary": "為緩解日益嚴重的勞動力短缺問題，日本經濟產業省提出新目標，計劃在2040年結束前於製造業、醫療等18個領域合計導入1,000萬台AI機器人。日本政府目標在全球AI機器人市場取得逾三成市佔率，並推動實體AI和機器人數據平台的發展。",
+          "category": "人工智慧",
+          "sources": [
+            {
+              "title": "technews.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZc_3bBq_RMPNP3vgqAVn0LA0PXYTEiDUCi6uarpdT_8pucqYlMx0fD51ieDXs7g_gpNiA5Mu5Rial7ZvnNLPIPvIRksejcgZDWkcxBBv3Pxkxq2u32pvliOKRKKUSWI9Owah_e_ugHLkWcdxBmILxcR9ojYSn8A4Xu8Z4wNlEVWoo0M4YaHLKknHVoQ=="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "general",
+      "title": "綜合新聞",
+      "status": "ok",
+      "items": [
+        {
+          "title": "美伊無核化談判傳樂觀進展，國際油價暴跌",
+          "summary": "美國總統川普表示與伊朗的無核化談判進展順利，並暗示雙方正全力避免走向全面戰爭。受此和平曙光激勵，國際油價應聲暴跌，西德克薩斯中質原油（WTI）跌破每桶69美元，創下自2月美伊衝突爆發以來的最低水平。美國實體經濟對原油需求仍堅挺，一定程度上為油價止跌。",
+          "category": "國際情勢、經濟",
+          "sources": [
+            {
+              "title": "ntdtv.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvYzvUZ1f6TnJmXgwV46Isrx9Pm6hutLU__ifMwAJjFIg6XmObogfYUGR9_5QlZQj6YJdZMf0ctx3uiNG_wmW2wulvGVY_I_P_Eiu80Rh9Z0a0GhHHpN9g4M1QIdfHzlD5KzUO2sDn6orPbCpwSg=="
+            },
+            {
+              "title": "epochtimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXovGxvZQwSk7HeJUg69jFkpiCHk0UQFw8LM3u47tgmnYGbKYLAPMwg4ErC9bi6LNQl2MIMEl37ptYF60PkrLuMjucD69CmGHSZEm6qOvqrZ5984swaX7jK-ELI1BIx5LciRIgvVPZ19tuK01-"
+            },
+            {
+              "title": "voachinese.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHRk9CQ-XmlgKxJWwxevAbosqxaqnDI2E99vNKKKkdJdVJ3iOPTgJo6Ngj5hOcSgIL0PeH1jGnUSBaTBeJB7KRk9MY4zBbD8mijDZ6RRJbTEAz-_l7IeSQMtLaKcwvhInMtn1kH"
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGksHwFc9U9SJ8cdrB6l53Mvc1awRLq488oX_xM9JyMnpnlpOB7tnW3awm_N-IV8Z0csRpjxYph2BXvmqgcjLjyEoEnEtggWQ4rZ-ztC8OXWDtdf_Ca3qyOHjI1cgx_Z_XXgtqSBbI_9D0iTEPsl32bOnnb90C8Eq8QANShYmFF7CfoMVbmCg=="
+            },
+            {
+              "title": "sina.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGOZviJkmav4pU-wI8jL-1rvf2d1MKPi09ZpBg364nwYvjr99No3Kj6HafHG4NIMVQfZ3C1qVRdJP5F2frO4PTeE59EKQwXaA1gi9UFcSKzuohuRNxqoC1GMV5S5WHovPQt19QkHIWf7IB9KvrodE-PYJ1G7pXVAuwd320-JxlO8ZwM-CMHwkuIoy-68l27Fpg0nQM6utU="
+            }
+          ]
+        },
+        {
+          "title": "美國決定不續簽北美貿易協定，改採年度審查機制",
+          "summary": "美國貿易代表宣布，美國決定不續簽與加拿大和墨西哥的北美貿易協定（USMCA），轉而實施年度審查機制。該協定原定於2036年到期，此舉標誌著北美貿易關係進入新的不確定階段。此決策可能加劇汽車、農業及能源領域的長期投資難度，並提升北美供應鏈的成本管理複雜性。",
+          "category": "國際政治、經濟",
+          "sources": [
+            {
+              "title": "theheadline.jp",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHovZEmqdaPSARhaRASgwkvIPmJYP3RK4z7xDe2eZdot_TBJlcpFY5QLlPoZonoOuBdKWQD-BBelxf-uQr3nkh5NKVJR_8i9GqCWYQZhMC79PxUFTF8PCxFscDGqmBnjzlmjap7MK8Pd29U3ZXoBeyUl2leXg=="
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGksHwFc9U9SJ8cdrB6l53Mvc1awRLq488oX_xM9JyMnpnlpOB7tnW3awm_N-IV8Z0csRpjxYph2BXvmqgcjLjyEoEnEtggWQ4rZ-ztC8OXWDtdf_Ca3qyOHjI1cgx_Z_XXgtqSBbI_9D0iTEPsl32bOnnb90C8Eq8QANShYmFF7CfoMVbmCg=="
+            }
+          ]
+        },
+        {
+          "title": "俄羅斯燃油短缺席捲全國，普京面臨政治危機",
+          "summary": "俄羅斯各地爆發燃料短缺，總統普京面臨新的政治挑戰。烏克蘭持續針對俄羅斯煉油廠發動無人機襲擊，使得大多數俄羅斯民眾切身感受到戰爭的逼近，可能促使政府採取進口汽油及禁止柴油出口等緊急措施。",
+          "category": "國際政治、社會",
+          "sources": [
+            {
+              "title": "theinitium.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcC7K0LrqlJov19f0jUNmp_wq6lFaID-G5GirekekDyrG0jr61mBGC28p9a4MWp0BLZmuW7QJhQTIJw55yfDNyfgLGY10O-mzsT1mPkSfBIsuErGnXRNmsPOhz3MPkqllJZ-zO0qc5M5KeNmTSF2LvIxwHcC0ZsUOytjmP_D0HMq4QE-aNd7ItRlT3"
+            }
+          ]
+        },
+        {
+          "title": "墨西哥世界盃慶祝活動發生群眾踩踏，導致4人死亡",
+          "summary": "在墨西哥隊贏得世界盃比賽後，首都墨西哥城中心湧入大批球迷慶祝，導致部分地區出現嚴重擁擠。現場發生群眾踩踏事件，造成3名成年人窒息死亡，另有一名男性因痙攣送醫後心肺停止不治。當局正調查事件並呼籲民眾在未來慶祝活動中注意安全。",
+          "category": "國際社會",
+          "sources": [
+            {
+              "title": "fnn.jp",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFWYSi2eFxcSl5xOY09CrRuimSogFA6NKBdYtVSLtN7BISTCRr_jEd9Qcg0qfjQ9fmrSGoGMckn90fcFBe4ljKFhUhPs3FcNS9cdEmGa0-LBRq6jdPGkGoh6wqLC1hkHg="
+            }
+          ]
+        },
+        {
+          "title": "習近平祝賀哥倫比亞新總統當選，強調深化戰略夥伴關係",
+          "summary": "中國國家主席習近平致電德拉埃斯普列亞，祝賀他當選哥倫比亞共和國總統。習近平指出，中哥兩國是戰略夥伴，建交46年來關係保持良好發展勢頭。他強調兩國政治互信持續鞏固，高質量共建「一帶一路」合作不斷取得新進展，願共同努力深化各領域交流合作。",
+          "category": "國際政治、外交",
+          "sources": [
+            {
+              "title": "people.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7RBDGXYAAvl0RmSBVOSX4sfHtBwbZ_4zMvrnqs5N8vpyaaEWdTHNvuJ5N1TgwSKmV17ssLojoBu58cVQdHt5W-F_GRMdkSrXX3CgffbClPgB3JV_zn3RDtpcwGY71MtT8mhxPlHiCyqOH8AMj40wD69IJrUm6Fer5Vx7v4Oc="
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance",
+      "title": "財經 / 投資",
+      "status": "ok",
+      "items": [
+        {
+          "title": "聯準會主席沃什稱通膨風險已降，對升息不給前瞻指引",
+          "summary": "聯準會主席沃什在歐洲央行論壇上表示，過去四週通膨風險已降低，且聯準會將開創新政策路徑，不會對未來利率政策提供前瞻指引。此番言論影響美元指數小幅上漲，美債收益率下跌，全球股市受此消息影響趨穩。",
+          "category": "總體經濟/貨幣政策",
+          "sources": [
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiiqOe4x4ebmhBxZqpX8FS67Pao8byxlasGk3QRVdW0GRehA180jW-9Nxy8m9m8QE_5Fd8gVifzS68M0mk2qTvcsF4s2KFvJq9Xlpfo756zdqq8HMepJtdAWrkGreD"
+            },
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-lmNdbWQyLSsUdyb6N7CBWCkxuKrfLWU4Lob9ZCnid4Y-c_sdzKa2P3r-M1Hn6XNXLUBvr_wadCuY1jUbXocnwHLj7fqP4oxyv7PBisxNix9ck0CacdP-SVbGKit7ZiBs1t_OpP4wILN4SCq--HQlg03-zs6iTTB7XjlDPdta24ZCwPgVue1cE3jpc1yL8GWO3epoTC-Ep6vwQ1veuIO5VJUH-O-rq33b2cfAE7BI0F0P0qr2Q6iVdgfCm3pVQiq6xIwq4cHLh8LDVU2GzkIqqMnu5xrx3JK3fTwp9FJuaM41hK-e-Bx_u6HpX7y4qpjrx92GiTQR0g5WFxsmvBplYJ_keZ_IatF8m3zzu8Sf5YU="
+            },
+            {
+              "title": "jin10.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqVrnKzZ-HmH4_QNR1biBp9OslXyE8nofGvb6t3yEZoyM--Bz93aCF8haWDNUv0adm-FYgrkzO6YA1TyV7vda_pYz_hODbdEfmJMJyiCOLLa9_2Lts6eWCfCwuDs6o_cld"
+            },
+            {
+              "title": "sina.com.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxjT_9S4n7oIK5I4eOJxJKupZeub4cyBBTcYS1sjqtQ0uq58_zRj46TKIUA_ql87Ym_UqFXKblbMCAgbxbUgtV4cT4lkRHoh3S0Su0JY0GbLLIEwxT7q-aUU_X2Bt1S66DUb9WtX2fNcH_0RWwv8VCCGX6aMxdBd--JExJ4XCDKzfjN1q41Q=="
+            },
+            {
+              "title": "sina.cn",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCll4NJkGgyCL4DvlDTAXbJQJcAOgSE-rFjcoRT7j1jYeIVV-WG-gMUnGqOMGy8JfCHq9yf_EM4-lTZA26RzNgid5bt7eFKVH0L1UPKuTuomt7BKP4sqriRI4mT7AI8g7jpY5-MEO6BQzXwceEKDyjlYC9QSd7qmrfVg0sjOta-qqIQZ-ESgTvF1IJtH2PLdaM5W0kjha9iw=="
+            },
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLyUn9otrBJYC1dRDHCmTAYJ09cJSiUlXemOE_ZHWdh9DemkXtjb08d_HNha2I6uJ30cl9EZvXZtQse7BakV_l2Ro0bSQkWfg4JF969Yauueqa3dx-eEr5Dda0tjCWAbUxW5f5-C_vYz8Y_uIv-VG7XiIxkT7X7PVtEyKH9nSFIfpKr_x5P7jvG9aGmuaeXCvJ5xh9qKreYlouROCQ4PgRYZ3DKllaQJ97Bp0F9uDS-0SIXDJ-osZo1YeSmzhDT8UzlC__vQoxVgNgstmkYnikDpg1dlGhKg9XFXZP7TBvOdetuu6d8JFllTrQPu5e3lgd0Q-ZmT8uKg=="
+            }
+          ]
+        },
+        {
+          "title": "Meta擬進軍AI雲端服務市場，挑戰AWS與Azure",
+          "summary": "社群媒體巨擘Meta Platforms傳出正規劃對外出租其龐大的人工智慧算力及模型服務，藉此將AI基礎設施轉化為新的營收來源。此舉將使其直接與亞馬遜AWS、微軟Azure及Google Cloud等雲端龍頭展開正面競爭。",
+          "category": "產業/科技",
+          "sources": [
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiiqOe4x4ebmhBxZqpX8FS67Pao8byxlasGk3QRVdW0GRehA180jW-9Nxy8m9m8QE_5Fd8gVifzS68M0mk2qTvcsF4s2KFvJq9Xlpfo756zdqq8HMepJtdAWrkGreD"
+            },
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-lmNdbWQyLSsUdyb6N7CBWCkxuKrfLWU4Lob9ZCnid4Y-c_sdzKa2P3r-M1Hn6XNXLUBvr_wadCuY1jUbXocnwHLj7fqP4oxyv7PBisxNix9ck0CacdP-SVbGKit7ZiBs1t_OpP4wILN4SCq--HQlg03-zs6iTTB7XjlDPdta24ZCwPgVue1cE3jpc1yL8GWO3epoTC-Ep6vwQ1veuIO5VJUH-O-rq33b2cfAE7BI0F0P0qr2Q6iVdgfCm3pVQiq6xIwq4cHLh8LDVU2GzkIqqMnu5xrx3JK3fTwp9FJuaM41hK-e-Bx_u6HpX7y4qpjrx92GiTQR0g5WFxsmvBplYJ_keZ_IatF8m3zzu8Sf5YU="
+            },
+            {
+              "title": "jin10.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqVrnKzZ-HmH4_QNR1biBp9OslXyE8nofGvb6t3yEZoyM--Bz93aCF8haWDNUv0adm-FYgrkzO6YA1TyV7vda_pYz_hODbdEfmJMJyiCOLLa9_2Lts6eWCfCwuDs6o_cld"
+            },
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLyUn9otrBJYC1dRDHCmTAYJ09cJSiUlXemOE_ZHWdh9DemkXtjb08d_HNha2I6uJ30cl9EZvXZtQse7BakV_l2Ro0bSQkWfg4JF969Yauueqa3dx-eEr5Dda0tjCWAbUxW5f5-C_vYz8Y_uIv-VG7XiIxkT7X7PVtEyKH9nSFIfpKr_x5P7jvG9aGmuaeXCvJ5xh9qKreYlouROCQ4PgRYZ3DKllaQJ97Bp0F9uDS-0SIXDJ-osZo1YeSmzhDT8UzlC__vQoxVgNgstmkYnikDpg1dlGhKg9XFXZP7TBvOdetuu6d8JFllTrQPu5e3lgd0Q-ZmT8uKg=="
+            }
+          ]
+        },
+        {
+          "title": "川普稱台積電亞利桑那廠將擴建一倍，助美晶片市占達50%",
+          "summary": "美國前總統川普表示，台灣在亞利桑那州興建中的晶片廠規模將擴大一倍，目標是在他卸任前讓美國晶片市占率達到約50%。此舉顯示台積電在美國的投資持續加碼，對全球半導體供應鏈及美國晶片自主化具重要意義。",
+          "category": "產業/地緣政治",
+          "sources": [
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiiqOe4x4ebmhBxZqpX8FS67Pao8byxlasGk3QRVdW0GRehA180jW-9Nxy8m9m8QE_5Fd8gVifzS68M0mk2qTvcsF4s2KFvJq9Xlpfo756zdqq8HMepJtdAWrkGreD"
+            },
+            {
+              "title": "rti.org.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEp0WyiY8PA5OWM429VR01lKbHKFEopoZZecTV--hLBa1hTDEITHp1Z7tRL46kUQRXruy21HQoUOFxhSY29D-4OwWCJ8Qxd5yCKWhFq-2GjUB9VAvWppuRTMYlXoTdm4pu_COlbXTZ"
+            }
+          ]
+        },
+        {
+          "title": "台股加權指數連三漲，權重股台積電帶動；多檔ETF成分股調整",
+          "summary": "台灣加權指數連續三日上漲，主要受權重股台積電大漲3.94%帶動，表現領先亞太區市場。此外，台灣指數公司也公布多檔ETF成分股調整結果，包括千億規模的00918及00915等，將於今日盤後或明日開盤前生效。",
+          "category": "股市/台灣",
+          "sources": [
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-lmNdbWQyLSsUdyb6N7CBWCkxuKrfLWU4Lob9ZCnid4Y-c_sdzKa2P3r-M1Hn6XNXLUBvr_wadCuY1jUbXocnwHLj7fqP4oxyv7PBisxNix9ck0CacdP-SVbGKit7ZiBs1t_OpP4wILN4SCq--HQlg03-zs6iTTB7XjlDPdta24ZCwPgVue1cE3jpc1yL8GWO3epoTC-Ep6vwQ1veuIO5VJUH-O-rq33b2cfAE7BI0F0P0qr2Q6iVdgfCm3pVQiq6xIwq4cHLh8LDVU2GzkIqqMnu5xrx3JK3fTwp9FJuaM41hK-e-Bx_u6HpX7y4qpjrx92GiTQR0g5WFxsmvBplYJ_keZ_IatF8m3zzu8Sf5YU="
+            },
+            {
+              "title": "knews.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYROWXthQ7cskPw3kZtEuHnIdCNdLUw7mCg7O27UMtIa5EIqfptKUh78oYKJSpowE_x9DDG8V76FGXimkYRjxjmSm5ie5CQNw_8aFNl22Smbw73PpYqOywG_xLRbfAKqedcIo1DaBkl5S51dV3fb0SelB-2Pftl6ib"
+            },
+            {
+              "title": "chinatimes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFy9G-87D_nOJQijorB1SFc31Wet5mdgJCDH3-IPugrQ4LYFTHtbgJwaaqyX_m-pMUGRLzEOAnqHW3m8-7HELcHqkKDWMmdjEJ39-5Jn5Wz5w2zSmQ0HTP5c0Rr11bUDa3SiATPv3ueLomT2CWihmLuCercIx0="
+            },
+            {
+              "title": "mingpao.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLyUn9otrBJYC1dRDHCmTAYJ09cJSiUlXemOE_ZHWdh9DemkXtjb08d_HNha2I6uJ30cl9EZvXZtQse7BakV_l2Ro0bSQkWfg4JF969Yauueqa3dx-eEr5Dda0tjCWAbUxW5f5-C_vYz8Y_uIv-VG7XiIxkT7X7PVtEyKH9nSFIfpKr_x5P7jvG9aGmuaeXCvJ5xh9qKreYlouROCQ4PgRYZ3DKllaQJ97Bp0F9uDS-0SIXDJ-osZo1YeSmzhDT8UzlC__vQoxVgNgstmkYnikDpg1dlGhKg9XFXZP7TBvOdetuu6d8JFllTrQPu5e3lgd0Q-ZmT8uKg=="
+            }
+          ]
+        },
+        {
+          "title": "美股科技股面臨賣壓，美光重挫逾10%，AI算力概念股回落",
+          "summary": "儘管記憶體晶片價格持續上漲，美光科技股價週三重挫逾10%，並帶動其他記憶體和AI晶片股普遍下跌。市場開始出現對AI算力是否過剩的擔憂，科技股的獲利了結壓力顯現。",
+          "category": "股市/全球",
+          "sources": [
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiiqOe4x4ebmhBxZqpX8FS67Pao8byxlasGk3QRVdW0GRehA180jW-9Nxy8m9m8QE_5Fd8gVifzS68M0mk2qTvcsF4s2KFvJq9Xlpfo756zdqq8HMepJtdAWrkGreD"
+            },
+            {
+              "title": "jin10.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqVrnKzZ-HmH4_QNR1biBp9OslXyE8nofGvb6t3yEZoyM--Bz93aCF8haWDNUv0adm-FYgrkzO6YA1TyV7vda_pYz_hODbdEfmJMJyiCOLLa9_2Lts6eWCfCwuDs6o_cld"
+            },
+            {
+              "title": "wallstreetcn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPfvSJL-kuFO3F9YSfSW6H7cnnrTCiQepmPwwbx2OU7mz19wEgMNqfdkM-z6QC51J2YHSrbTcn18dZml3fd7AgwIrZqjQqxF14JOIx0xFYOhubkpov6-Kfl2tC_M09DN8ajHhU"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "taiwan",
+      "title": "台灣在地",
+      "status": "ok",
+      "items": [
+        {
+          "title": "專家預警雙颱恐將接近台灣，巴威、梅莎颱風形成機率高",
+          "summary": "氣象專家指出，目前太平洋地區有兩個熱帶性低氣壓TD09及TD10，皆有發展為輕度颱風的趨勢。隨著太平洋高壓勢力增強並西伸，預估其中之一（TD10，可能為颱風「巴威」）將會更接近台灣，提醒民眾持續關注颱風路徑變化與最新預報資訊。",
+          "category": "天氣災害",
+          "sources": [
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3IeGR8jaLqXuHsSNfMyJ-PR_sW8wSKQDWzaTaki7Wr7UhOn2rwLmafxL4krB3woZeJi5VwGOQKB_CKsuH_fDB2wzgW-bObCoTZJ2hpE5DAlsXOUmqAvMwKNAGLypR1e4-qA=="
+            },
+            {
+              "title": "udn.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF5V5M8RkkeenXMVVsLoOvvc1IsfJKFocice6c_pXL-wod174u-72fxjutgJVReCeJjrIvTfKzU48Kvt8YW6ywhyOGnRbj_rDkbCR_ahsR-k3dohhC6N0nX4Ezetqn38vRy2Q=="
+            }
+          ]
+        },
+        {
+          "title": "中國「民族團結法」生效 總統府提出5大反制措施",
+          "summary": "中國「民族團結進步促進法」於7月1日上路，總統賴清德強調此為跨境鎮壓的「惡法」。台灣執政團隊將密切關注，並盤點反制措施，包括強化全民識讀、公務員教育訓練、建立預防與反制機制，以及積極與國際友盟國家合作，以反對「紅色恐怖」與統戰滲透。",
+          "category": "兩岸關係",
+          "sources": [
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9yZ79mxkGi8mF8p-4NyJ3rVvppeNKFm4t_RpvQVyMAhsp9kJQG5VrOMB4GlXarDGw6YvxtK32DtfIqufOP81f3crV2JZt13pVV5IfmAvTGdU0lLedFiWcSA-pbcLEHktjuqKgNZBs7lVtkROcKS6CnA=="
+            },
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiawCSfIzOpS8oFAq3fNfdJR3xeWpaL6o9Jya9MgNeSVc7NPFYMz-MH-I53qyuz5zFKj_DtOHD51DTtEW7g4eNV2xdrved8KZb4lP1ucszBKceuzC7vzhzf5NgVSdMnawIqds8XWt16PV3tPa_"
+            }
+          ]
+        },
+        {
+          "title": "三大品牌沙拉油原料苯駢芘超標 1300噸問題油品恐已流出",
+          "summary": "食藥署接獲中聯油脂通報，供應泰山、福壽及福懋等三大品牌的約1300公噸大豆沙拉油原料，自主檢出致癌物「苯駢芘」含量超標。問題油品已於4月出貨，目前已啟動下架回收作業，呼籲民眾若持有受影響產品應暫停食用並辦理退貨。",
+          "category": "食品安全",
+          "sources": [
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9yZ79mxkGi8mF8p-4NyJ3rVvppeNKFm4t_RpvQVyMAhsp9kJQG5VrOMB4GlXarDGw6YvxtK32DtfIqufOP81f3crV2JZt13pVV5IfmAvTGdU0lLedFiWcSA-pbcLEHktjuqKgNZBs7lVtkROcKS6CnA=="
+            },
+            {
+              "title": "cna.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHiawCSfIzOpS8oFAq3fNfdJR3xeWpaL6o9Jya9MgNeSVc7NPFYMz-MH-I53qyuz5zFKj_DtOHD51DTtEW7g4eNV2xdrved8KZb4lP1ucszBKceuzC7vzhzf5NgVSdMnawIqds8XWt16PV3tPa_"
+            }
+          ]
+        },
+        {
+          "title": "台灣重申中國海警在台海域無管轄權，台船不必理會登檢要求",
+          "summary": "針對中國海警船在台灣周邊海域的巡弋行動，台灣官員於7月1日表示，中國在台灣東部海域沒有管轄權，台灣船隻無須理會中國海警的登船檢查要求。台灣海巡署將依中國船隻屬性進行不同處理，並在必要時介入，捍衛台灣主權及海上秩序。",
+          "category": "國家安全",
+          "sources": [
+            {
+              "title": "voachinese.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaLeiQm8fDm3wu35h1AQ8x-omQiYNcX8-qtkMqcWVlbKaBHxIRgbsb48sl2aX6ICbWjPm2CkPW0zn80jEhFicL1LP_FgFhpZ3IjD8F5a2KzFGzv8lG_RroTesi_0-3iGYBe1-g2PGVCwqqb6n31J5-h4JJcAUl8MajSq6ka-yuESMeNLMDM1Afm_jSPell-fDOX10rcAUSivVwYpQd3lH5EeLcM2j_m8PiQ6lRzVQ3tmhdCHNr2XPn3rs="
+            }
+          ]
+        },
+        {
+          "title": "勞動基金前5月大賺2.1兆元，新制勞退分紅平均突破11萬元",
+          "summary": "勞動部公布最新勞動基金績效，今年前五個月大賺2兆1252億元，收益率高達27.7%。其中，攸關廣大勞工的新制勞退基金帳面收益達1.4兆元，以1292萬個有效帳戶計算，平均每位勞工帳面分紅首次突破六位數，達到11.26萬元新高。",
+          "category": "財經民生",
+          "sources": [
+            {
+              "title": "ltn.com.tw",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9yZ79mxkGi8mF8p-4NyJ3rVvppeNKFm4t_RpvQVyMAhsp9kJQG5VrOMB4GlXarDGw6YvxtK32DtfIqufOP81f3crV2JZt13pVV5IfmAvTGdU0lLedFiWcSA-pbcLEHktjuqKgNZBs7lVtkROcKS6CnA=="
+            },
+            {
+              "title": "cnyes.com",
+              "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHiS5yxjyw-Jd2SwzqI4fJ2NBZNIo1z6LO8thY32zvVK5lBsigcs4_VSGWvpWsvBaDkUVAvt9oLofgiuzmKmrOv9R8GlCBfiaeO_H2420G1NxxfXNFEyrj3ZXwSDkOx2OG"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
